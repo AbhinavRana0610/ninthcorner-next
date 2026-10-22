@@ -1,0 +1,289 @@
+{
+  "_about": "Keyword-density edits for the Delhi service pages (target: exact keyword + variations at about 1.1-1.3%, spread through the page). Applied by scripts/apply-keyword-edits.mjs. Each edit replaces one existing sentence fragment; wording differs from the Gurgaon edits on purpose so the city pages do not converge.",
+  "services-Salon-interior-designer": [
+    [
+      "We believe a successful salon design balances",
+      "As a salon interior designer, we believe a successful salon design balances"
+    ],
+    [
+      "For businesses seeking <b>professional salon interior design in Delhi</b>, a thoughtful plan",
+      "For businesses seeking a <b>professional salon interior designer in Delhi</b>, a thoughtful plan"
+    ],
+    [
+      "Themed and luxury salons use interior architecture to establish",
+      "With the help of a salon interior designer, themed and luxury salons use interior architecture to establish"
+    ],
+    [
+      "Outstanding salon architecture unites operational speed",
+      "A good salon interior designer unites operational speed"
+    ],
+    [
+      "Salon interior design in Delhi must seamlessly integrate",
+      "A salon interior designer in Delhi must seamlessly integrate"
+    ],
+    [
+      "We design commercial salons, boutique beauty parlours,",
+      "As a salon interior designer in Delhi, we design commercial salons, boutique beauty parlours,"
+    ],
+    [
+      "<a href=\"https://www.ninthcorner.in/\">Ninth Corner</a> specializes in creating salons with an interior design",
+      "As a salon interior designer, <a href=\"https://www.ninthcorner.in/\">Ninth Corner</a> specializes in creating salons with an interior design"
+    ]
+  ],
+  "services-architecture-services": [
+    [
+      "Our focus in Delhi is on achieving a harmonious balance",
+      "Our architecture services in Delhi focus on achieving a harmonious balance"
+    ],
+    [
+      "Our architecture integrates fundamental principles of responsible",
+      "Our architecture services integrate fundamental principles of responsible"
+    ],
+    [
+      "or retail space, every detail is considered to craft functional, timeless architecture.",
+      "or retail space, our architecture services consider every detail to craft functional, timeless architecture."
+    ]
+  ],
+  "services-best-interior-designers": [
+    [
+      "Working with experienced interior designers in Delhi ensures",
+      "Working with the best interior designers in Delhi ensures"
+    ],
+    [
+      "A home should be a comfortable place where families can relax",
+      "The best interior designers know that a home should be a comfortable place where families can relax"
+    ],
+    [
+      "A well-planned commercial interior can create a positive impression",
+      "A well-planned commercial interior by the best interior designers can create a positive impression"
+    ],
+    [
+      "A clear process helps keep the project organized and ensures",
+      "The best interior designers follow a clear process that keeps the project organized and ensures"
+    ],
+    [
+      "Selecting the right interior design team can make the planning",
+      "Selecting the best interior designers in Delhi can make the planning"
+    ],
+    [
+      "A good interior is one that looks appealing, feels comfortable, and supports daily activities with ease.",
+      "The best interior designers create interiors that look appealing, feel comfortable, and support daily activities with ease."
+    ]
+  ],
+  "services-best-salon-interior-designer": [
+    [
+      "The salon journey begins at the entrance reception,",
+      "For the best salon interior designer, the salon journey begins at the entrance reception,"
+    ],
+    [
+      "For businesses seeking <b>professional salon interior design in Delhi</b>, a thoughtful plan",
+      "For businesses seeking the <b>best salon interior designer in Delhi</b>, a thoughtful plan"
+    ],
+    [
+      "Commercial salons need a streamlined layout that supports",
+      "Commercial salons need the best salon interior designer to plan a streamlined layout that supports"
+    ],
+    [
+      "Outstanding salon architecture unites operational speed",
+      "The best salon interior designer unites operational speed"
+    ],
+    [
+      "Choosing the right design team makes the salon planning",
+      "Choosing the best salon interior designer in Delhi makes the salon planning"
+    ],
+    [
+      "Proper planning improves stylist workflow,",
+      "Planning by the best salon interior designer improves stylist workflow,"
+    ],
+    [
+      "<a href=\"https://www.ninthcorner.in/\">Ninth Corner</a> specializes in creating salons with an interior design",
+      "<a href=\"https://www.ninthcorner.in/\">Ninth Corner</a> aims to be the best salon interior designer you can choose, creating salons with an interior design"
+    ]
+  ],
+  "services-farmhouse-interior-designer": [
+    [
+      "A farmhouse interior is not the same as that of any other home.",
+      "A farmhouse interior designer knows that a farmhouse interior is not the same as that of any other home."
+    ],
+    [
+      "It is planned with spacious, comfortable furnishings,",
+      "A farmhouse interior designer plans it with spacious, comfortable furnishings,"
+    ],
+    [
+      "The farmhouse kitchen is designed for efficiency and convenience,",
+      "As a farmhouse interior designer in Delhi, we design the farmhouse kitchen for efficiency and convenience,"
+    ],
+    [
+      "Farmhouses typically offer generous space, making strategic spatial zoning essential so that",
+      "Farmhouses typically offer generous space, so a farmhouse interior designer makes strategic spatial zoning a priority so that"
+    ],
+    [
+      "A farmhouse project involves diverse elements requiring cohesive coordination:",
+      "A farmhouse project involves diverse elements that a farmhouse interior designer must coordinate cohesively:"
+    ],
+    [
+      "We focus on creating farmhouse interiors that are comfortable,",
+      "As a farmhouse interior designer in Delhi, we focus on creating farmhouse interiors that are comfortable,"
+    ],
+    [
+      "<a href=\"https://www.ninthcorner.in/\">Ninth Corner</a> aims to create a warm feel",
+      "<a href=\"https://www.ninthcorner.in/\">Ninth Corner</a>, a farmhouse interior designer in Delhi, aims to create a warm feel"
+    ]
+  ],
+  "services-interior-architect-for-showroom-design": [
+    [
+      "We analyze the products to be sold,",
+      "As a showroom interior architect, we analyze the products to be sold,"
+    ],
+    [
+      "We believe the idea of a good showroom should be easy to understand and simple to use.",
+      "As a showroom interior architect in Delhi, we believe a good showroom should be easy to understand and simple to use."
+    ],
+    [
+      "We plan display units and shelves according to",
+      "A showroom interior architect plans display units and shelves according to"
+    ],
+    [
+      "The color tones of paint, wall finishes, furniture, signage, and exhibition stands are coordinated following brand guidelines.",
+      "An interior architect for showroom design coordinates the color tones of paint, wall finishes, furniture, signage, and exhibition stands following brand guidelines."
+    ],
+    [
+      "The right architectural layout maximizes usable floor space",
+      "The right layout from a showroom interior architect maximizes usable floor space"
+    ],
+    [
+      "Showroom design includes far more than floor layout. We provide comprehensive support",
+      "Showroom design includes far more than floor layout. As your interior architect for showroom design in Delhi, we provide comprehensive support"
+    ],
+    [
+      "We focus on creating showrooms that look attractive",
+      "As a showroom interior architect, we focus on creating showrooms that look attractive"
+    ],
+    [
+      "<a href=\"https://www.ninthcorner.in/\">Ninth Corner</a> focuses on creating practical and attractive designs",
+      "<a href=\"https://www.ninthcorner.in/\">Ninth Corner</a>, an interior architect for showroom design in Delhi, focuses on creating practical and attractive designs"
+    ]
+  ],
+  "services-interior-design-services": [
+    [
+      "We offer residential design services for apartment houses,",
+      "We offer residential interior design services for apartment houses,"
+    ],
+    [
+      "Good space planning makes maximum use of each area.",
+      "Good space planning, a core part of our interior design services, makes maximum use of each area."
+    ]
+  ],
+  "services-interior-designer-for-office": [
+    [
+      "We believe office design should support productivity,",
+      "As an interior designer for office spaces, we believe office design should support productivity,"
+    ],
+    [
+      "We customize our designs of commercial and corporate offices based on their specific",
+      "An interior designer for office interiors customizes the design of commercial and corporate offices based on their specific"
+    ],
+    [
+      "The design of client reception zones, meeting rooms, and executive boardrooms is critical to leaving",
+      "An experienced interior designer for offices treats client reception zones, meeting rooms, and executive boardrooms as critical to leaving"
+    ],
+    [
+      "High-performance workplace design incorporates vital ergonomic",
+      "A good interior designer for office workplaces incorporates vital ergonomic"
+    ],
+    [
+      "When designing an office, you must carefully select a team that balances",
+      "When choosing an interior designer for office in Delhi, you must carefully select a team that balances"
+    ],
+    [
+      "We can design corporate offices, co-working spaces,",
+      "As an interior designer for office projects, we can design corporate offices, co-working spaces,"
+    ],
+    [
+      "Proper space planning helps use the available area effectively.",
+      "Proper space planning by an interior designer for office layouts helps use the available area effectively."
+    ],
+    [
+      "<a href=\"https://www.ninthcorner.in/\">Ninth Corner</a> assists in creating an office environment",
+      "As an interior designer for offices in Delhi, <a href=\"https://www.ninthcorner.in/\">Ninth Corner</a> assists in creating an office environment"
+    ]
+  ],
+  "services-luxury-home-interior-designs": [
+    [
+      "We begin by understanding client preferences,",
+      "For luxury home interior design, we begin by understanding client preferences,"
+    ],
+    [
+      "Each room is designed with respect to furniture scale,",
+      "In our luxury home interior designs, each room is designed with respect to furniture scale,"
+    ],
+    [
+      "Bedrooms and private suites require delicate detailing.",
+      "In luxury home interior design, bedrooms and private suites require delicate detailing."
+    ],
+    [
+      "defines the character of luxury interiors.",
+      "defines the character of luxury home interior designs in Delhi."
+    ],
+    [
+      "We incorporate home automation for intuitive control",
+      "Modern luxury home interior designs incorporate home automation for intuitive control"
+    ],
+    [
+      "<a href=\"https://www.ninthcorner.in/\">Ninth Corner</a> designs homes that complement individual lifestyles",
+      "<a href=\"https://www.ninthcorner.in/\">Ninth Corner</a> creates luxury home interior designs in Delhi that complement individual lifestyles"
+    ]
+  ],
+  "services-residential-interior-design": [
+    [
+      "We believe in designing homes that are simultaneously beautiful and easy to live in.",
+      "Our residential interior design focuses on homes that are simultaneously beautiful and easy to live in."
+    ],
+    [
+      "Every house represents a unique design journey.",
+      "Residential interior design in Delhi is a unique design journey for every house."
+    ],
+    [
+      "Judicious spatial planning maximizes the utility of each room.",
+      "Good residential interior design uses judicious spatial planning to maximize the utility of each room."
+    ],
+    [
+      "end-to-end residential interior services covering",
+      "end-to-end residential interior design services covering"
+    ],
+    [
+      "<a href=\"https://www.ninthcorner.in/\">Ninth Corner</a>, we help our clients create beautiful, livable,",
+      "<a href=\"https://www.ninthcorner.in/\">Ninth Corner</a>, our residential interior design in Delhi helps clients create beautiful, livable,"
+    ]
+  ],
+  "services-top-interior-design-firm": [
+    [
+      "To begin the design work, we talk to the client to find out about their needs.",
+      "As a top interior design firm, we begin the design work by talking to the client to find out about their needs."
+    ],
+    [
+      "While planning an interior, we consider how the different elements will sit together.",
+      "While planning an interior, a top interior design firm considers how the different elements will sit together."
+    ],
+    [
+      "It is essential to plan an elegant interior.",
+      "For a top interior design firm, it is essential to plan an elegant interior."
+    ],
+    [
+      "Good space planning helps make the best use of every area.",
+      "Good space planning by a top interior design firm helps make the best use of every area."
+    ],
+    [
+      "We help manage the different parts of the project,",
+      "As a top interior design firm in Delhi, we help manage the different parts of the project,"
+    ],
+    [
+      "Selecting the right interior design team can make the entire process easier.",
+      "Selecting a top interior design firm in Delhi can make the entire process easier."
+    ],
+    [
+      "<a href=\"https://www.ninthcorner.in/\">Ninth Corner</a> provides simple planning services,",
+      "<a href=\"https://www.ninthcorner.in/\">Ninth Corner</a>, a top interior design firm in Delhi, provides simple planning services,"
+    ]
+  ]
+}

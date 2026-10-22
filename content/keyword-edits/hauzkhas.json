@@ -1,0 +1,45 @@
+{
+  "_about": "Keyword-density edits for the Hauz Khas service pages. These pages are short (~210 words), so the target is 3 keyword mentions (about 1.4%); 2 would stay under 1%. Applied by scripts/apply-keyword-edits.mjs. Each edit replaces one existing sentence fragment.",
+  "services-architecture-services": [
+    ["Partner with Hauz Khas's premier architectural firm to design a structure", "Partner with Hauz Khas's premier firm for architecture services to design a structure"]
+  ],
+  "services-best-interior-designers": [
+    ["Developing personalized design roadmaps that prioritize your vision", "The best interior designers develop personalized design roadmaps that prioritize your vision"]
+  ],
+  "services-best-salon-interior-designer": [
+    ["Meticulous layout planning designed to reduce staff fatigue", "Layout planning by the best salon interior designer, designed to reduce staff fatigue"]
+  ],
+  "services-farmhouse-interior-designer": [
+    ["We specialize in farmhouse interiors that masterfully blend", "As a farmhouse interior designer, we specialize in farmhouse interiors that masterfully blend"],
+    ["Partner with Hauz Khas's premier farmhouse specialists to create", "Partner with Hauz Khas's premier farmhouse interior designer to create"]
+  ],
+  "services-interior-architect-for-showroom-design": [
+    ["Our interior architecture services for showrooms in Hauz Khas, Delhi focus on", "As an interior architect for showroom design in Hauz Khas, Delhi, we focus on"],
+    ["Developing floor plans that prioritize brand storytelling,", "An interior architect for showroom design develops floor plans that prioritize brand storytelling,"]
+  ],
+  "services-interior-designer-for-office": [
+    ["We design offices in Hauz Khas, Delhi that enhance", "As an interior designer for office spaces in Hauz Khas, Delhi, we design offices that enhance"],
+    ["Partner with Hauz Khas's leading office design specialists", "Partner with Hauz Khas's leading interior designer for office projects"]
+  ],
+  "services-interior-design-services": [
+    ["Handling everything from initial sketches to final site cleanup,", "Our interior design services handle everything from initial sketches to final site cleanup,"]
+  ],
+  "services-luxury-home-interior-designs": [
+    ["We craft luxury home interiors in Hauz Khas, Delhi", "We craft luxury home interior designs in Hauz Khas, Delhi"],
+    ["Developing layouts that balance grand scale", "Luxury home interior designs with layouts that balance grand scale"]
+  ],
+  "services-modern-interior-design": [
+    ["Designing modern interiors that adapt to the human body", "Modern interior design that adapts to the human body"]
+  ],
+  "services-residential-interior-design": [
+    ["We create residential interiors in Hauz Khas, Delhi that serve", "Our residential interior design in Hauz Khas, Delhi creates homes that serve"],
+    ["Utilizing architectural precision to maximize natural light", "Residential interior design that uses architectural precision to maximize natural light"]
+  ],
+  "services-Salon-interior-designer": [
+    ["We create salon interiors in Hauz Khas, Delhi that perfectly reflect", "As a salon interior designer in Hauz Khas, Delhi, we create salon interiors that perfectly reflect"],
+    ["Strategic spatial planning designed to minimize cross-traffic", "Strategic spatial planning by a salon interior designer to minimize cross-traffic"]
+  ],
+  "services-top-interior-design-firm": [
+    ["Developing avant-garde interior concepts that prioritize", "As a top interior design firm, we develop avant-garde interior concepts that prioritize"]
+  ]
+}

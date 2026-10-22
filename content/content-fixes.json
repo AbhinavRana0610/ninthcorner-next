@@ -1,0 +1,297 @@
+{
+  "_about": "Find/replace fixes for wrong place names copied between city pages. Applied by scripts/apply-content-fixes.mjs to page HTML, JSON-LD and meta. 'pages' is a regex on the page file name; 'find' is a case-insensitive regex.",
+  "rules": [
+    {
+      "note": "Chhattarpur pages say 'Chhattarpur (delhi)' (city-name substitution bug)",
+      "pages": "^chhattarpur__",
+      "find": "South Chhattarpur \\(delhi\\)",
+      "replace": "Chhattarpur, South Delhi"
+    },
+    {
+      "pages": "^chhattarpur__",
+      "find": "Chhattarpur \\(delhi\\),\\s*Delhi",
+      "replace": "Chhattarpur, Delhi"
+    },
+    {
+      "pages": "^chhattarpur__",
+      "find": "Chhattarpur \\(delhi\\)",
+      "replace": "Chhattarpur"
+    },
+    {
+      "note": "Two Karnal pages were copied from Pitampura and say Delhi",
+      "pages": "^karnal__services-(best-salon-interior-designer|residential-interior-design)$",
+      "find": "Karnal, Delhi",
+      "replace": "Karnal, Haryana"
+    },
+    {
+      "pages": "^karnal__services-best-salon-interior-designer$",
+      "find": "luxury salon experience in North Delhi",
+      "replace": "luxury salon experience in Karnal"
+    },
+    {
+      "note": "Small-flats blog: the 'X Extension' area list only makes sense with Noida Extension",
+      "pages": "^(karnal|rajokri|hauzkhas|pitampura)__blog-interior-design-services-offered-for-small-flats$",
+      "find": "Janakpuri, and\\s+(Karnal|Rajokri) Extension",
+      "replace": "Janakpuri, and Noida Extension"
+    },
+    {
+      "note": "Hauz Khas and Pitampura copies of the small-flats blog were copied from Rajokri",
+      "pages": "^hauzkhas__blog-interior-design-services-offered-for-small-flats$",
+      "find": "\\s+Rajokri\\b",
+      "replace": " Hauz Khas"
+    },
+    {
+      "pages": "^pitampura__blog-interior-design-services-offered-for-small-flats$",
+      "find": "\\s+Rajokri\\b",
+      "replace": " Pitampura"
+    },
+    {
+      "note": "Double space before the city name in the small-flats blog copies",
+      "pages": "__blog-interior-design-services-offered-for-small-flats$",
+      "find": "(in|to|of|and)  (Rajokri|Karnal|Hauz Khas|Pitampura)\\b",
+      "replace": "$1 $2"
+    },
+    {
+      "note": "Blogs 1-5 split one title over <h1> + <img> + <h2>, so the H1 held half a title. Both halves now sit in one H1; flex order keeps the photo between them as before.",
+      "pages": "(^|__)blog[1-5]$",
+      "find": "<section class=\"content-section detail-hero\">\\s*<h1>\\s*([\\s\\S]*?)\\s*</h1>\\s*(<img[^>]*>)\\s*<h2>\\s*([\\s\\S]*?)\\s*</h2>",
+      "replace": "<section class=\"content-section detail-hero\" style=\"display:flex;flex-direction:column\"><h1 style=\"display:contents\"><span style=\"display:block;margin:15px 0 5px\">$1</span> <span style=\"display:block;margin:5px 0 15px;order:1\">$3</span></h1>$2"
+    },
+    {
+      "pages": "(^|__)blog[1-5]$",
+      "find": "Gurgaon\\s+'s",
+      "replace": "Gurgaon's"
+    },
+    {
+      "note": "Point 10: put the keyword into generic H1s (same look, a few words added)",
+      "pages": "(^|__)about-us$",
+      "find": "<h1>We go beyond walls and furniture",
+      "replace": "<h1>9th Corner interior designers go beyond walls and furniture"
+    },
+    {
+      "pages": "(^|__)services$",
+      "find": "<h1>Transformative Interior Design\\.</h1>",
+      "replace": "<h1>Transformative Interior Design Services.</h1>"
+    },
+    {
+      "pages": "(^|__)blog$",
+      "find": "Current Features & Data Insights(\\s*</h1>)",
+      "replace": "Interior Design Blog: Ideas & Insights$1"
+    },
+    {
+      "pages": "(^|__)gallery$",
+      "find": "<h1>Our Portfolio</h1>",
+      "replace": "<h1>Our Interior Design Portfolio</h1>"
+    },
+    {
+      "pages": "(^|__)project$",
+      "find": "<h1([^>]*)>Our Latest Projects</h1>",
+      "replace": "<h1$1>Our Latest Interior Design Projects</h1>"
+    },
+    {
+      "pages": "(^|__)global$",
+      "find": "<h1([^>]*)>Our Service Areas</h1>",
+      "replace": "<h1$1>Our Interior Design Service Areas</h1>"
+    },
+    {
+      "note": "Point 14: all 15 project pages shared the H1 'Preserving Spaces Into Living Poetry'; each now names its project (same wording as its meta title)",
+      "pages": "(^|__)ak-jain1$",
+      "find": "<h1>Preserving Spaces Into Living Poetry</h1>",
+      "replace": "<h1>AK Jain Residence Interior Design, Model Town</h1>"
+    },
+    {
+      "pages": "(^|__)dr-jain2$",
+      "find": "<h1>Preserving Spaces Into Living Poetry</h1>",
+      "replace": "<h1>Dr Jain Residence Interior Design, Karol Bagh</h1>"
+    },
+    {
+      "pages": "(^|__)alok-verma3$",
+      "find": "<h1>Preserving Spaces Into Living Poetry</h1>",
+      "replace": "<h1>Alok Verma Residence Interior Design, South Extension</h1>"
+    },
+    {
+      "pages": "(^|__)anand11$",
+      "find": "<h1>Preserving Spaces Into Living Poetry</h1>",
+      "replace": "<h1>Anand Residence Interior Design, Noida</h1>"
+    },
+    {
+      "pages": "(^|__)arun4$",
+      "find": "<h1>Preserving Spaces Into Living Poetry</h1>",
+      "replace": "<h1>Arun Residence Interior Design, Ashok Vihar</h1>"
+    },
+    {
+      "pages": "(^|__)raj-gupta5$",
+      "find": "<h1>Preserving Spaces Into Living Poetry</h1>",
+      "replace": "<h1>Raj Gupta Residence Interior Design, Gujranwala Town</h1>"
+    },
+    {
+      "pages": "(^|__)rana6$",
+      "find": "<h1>Preserving Spaces Into Living Poetry</h1>",
+      "replace": "<h1>Rana Residence Interior Design, Noida</h1>"
+    },
+    {
+      "pages": "(^|__)rao7$",
+      "find": "<h1>Preserving Spaces Into Living Poetry</h1>",
+      "replace": "<h1>Rao Residence Interior Design, Green Park</h1>"
+    },
+    {
+      "pages": "(^|__)sachin8$",
+      "find": "<h1>Preserving Spaces Into Living Poetry</h1>",
+      "replace": "<h1>Sachin Residence Interior Design, Saket</h1>"
+    },
+    {
+      "pages": "(^|__)umesh9$",
+      "find": "<h1>Preserving Spaces Into Living Poetry</h1>",
+      "replace": "<h1>Umesh Jain Residence Interior Design, Bhiwani</h1>"
+    },
+    {
+      "pages": "(^|__)virend10$",
+      "find": "<h1>Preserving Spaces Into Living Poetry</h1>",
+      "replace": "<h1>Virendra Residence Interior Design, Gurgaon</h1>"
+    },
+    {
+      "pages": "(^|__)vijay12$",
+      "find": "<h1>Preserving Spaces Into Living Poetry</h1>",
+      "replace": "<h1>Vijay Residence Interior Design, Sonipat</h1>"
+    },
+    {
+      "pages": "(^|__)Luxuria$",
+      "find": "<h1>Preserving Spaces Into Living Poetry</h1>",
+      "replace": "<h1>Luxuria Interior Design Project</h1>"
+    },
+    {
+      "pages": "(^|__)star-salon$",
+      "find": "<h1>Preserving Spaces Into Living Poetry</h1>",
+      "replace": "<h1>Star Salon Interior Design Project</h1>"
+    },
+    {
+      "pages": "(^|__)hannu-office$",
+      "find": "<h1>Preserving Spaces Into Living Poetry</h1>",
+      "replace": "<h1>Hannu Office Interior Design Project</h1>"
+    },
+    {
+      "note": "Point 14: city homepages had H1 'Architecture Services in <City>', the same as that city's architecture service page",
+      "pages": "^[a-z]+__index$",
+      "find": ">Architecture Services in ([A-Za-z ]+)</h1>",
+      "replace": ">9th Corner: Interior Design Firm in $1</h1>"
+    },
+    {
+      "note": "Gurgaon blog copies had the same H1 as the Gurgaon service pages",
+      "pages": "^gurgaon__blog-best-salon-interior-designer$",
+      "find": "(<h1 class=\\\"font-serif\\\">\\s*)Salon Interior Designer in Gurgaon",
+      "replace": "$1How to Choose a Salon Interior Designer in Gurgaon"
+    },
+    {
+      "pages": "^gurgaon__blog1$",
+      "find": ">IN Gurgaon</span></h1>",
+      "replace": ">IN Gurgaon: How to Choose</span></h1>"
+    },
+    {
+      "note": "Point 7: keyword in one image alt (and its title) on Gurgaon service pages, only where the photo really shows that service. Architecture and showroom pages have no matching photo, so they are left alone.",
+      "pages": "^gurgaon__services-Salon-interior-designer$",
+      "find": "Salon reception and front desk interior in Gurgaon by Ninth Corner",
+      "replace": "Salon interior designer in Gurgaon: reception and front desk at Star Salon by Ninth Corner"
+    },
+    {
+      "pages": "^gurgaon__services-best-salon-interior-designer$",
+      "find": "Salon reception and front desk interior in Gurgaon by Ninth Corner",
+      "replace": "Best salon interior designer in Gurgaon: reception and front desk at Star Salon by Ninth Corner"
+    },
+    {
+      "pages": "^gurgaon__services-farmhouse-interior-designer$",
+      "find": "Rustic luxury farmhouse interior design in Gurgaon by Ninth Corner",
+      "replace": "Farmhouse interior designer in Gurgaon: rustic luxury farmhouse interior by Ninth Corner"
+    },
+    {
+      "pages": "^gurgaon__services-interior-designer-for-office$",
+      "find": "Corporate office interior project in Gurgaon by Ninth Corner",
+      "replace": "Interior designer for office in Gurgaon: corporate office project by Ninth Corner"
+    },
+    {
+      "pages": "^gurgaon__services-luxury-home-interior-designs$",
+      "find": "Luxury residential interior project in Gurgaon by Ninth Corner",
+      "replace": "Luxury home interior designs in Gurgaon: residential project by Ninth Corner"
+    },
+    {
+      "pages": "^gurgaon__services-residential-interior-design$",
+      "find": "Luxury residential interior project in Gurgaon by Ninth Corner",
+      "replace": "Residential interior design in Gurgaon: luxury home project by Ninth Corner"
+    },
+    {
+      "pages": "^gurgaon__services-modern-interior-design$",
+      "find": "Custom entertainment lounge in Gurgaon by Ninth Corner",
+      "replace": "Modern interior design in Gurgaon: custom TV wall and lounge by Ninth Corner"
+    },
+    {
+      "pages": "^gurgaon__services-interior-design-services$",
+      "find": "Luxury residential interior project in Gurgaon by Ninth Corner",
+      "replace": "Interior design services in Gurgaon: luxury residential project by Ninth Corner"
+    },
+    {
+      "pages": "^gurgaon__services-top-interior-design-firm$",
+      "find": "Luxury residential interior project in Gurgaon by Ninth Corner",
+      "replace": "Top interior design firm in Gurgaon: luxury residential project by Ninth Corner"
+    },
+    {
+      "pages": "^gurgaon__services-best-interior-designers$",
+      "find": "Luxury residential interior project in Gurgaon by Ninth Corner",
+      "replace": "Best interior designers in Gurgaon: luxury residential project by Ninth Corner"
+    },
+    {
+      "note": "Point 12 spelling check, rows 1-11 approved (Haan) by the user on 16 Oct",
+      "pages": "(^|__)blog3$",
+      "find": "L<b>uxury Touch:</b>",
+      "replace": "<b>Luxury Touch:</b>"
+    },
+    {
+      "pages": "(^|__)blog-luxury-furniture-and-custom-built-in-solutions$",
+      "find": "\\bsolidwood\\b",
+      "replace": "solid wood"
+    },
+    {
+      "pages": "(^|__)index$",
+      "find": "<span class=\"icon-text\">CTA</span>",
+      "replace": "<span class=\"icon-text\">Chat on WhatsApp</span>"
+    },
+    {
+      "pages": "(^|__)blog-interior-design-services$",
+      "find": "Improved Functionalities:",
+      "replace": "Improved Functionality:"
+    },
+    {
+      "pages": "(^|__)about-us$",
+      "find": ">3d Visualizer<",
+      "replace": ">3D Visualiser<"
+    },
+    {
+      "pages": "^about-us$",
+      "find": "9th Corner, formally Ninth Corner Dream Designs",
+      "replace": "9th Corner, registered as Ninth Corner Dream Designs"
+    },
+    {
+      "pages": "(^|__)blog$",
+      "find": "increase comfort, and foste\\.{3,4}",
+      "replace": "increase comfort, and..."
+    },
+    {
+      "pages": "(^|__)blog$",
+      "find": "merely focuses o\\.\\.\\.",
+      "replace": "merely focuses..."
+    },
+    {
+      "pages": "(^|__)blog$",
+      "find": "but it spea\\.\\.\\.",
+      "replace": "but it..."
+    },
+    {
+      "pages": "(^|__)blog$",
+      "find": "Unlike residences, commercia\\.\\.\\.",
+      "replace": "Unlike residences..."
+    },
+    {
+      "pages": "(^|__)blog$",
+      "find": "the philosophy re\\.\\.\\.",
+      "replace": "the philosophy..."
+    }
+  ]
+}

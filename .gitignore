@@ -39,3 +39,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# legacy render cache (regenerate with npm run legacy:render)
+/scripts/.rendered
+/scripts/.work
+!.env.example

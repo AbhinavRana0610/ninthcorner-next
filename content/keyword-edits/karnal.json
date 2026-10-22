@@ -1,0 +1,45 @@
+{
+  "_about": "Keyword-density edits for the Karnal service pages. These pages are short (~210 words), so the target is 3 keyword mentions (about 1.4%); 2 would stay under 1%. Applied by scripts/apply-keyword-edits.mjs. Each edit replaces one existing sentence fragment.",
+  "services-architecture-services": [
+    ["Utilizing Building Information Modeling (BIM) to provide", "Our architecture services use Building Information Modeling (BIM) to provide"]
+  ],
+  "services-best-interior-designers": [
+    ["Utilizing advanced space-planning techniques to maximize light", "The best interior designers use advanced space-planning techniques to maximize light"]
+  ],
+  "services-best-salon-interior-designer": [
+    ["Strategic floor planning that minimizes staff steps", "Floor planning by the best salon interior designer that minimizes staff steps"]
+  ],
+  "services-farmhouse-interior-designer": [
+    ["We specialize in curating farmhouse interiors in Karnal that masterfully blend", "As a farmhouse interior designer in Karnal, we specialize in curating farmhouse interiors that masterfully blend"],
+    ["Partner with Karnal's premier farmhouse designers today.", "Partner with Karnal's premier farmhouse interior designer today."]
+  ],
+  "services-interior-architect-for-showroom-design": [
+    ["Our interior architecture services for showrooms in Karnal, Haryana, prioritize", "As an interior architect for showroom design in Karnal, Haryana, we prioritize"],
+    ["Partner with Karnal's premier showroom architects today.", "Partner with Karnal's premier interior architect for showroom design today."]
+  ],
+  "services-interior-designer-for-office": [
+    ["We design office environments in Karnal, Haryana, that serve", "As an interior designer for office environments in Karnal, Haryana, we create spaces that serve"],
+    ["Partner with Karnal's premier office designers today.", "Partner with Karnal's premier interior designer for office projects today."]
+  ],
+  "services-interior-design-services": [
+    ["Complete project management that oversees everything", "Complete interior design services that oversee everything"]
+  ],
+  "services-luxury-home-interior-designs": [
+    ["We craft luxury home interiors in Karnal, Haryana,", "We craft luxury home interior designs in Karnal, Haryana,"],
+    ["Engineering floor plans that maximize the grand proportions", "Luxury home interior designs with floor plans that maximize the grand proportions"]
+  ],
+  "services-modern-interior-design": [
+    ["Architecting spaces that support natural human movement,", "Modern interior design that supports natural human movement,"]
+  ],
+  "services-residential-interior-design": [
+    ["We create residential interiors in Karnal, Haryana that serve as a true reflection", "Our residential interior design in Karnal creates homes that serve as a true reflection"],
+    ["Meticulous selection of premium woods,", "Residential interior design with a meticulous selection of premium woods,"]
+  ],
+  "services-Salon-interior-designer": [
+    ["We create salon interiors in Karnal, Haryana, that physically embody", "As a salon interior designer in Karnal, Haryana, we create salon interiors that physically embody"],
+    ["Selecting bespoke furniture that prioritizes client comfort", "A salon interior designer selects bespoke furniture that prioritizes client comfort"]
+  ],
+  "services-top-interior-design-firm": [
+    ["A relentless focus on detail and precision engineering,", "As a top interior design firm, we keep a relentless focus on detail and precision engineering,"]
+  ]
+}

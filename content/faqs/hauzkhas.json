@@ -1,0 +1,74 @@
+{
+  "services-Salon-interior-designer": [
+    { "q": "Why do salons in Hauz Khas need a specialist salon interior designer?", "a": "Hauz Khas salons serve a style-aware crowd, often from compact shops or upper floors. A specialist plans the space so it looks distinctive, fits every station and still leaves room for clients to move comfortably." },
+    { "q": "Can a small salon space be made to feel bigger?", "a": "Yes. Mirrors, wall-mounted storage, slim stations and well-placed lighting make a compact salon feel open. We also plan wash areas and storage so the main floor stays clutter-free." },
+    { "q": "What lighting works best in a salon?", "a": "Even, shadow-free light at the mirrors for accurate colour work, softer light in waiting and spa areas, and accent light for retail shelves. We plan all three layers together." },
+    { "q": "Do you work on salon branding inside the space?", "a": "Yes. As your salon interior designer, we bring your logo, colours and style into the reception, feature walls and signage so the salon is easy to recognise." }
+  ],
+  "services-architecture-services": [
+    { "q": "What do your architecture services in Hauz Khas cover?", "a": "We handle planning, elevations, working drawings and coordination with structural and services consultants for builder floors, independent houses and commercial buildings." },
+    { "q": "Can you redevelop an old house into builder floors?", "a": "Yes. Many South Delhi plots are being rebuilt as floors. We plan each floor so it gets good light, ventilation, parking and privacy within the permitted building envelope." },
+    { "q": "Do you help with building plan approvals?", "a": "We prepare the drawings needed for approvals and coordinate with your consultant or liaison agent on the submission process." },
+    { "q": "Why combine architecture services with interior design?", "a": "Planning the building and the interiors together fixes window sizes, ceiling heights, electrical points and furniture early, which avoids expensive changes once construction starts." }
+  ],
+  "services-best-interior-designers": [
+    { "q": "How do I find the best interior designers in Hauz Khas?", "a": "Visit or review finished projects, check how detailed their drawings are, and ask who supervises work on site. Clear communication matters as much as good taste." },
+    { "q": "Do you design builder floors and apartments in South Delhi?", "a": "Yes. We design builder floors and apartments in Hauz Khas, Green Park, Safdarjung Enclave and nearby areas, planning storage and light carefully because these homes often have tight layouts." },
+    { "q": "Can you work with furniture I already own?", "a": "Yes. We review what you have, keep the pieces that work, and design new furniture and finishes around them." },
+    { "q": "What sets the best interior designers apart?", "a": "They listen first, design for how you live, and stay on site until the last detail is finished, so the result matches the drawings." }
+  ],
+  "services-best-salon-interior-designer": [
+    { "q": "What does the best salon interior designer in Hauz Khas focus on?", "a": "A layout that keeps clients comfortable, staff efficient and the brand visible. Hauz Khas has many style-led salons, so a distinct look and a smooth client journey both matter." },
+    { "q": "Can you plan a salon on an upper floor?", "a": "Yes. Upper-floor salons need a clear entry, good signage and a welcoming first view from the stairs or lift. We also check water supply and drainage for wash stations early." },
+    { "q": "How do you keep salon interiors durable?", "a": "We use finishes that resist water, heat and hair-care chemicals, with easy-to-clean floors and counters, so the salon keeps its look with daily use." },
+    { "q": "Why choose the best salon interior designer for a refit?", "a": "A refit is a chance to fix layout problems, not just repaint. A specialist spots what slows the team down and plans the new design around it." }
+  ],
+  "services-farmhouse-interior-designer": [
+    { "q": "Do you work as a farmhouse interior designer for clients based in Hauz Khas?", "a": "Yes. Many Hauz Khas families own farmhouses in Chhattarpur, Sultanpur and nearby areas. We design those homes and coordinate site visits around your schedule." },
+    { "q": "What style suits a farmhouse near South Delhi?", "a": "Most clients prefer a warm, relaxed style with natural wood, stone, large windows and open living areas that lead out to the lawns. We adjust the mix to your taste." },
+    { "q": "Can the farmhouse be planned for events and guests?", "a": "Yes. We plan flexible seating, guest suites, outdoor dining and service routes so gatherings run smoothly without disturbing the family's private rooms." },
+    { "q": "How is a farmhouse interior designer different from a city-home designer?", "a": "Farmhouses have larger spaces, outdoor areas and heavy seasonal use, so materials, storage and lighting are planned differently from a city apartment." }
+  ],
+  "services-interior-architect-for-showroom-design": [
+    { "q": "Why does a Hauz Khas showroom need an interior architect for showroom design?", "a": "Hauz Khas has strong walk-in traffic and many competing stores. A planned façade, display and lighting help your showroom stand out and turn visitors into buyers." },
+    { "q": "Can you design a boutique or concept store?", "a": "Yes. Boutiques and concept stores need flexible displays, trial rooms and a clear brand story, which we plan around your product range." },
+    { "q": "How do you plan customer movement in a showroom?", "a": "We place hero products near the entry, create a natural route through the store and keep the billing area visible but not in the way." },
+    { "q": "Do you coordinate with brand and signage teams?", "a": "Yes. As the interior architect for showroom design, we coordinate with your brand, signage and lighting vendors so everything fits together on site." }
+  ],
+  "services-interior-design-services": [
+    { "q": "What interior design services do you provide in Hauz Khas?", "a": "Space planning, concept design, 3D views, working drawings, material selection, custom furniture, lighting and site supervision for homes, cafés, salons and offices." },
+    { "q": "Do you design cafés and restaurants?", "a": "Yes. Hospitality spaces need seating plans, kitchen coordination, lighting moods and durable finishes, and we plan these together with your operations team." },
+    { "q": "Can I start with a consultation only?", "a": "Yes. A consultation helps you understand layout options and a rough scope before you commit to a full project." },
+    { "q": "Why choose complete interior design services for a builder floor?", "a": "A builder floor has kitchens, wardrobes, bathrooms and ceilings all at once. One team handling design and supervision keeps the finish consistent." }
+  ],
+  "services-interior-designer-for-office": [
+    { "q": "Why hire an interior designer for office space in Hauz Khas?", "a": "Many Hauz Khas offices are in converted buildings or upper floors with odd layouts. A designer makes the most of the space while keeping it comfortable for the team." },
+    { "q": "Can you design creative studios and agencies?", "a": "Yes. Studios need open work areas, quiet corners, display walls and good natural light, and we plan the space around how your team collaborates." },
+    { "q": "How do you handle wiring and networking?", "a": "Power, data and lighting points are planned with the furniture layout, so cables stay hidden and workstations can be moved later if needed." },
+    { "q": "What does an interior designer for office projects deliver?", "a": "Layouts, 3D views, furniture and finish selections, drawings for contractors and site supervision until the office is ready to use." }
+  ],
+  "services-luxury-home-interior-designs": [
+    { "q": "What do luxury home interior designs in Hauz Khas look like?", "a": "Calm, well-proportioned rooms with natural stone, fine wood, custom furniture and layered lighting. The aim is a home that feels rich but relaxed, not over-decorated." },
+    { "q": "Do you source imported materials and furniture?", "a": "Yes. We can source imported stone, fabrics, fittings and furniture, and we also work with skilled local craftsmen for custom pieces." },
+    { "q": "Can art and collections be built into the design?", "a": "Yes. We plan display walls, lighting and niches for art and collectibles, so they become part of the home rather than an afterthought." },
+    { "q": "How do luxury home interior designs stay practical?", "a": "Hidden storage, durable finishes and easy maintenance are planned from the start, so the home stays beautiful in daily family life." }
+  ],
+  "services-modern-interior-design": [
+    { "q": "What does modern interior design mean for a Hauz Khas home?", "a": "It means open, uncluttered rooms with clean lines, neutral colours and practical furniture. In compact South Delhi floors, this approach makes rooms feel larger and brighter." },
+    { "q": "Can modern design feel warm and not cold?", "a": "Yes. Wood, textured fabrics, warm lighting and plants soften a modern space, so it feels welcoming as well as stylish." },
+    { "q": "Is modern design suitable for cafés and studios?", "a": "Yes. Many cafés, studios and boutiques in Hauz Khas use a modern style because it lets the product, art or food take centre stage." },
+    { "q": "How is modern interior design different from minimalism?", "a": "Minimalism keeps only the essentials. A modern style is also clean and simple, but it allows more materials, colour and personal pieces." }
+  ],
+  "services-residential-interior-design": [
+    { "q": "What does residential interior design in Hauz Khas include?", "a": "Room planning, kitchens, wardrobes, bathrooms, false ceilings, lighting, flooring, furniture and décor for builder floors, apartments and independent houses." },
+    { "q": "How do you add storage in compact homes?", "a": "Full-height wardrobes, storage beds, built-in seating and smart kitchen units add storage without crowding the rooms." },
+    { "q": "Can you design a home for a joint family?", "a": "Yes. We plan private areas for each generation and shared spaces for the family, with storage and furniture suited to different needs." },
+    { "q": "When should residential interior design begin?", "a": "Ideally before civil work starts, so electrical, plumbing and furniture plans are fixed early and nothing needs to be broken later." }
+  ],
+  "services-top-interior-design-firm": [
+    { "q": "What makes a top interior design firm in Hauz Khas worth hiring?", "a": "Strong design ideas, detailed drawings, reliable vendors and regular site supervision, so the finished space looks like the design you approved." },
+    { "q": "Do you work on both homes and commercial spaces?", "a": "Yes. We design homes, offices, salons, cafés and showrooms, and each project gets a design built around its own use." },
+    { "q": "How do you keep clients updated during the project?", "a": "We share progress at each stage, review samples with you and keep one point of contact for questions." },
+    { "q": "Is a top interior design firm only for large budgets?", "a": "No. Good planning helps any budget go further. We suggest where to spend and where to save so the result still feels complete." }
+  ]
+}

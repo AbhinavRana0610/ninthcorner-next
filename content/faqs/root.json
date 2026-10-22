@@ -1,0 +1,9 @@
+{
+  "services-interior-design-services": [
+    { "q": "What interior design services does 9th Corner offer?", "a": "Space planning, concept design, 3D views, working drawings, material and furniture selection, custom furniture, lighting design and site supervision, for homes, offices, salons, showrooms and hospitality spaces." },
+    { "q": "Do you handle both design and execution?", "a": "Yes. We stay involved from the first brief to installation. You can also choose design and drawings only and use your own contractor." },
+    { "q": "How does a project start?", "a": "It starts with a meeting and a site visit to understand your needs, space and budget. We then share a proposal, followed by layouts, 3D views and drawings for your approval." },
+    { "q": "How are interior design services priced?", "a": "Fees depend on the size of the space, the type of project and the scope of work. We share a clear proposal after the first meeting so you know what is included." },
+    { "q": "Which cities do you work in?", "a": "We work across Delhi NCR, including Delhi, Gurgaon and Noida, and also take projects in Karnal." }
+  ]
+}

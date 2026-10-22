@@ -1,0 +1,45 @@
+{
+  "_about": "Keyword-density edits for the Pitampura service pages. These pages are short (~210 words), so the target is 3 keyword mentions (about 1.4%); 2 would stay under 1%. Applied by scripts/apply-keyword-edits.mjs. Each edit replaces one existing sentence fragment.",
+  "services-architecture-services": [
+    ["Architectural leadership across luxury housing,", "Architecture services across luxury housing,"]
+  ],
+  "services-best-interior-designers": [
+    ["Ensuring your vision is the foundation of every room,", "The best interior designers make your vision the foundation of every room,"]
+  ],
+  "services-best-salon-interior-designer": [
+    ["Curating stations and seating that provide maximum comfort", "The best salon interior designer curates stations and seating that provide maximum comfort"]
+  ],
+  "services-farmhouse-interior-designer": [
+    ["Our designs in Pitampura, Delhi focus on", "As a farmhouse interior designer in Pitampura, Delhi, we focus on"],
+    ["Partner with Pitampura's leading farmhouse designers to build", "Partner with Pitampura's leading farmhouse interior designer to build"]
+  ],
+  "services-interior-architect-for-showroom-design": [
+    ["Our interior architecture services for showrooms in Pitampura, Delhi focus on", "As an interior architect for showroom design in Pitampura, Delhi, we focus on"],
+    ["Partner with our elite architectural team to design a space that drives growth.", "Partner with our interior architect for showroom design to create a space that drives growth."]
+  ],
+  "services-interior-designer-for-office": [
+    ["We design high-performance offices in Pitampura, Delhi that enhance", "As an interior designer for office projects in Pitampura, Delhi, we design high-performance offices that enhance"],
+    ["Strategic spatial planning that minimizes noise pollution and distraction,", "An interior designer for office teams plans space to minimize noise pollution and distraction,"]
+  ],
+  "services-interior-design-services": [
+    ["A seamless turnkey experience where we manage every vendor", "Turnkey interior design services where we manage every vendor"]
+  ],
+  "services-luxury-home-interior-designs": [
+    ["We craft luxury home interiors in Pitampura, Delhi", "We craft luxury home interior designs in Pitampura, Delhi"],
+    ["Designing custom millwork and furniture pieces", "Luxury home interior designs with custom millwork and furniture pieces"]
+  ],
+  "services-modern-interior-design": [
+    ["Designing with the human body in mind,", "Modern interior design with the human body in mind,"]
+  ],
+  "services-residential-interior-design": [
+    ["We create residential interiors in Pitampura, Delhi that serve", "Our residential interior design in Pitampura, Delhi creates homes that serve"],
+    ["Engineering floor plans that maximize natural light,", "Residential interior design with floor plans that maximize natural light,"]
+  ],
+  "services-Salon-interior-designer": [
+    ["We create salon interiors in Pitampura, Delhi that physically embody", "As a salon interior designer in Pitampura, Delhi, we create salon interiors that physically embody"],
+    ["Curating custom furniture and styling stations designed to minimize stylist fatigue", "A salon interior designer curates custom furniture and styling stations designed to minimize stylist fatigue"]
+  ],
+  "services-top-interior-design-firm": [
+    ["Developing unique design narratives", "As a top interior design firm, we develop unique design narratives"]
+  ]
+}

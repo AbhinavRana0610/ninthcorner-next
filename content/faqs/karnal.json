@@ -1,0 +1,74 @@
+{
+  "services-Salon-interior-designer": [
+    { "q": "Do you work as a salon interior designer in Karnal?", "a": "Yes. We design new salons and refits in Karnal, and site visits are planned through the project so the work on the ground follows the drawings." },
+    { "q": "What areas does a salon layout include?", "a": "Reception, waiting area, styling stations, wash basins, colour bar, treatment or spa rooms, staff area and storage. Each area is sized for your services and team." },
+    { "q": "Can a salon be designed in phases?", "a": "Yes. If you are starting small, we can plan the full layout now and build it in stages, so later additions fit without rework." },
+    { "q": "Why hire a salon interior designer for a growing city like Karnal?", "a": "Clients in Karnal now expect the same polish they see in Delhi and Chandigarh salons. A well-planned interior helps a new salon look established from the first day." }
+  ],
+  "services-architecture-services": [
+    { "q": "What architecture services do you offer in Karnal?", "a": "Planning, elevations, working drawings and consultant coordination for independent houses, kothis, commercial buildings and farmhouses." },
+    { "q": "Can you design a large independent house or kothi?", "a": "Yes. We plan family areas, guest rooms, puja room, courtyards, terraces and parking so the house works for joint families and visiting relatives." },
+    { "q": "Do you plan for local weather?", "a": "Yes. Orientation, shading, cross-ventilation and insulation are planned to handle hot summers and cold winters in Haryana." },
+    { "q": "Why choose architecture services and interiors from one firm?", "a": "The building and the interiors are designed together, so room sizes, windows, lighting and furniture fit each other and changes during construction are fewer." }
+  ],
+  "services-best-interior-designers": [
+    { "q": "Who are the best interior designers for homes in Karnal?", "a": "The right designer has finished projects you can check, explains costs clearly and supervises work on site. We share past work and our process at the first meeting." },
+    { "q": "Do you design kothis and independent homes?", "a": "Yes. Most Karnal homes are independent houses, and we design full homes including living rooms, kitchens, bedrooms, puja rooms and terraces." },
+    { "q": "Can you work with local contractors and carpenters?", "a": "Yes. We provide detailed drawings and supervise the work, whether the execution is by our team or by your trusted local contractors." },
+    { "q": "What do the best interior designers do differently?", "a": "They plan every detail before work starts and stay involved on site, so the finished home matches the design you approved." }
+  ],
+  "services-best-salon-interior-designer": [
+    { "q": "What should the best salon interior designer in Karnal deliver?", "a": "A salon that looks premium, is easy for staff to work in and is comfortable for clients. That means good layout, lighting, ventilation and durable finishes." },
+    { "q": "Can you design unisex salons?", "a": "Yes. We plan separate or shared zones for men and women, with privacy where it is needed and a common reception and waiting area." },
+    { "q": "Do you design bridal and makeup studios?", "a": "Yes. Bridal studios need bright, even lighting, large mirrors, comfortable seating for family members and a private changing area." },
+    { "q": "Why hire the best salon interior designer for a first salon?", "a": "A first salon has a fixed budget and no room for mistakes. Careful planning makes sure money goes into things clients notice and staff use every day." }
+  ],
+  "services-farmhouse-interior-designer": [
+    { "q": "Do you work as a farmhouse interior designer in Karnal?", "a": "Yes. Karnal and its surrounding villages have many farmhouses, and we design them as relaxed family homes or weekend retreats." },
+    { "q": "What materials suit a farmhouse in Haryana?", "a": "Stone, solid wood, terracotta, lime plaster and cotton or linen fabrics. They handle heat and dust well and age gracefully." },
+    { "q": "Can you plan outdoor kitchens and seating?", "a": "Yes. Verandas, outdoor kitchens, fire pits and garden seating are planned along with the interiors for family gatherings." },
+    { "q": "Why hire a farmhouse interior designer instead of furnishing it yourself?", "a": "Farmhouses are large, and furniture alone does not make them comfortable. Planning layout, lighting and storage turns a big space into a usable home." }
+  ],
+  "services-interior-architect-for-showroom-design": [
+    { "q": "What does an interior architect for showroom design do in Karnal?", "a": "We plan the façade, display layout, lighting, customer route and storage, so your showroom stands out on busy roads and makes products easy to browse." },
+    { "q": "Do you design automobile and furniture showrooms?", "a": "Yes. Automobile, furniture, jewellery and apparel showrooms each need different display heights, lighting and space, and we plan around your product." },
+    { "q": "Can a showroom follow a national brand's guidelines?", "a": "Yes. We adapt brand guidelines to your site, so the showroom meets the brand's standards while fitting the local building." },
+    { "q": "Why hire an interior architect for showroom design early?", "a": "Early planning fixes services, lighting and display positions before work starts, which saves time and keeps the opening date on track." }
+  ],
+  "services-interior-design-services": [
+    { "q": "What interior design services do you offer in Karnal?", "a": "Space planning, concept design, 3D views, working drawings, material selection, custom furniture, lighting and site supervision for homes, offices, salons and showrooms." },
+    { "q": "Can you handle a project if I am not in Karnal often?", "a": "Yes. We share drawings, samples and progress updates online and plan site visits at key stages, so you can follow the project from anywhere." },
+    { "q": "Do you help choose materials and furniture?", "a": "Yes. We shortlist materials, finishes and furniture within your budget and explain the pros and cons of each option." },
+    { "q": "Why choose full interior design services for a new house?", "a": "A new house has many decisions at once. One team planning and supervising the interiors keeps the style and quality the same in every room." }
+  ],
+  "services-interior-designer-for-office": [
+    { "q": "Do you work as an interior designer for office spaces in Karnal?", "a": "Yes. We design offices, clinics, showrooms with office areas and business centres in Karnal and nearby cities." },
+    { "q": "What does an office layout include?", "a": "Workstations, cabins, meeting rooms, reception, pantry, storage and washrooms, planned around your team size and how people work together." },
+    { "q": "Can you design an office inside a home?", "a": "Yes. Many business owners in Karnal run an office from part of their house. We give it a separate entry or zone so work and home stay apart." },
+    { "q": "Why hire an interior designer for office space instead of a contractor alone?", "a": "A designer plans light, comfort, privacy and future growth. A contractor builds what is drawn, so the planning decides how good the office will be." }
+  ],
+  "services-luxury-home-interior-designs": [
+    { "q": "What are luxury home interior designs for Karnal homes?", "a": "Large, well-planned rooms with natural stone, fine wood, custom furniture, chandeliers and layered lighting, designed for families who entertain often." },
+    { "q": "Can a luxury home also have a traditional touch?", "a": "Yes. We blend modern comfort with traditional elements such as carved wood, brass details and a well-designed puja room." },
+    { "q": "Do you design home theatres and bars?", "a": "Yes. Home theatres, bars, gyms and lounges can be planned with the right acoustics, lighting and ventilation." },
+    { "q": "How do luxury home interior designs stay easy to maintain?", "a": "We choose finishes that last and plan concealed storage and service access, so the home looks good for years with simple care." }
+  ],
+  "services-modern-interior-design": [
+    { "q": "What is modern interior design for a home in Karnal?", "a": "Clean lines, open layouts, a calm colour palette and practical furniture. It suits new independent houses that want a fresh, uncluttered look." },
+    { "q": "Can modern design suit a joint family home?", "a": "Yes. Modern layouts can include more storage, flexible seating and separate private areas, so they work well for large families." },
+    { "q": "Is a modern home more expensive to build?", "a": "Not necessarily. Simple forms and fewer decorative details can even reduce cost. The budget depends mostly on materials and fittings." },
+    { "q": "How long does modern interior design last before it looks dated?", "a": "Because it relies on simple forms and good materials rather than trends, a well-done modern interior stays fresh for many years." }
+  ],
+  "services-residential-interior-design": [
+    { "q": "What does residential interior design in Karnal cover?", "a": "Full-home planning, kitchens, wardrobes, bathrooms, ceilings, lighting, flooring, furniture and décor for independent houses, kothis and apartments." },
+    { "q": "Can you design one floor now and another later?", "a": "Yes. We can plan the whole house and complete one floor first, so the later floors follow the same style." },
+    { "q": "Do you include a puja room and guest rooms?", "a": "Yes. Puja rooms, guest bedrooms and spaces for visiting family are planned as part of the home, not left for later." },
+    { "q": "Why start residential interior design before construction ends?", "a": "Planning early lets us fix electrical points, plumbing and furniture sizes before plastering and flooring, which avoids breaking finished work." }
+  ],
+  "services-top-interior-design-firm": [
+    { "q": "What should a top interior design firm in Karnal provide?", "a": "A clear design process, detailed drawings, transparent costs and supervision on site, with regular updates for clients who cannot visit often." },
+    { "q": "Do you take projects from Karnal and nearby cities?", "a": "Yes. Along with Karnal, we work across Delhi NCR. For other nearby cities, share your project location and we will plan the site visits with you." },
+    { "q": "How do you choose vendors for a project?", "a": "We work with vendors whose quality we have checked, and we can also supervise your own trusted vendors using our drawings." },
+    { "q": "Why hire a top interior design firm for a business space?", "a": "A well-designed showroom, office or salon builds trust with customers and makes daily work easier for your staff." }
+  ]
+}

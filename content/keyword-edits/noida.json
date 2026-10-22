@@ -1,0 +1,579 @@
+{
+  "_about": "Keyword-density edits for the Noida service pages (target: exact keyword + variations at about 1.1-1.3%, spread through the page). Applied by scripts/apply-keyword-edits.mjs. Each edit replaces one existing sentence fragment; wording differs from the Gurgaon and Delhi edits on purpose so the city pages do not converge. Entries after the density edits rewrite spun/garbled sentences (16 Oct); they keep every keyword mention.",
+  "services-Salon-interior-designer": [
+    [
+      "A well-designed salon should offer warmth",
+      "A salon interior designer knows that a well-designed salon should offer warmth"
+    ],
+    [
+      "A luxurious, elegant setup is recommended for a high-end salon.",
+      "A salon interior designer will recommend a luxurious, elegant setup for a high-end salon."
+    ],
+    [
+      "Workstations and furniture distribution are planned to meet the size",
+      "A salon interior designer plans workstations and furniture distribution to meet the size"
+    ],
+    [
+      "Furniture, colors, finishes, materials, and lighting can be tailor-made according to the brand persona",
+      "As a salon interior designer in Noida, we tailor-make furniture, colors, finishes, materials, and lighting according to the brand persona"
+    ],
+    [
+      "Commercial salon and spa interior design requires deep understanding of",
+      "A salon interior designer for commercial salons and spas needs a deep understanding of"
+    ],
+    [
+      "It is possible. Even a small salon can boast",
+      "It is possible. With the right salon interior designer, even a small salon can boast"
+    ]
+  ],
+  "services-architecture-services": [
+    [
+      "We focus on smart planning while keeping the project practical.",
+      "Our architecture services focus on smart planning while keeping the project practical."
+    ],
+    [
+      "3D visualization makes it easier to understand a project before construction begins.",
+      "As part of our architecture services, 3D visualization makes it easier to understand a project before construction begins."
+    ],
+    [
+      "Project management is another important part of the process.",
+      "Project management is another important part of our architecture services in Noida."
+    ],
+    [
+      "From concept to completion, coordination assists keep stages attached. It can make the process easier to understand.",
+      "From concept to completion, careful coordination keeps every stage connected and makes the process easier to follow."
+    ],
+    [
+      "imagination, feature, framework, and long-term value.",
+      "imagination, function, structure and long-term value."
+    ],
+    [
+      "can provide the planning and design sustain needed",
+      "can provide the planning and design support needed"
+    ]
+  ],
+  "services-best-interior-designers": [
+    [
+      "Our design plan unifies outward appearance and its functionality in daily usage.",
+      "As one of the best interior designers in Noida, our team unifies outward appearance and its functionality in daily usage."
+    ],
+    [
+      "Our design process is based on satisfying this individual feeling.",
+      "The best interior designers base their design process on satisfying this individual feeling."
+    ],
+    [
+      "It rather means seeking new, smart ways of using the given space.",
+      "The best interior designers instead seek new, smart ways of using the given space."
+    ],
+    [
+      "well cared by our designers.",
+      "well cared for by the best interior designers in our team."
+    ],
+    [
+      "The design process requires harmonizing looks with comfort and practicality.",
+      "The best interior designers harmonize looks with comfort and practicality."
+    ],
+    [
+      "By choosing an interior design team, you choose people who are able",
+      "By choosing the best interior designers in Noida, you choose people who are able"
+    ],
+    [
+      "Yes, it is fully possible to execute residential interiors, offices, showrooms, etc.",
+      "Yes, the best interior designers can execute residential interiors, offices, showrooms, etc."
+    ],
+    [
+      "We make every effort to combine personal visions",
+      "As one of the best interior designers in Noida, we make every effort to combine personal visions"
+    ],
+    [
+      "Nice should also look attractive. An interior with good style is one that can also be readily used.",
+      "A good interior should look attractive and still be easy to use every day."
+    ],
+    [
+      "Whether it is an arrangement of small room space where extra furniture should be avoided so there will be easy passage, either it is the careful arranging of the interiors of the large building into functionally isolated and harmoniously connected zones; using the impact of the lights on space or choosing the right texture that will add atmosphere to space with no sacrifice to coziness-all this factors are important and",
+      "Keeping a small room free of extra furniture so it is easy to move through, dividing a large building into separate but connected zones, using light to shape a space, or choosing textures that add atmosphere without losing comfort: all these factors are important and"
+    ]
+  ],
+  "services-best-salon-interior-designer": [
+    [
+      "A luxurious, elegant setup is recommended for a high-end salon.",
+      "The best salon interior designer will recommend a luxurious, elegant setup for a high-end salon."
+    ],
+    [
+      "The space planning of a salon focuses on both easy navigation",
+      "Space planning by the best salon interior designer focuses on both easy navigation"
+    ],
+    [
+      "The available space is considered while planning the furniture",
+      "A salon interior designer considers the available space while planning the furniture"
+    ],
+    [
+      "Thus the lighting approach to the interior space must carefully balance both needs",
+      "Thus a good salon interior designer must carefully balance both needs in the lighting approach"
+    ],
+    [
+      "All factors like the choice of furniture,",
+      "For the best salon interior designer, all factors like the choice of furniture,"
+    ],
+    [
+      "We offer an end-to-end solution starting from the design process",
+      "As a salon interior designer, we offer an end-to-end solution starting from the design process"
+    ],
+    [
+      "A perfect salon interior needs an amazing look,",
+      "According to the best salon interior designers, a perfect salon interior needs an amazing look,"
+    ],
+    [
+      "It is possible. Even a small salon can boast",
+      "It is possible. With the best salon interior designer in Noida, even a small salon can boast"
+    ],
+    [
+      "can be planned along the lines of your current brand appeal",
+      "can be planned by a salon interior designer along the lines of your current brand appeal"
+    ],
+    [
+      "communicate aspects related to the salon'sbrand.",
+      "communicate the salon's brand."
+    ],
+    [
+      "As a salon/spa interior designer in Noida we comprehend all factors of such demanding professional interiors, considering workflows, the needs and expectations of the client and the people who use the premises- be it staff and, more significantly, the clients. Together with furniture, light, brand appeal, and spacing all have to work harmoniously to not just be lookers but also perfect functioners. Our Business <b>Best Salon Interior Designer in noida</b>&nbsp;and experience are a major advantage as a commercial interior designer in Noida and ensure all these factors are taken on board for creating a",
+      "As a salon and spa interior designer in Noida, we understand what these demanding professional interiors need: smooth workflows and the expectations of both your staff and, above all, your clients. Furniture, light, brand appeal and spacing all have to work together so the salon looks good and works perfectly. As the <b>Best Salon Interior Designer in Noida</b> and an experienced commercial interior designer in Noida, we make sure every one of these factors is covered to create a"
+    ]
+  ],
+  "services-farmhouse-interior-designer": [
+    [
+      "Blend rustic elements with contemporary furniture,",
+      "A farmhouse interior designer can blend rustic elements with contemporary furniture,"
+    ],
+    [
+      "This can be achieved in several ways:",
+      "A farmhouse interior designer can achieve this in several ways:"
+    ],
+    [
+      "a continuous visual link between the spaces may be designed.",
+      "a farmhouse interior designer may design a continuous visual link between the spaces."
+    ],
+    [
+      "Every farmhouse has different requirements.",
+      "For a farmhouse interior designer in Noida, every farmhouse has different requirements."
+    ],
+    [
+      "Good design needs proper planning from the beginning. We understand the property,",
+      "Good design needs proper planning from the beginning. As a farmhouse interior designer, we understand the property,"
+    ],
+    [
+      "Designing a farmhouse project requires specific consideration as it involves",
+      "A farmhouse interior designer gives every project specific consideration as it involves"
+    ],
+    [
+      "Sure. There can be a combination of rustic elements with",
+      "Sure. A farmhouse interior designer in Noida can combine rustic elements with"
+    ],
+    [
+      "Yes. The service can cover planning and project management",
+      "Yes. Our farmhouse interior designer service can cover planning and project management"
+    ],
+    [
+      "My goal is to make it feel tranquil and functional in all rooms, simple for family life.",
+      "Our goal is to make every room feel calm, practical and easy for family life."
+    ],
+    [
+      "The ability to create extra space on the exterior is the benefit offered by the farmhouse structure; make the best use of your available space!",
+      "A farmhouse usually offers more space than a city home, so it pays to use it well."
+    ],
+    [
+      "spacious rooms/living areas/dinings, comfortable bedrooms, and nice outside areas.",
+      "spacious living and dining areas, comfortable bedrooms and inviting outdoor spaces."
+    ],
+    [
+      "would further take care of the execution of the project from end to end. Having planned clearly the separate tasks would fall into one and make living easier.",
+      "also takes care of the execution of the project from end to end. With clear planning, every task comes together smoothly and the project stays simple for you."
+    ]
+  ],
+  "services-interior-architect-for-showroom-design": [
+    [
+      "Planning starts with understanding the brand and products.",
+      "Showroom interior design starts with understanding the brand and products."
+    ],
+    [
+      "A considered display system allocates enough space",
+      "In good showroom interior design, a considered display system allocates enough space"
+    ],
+    [
+      "Clear movement paths make it easier to explore different sections.",
+      "Clear movement paths, planned by an interior architect for showroom design, make it easier to explore different sections."
+    ],
+    [
+      "These details can make the showroom more convenient for visitors.",
+      "Good showroom interior design uses these details to make the showroom more convenient for visitors."
+    ],
+    [
+      "A modern showroom does not need one fixed style.",
+      "Modern showroom interior design does not need one fixed style."
+    ],
+    [
+      "The process starts by understanding the property,",
+      "As an interior architect for showroom design in Noida, we start the process by understanding the property,"
+    ],
+    [
+      "An interior architect plans the layout,",
+      "An interior architect for showroom design plans the layout,"
+    ],
+    [
+      "Hiding some of your products away or badly placing your products then they can go completely unnoticed.",
+      "Products that are hidden away or badly placed can go completely unnoticed."
+    ],
+    [
+      "Lighting is of great importance, lights directed onto displays bring certain stands and collections to life, the overall lighting contributes to a bright and spacious feel to the showroom. These can be situated where they enhance the shelves, counters, wall units etc.",
+      "Lighting is just as important. Lights directed onto displays bring key stands and collections to life, while the overall lighting gives the showroom a bright, spacious feel. Fittings can be placed to highlight shelves, counters and wall units."
+    ],
+    [
+      "The interplay of display, light, layout, and feel may lead an ordinary store to an extraordinary business objective.",
+      "The right mix of display, light, layout and feel can turn an ordinary store into a strong business asset."
+    ],
+    [
+      "designed the <b>interior of a showroom in Noida</b>&nbsp;with these aspects in mind,",
+      "plans each <b>showroom interior in Noida</b> with these aspects in mind,"
+    ]
+  ],
+  "services-interior-design-services": [
+    [
+      "Step 1 starts with comprehending customer habits,",
+      "Our interior design services start with comprehending customer habits,"
+    ],
+    [
+      "Material selection is handled with care.",
+      "Within our interior design services, material selection is handled with care."
+    ],
+    [
+      "We provide end-to-end design and execution",
+      "Our interior design services in Noida provide end-to-end design and execution"
+    ],
+    [
+      "We work on residential, commercial, and luxury spaces.",
+      "Our interior design services cover residential, commercial, and luxury spaces."
+    ],
+    [
+      "Through the correct approach, a basic property can be made welcoming,",
+      "Through the correct interior design services, a basic property can be made welcoming,"
+    ]
+  ],
+  "services-interior-designer-for-office": [
+    [
+      "One method to solve this is we design authorities in Noida where design solutions are business-well-disposed facilitating day-to-day processes.",
+      "As an office interior designer in Noida, we create design solutions that are business-friendly and support day-to-day processes."
+    ],
+    [
+      "We develop optimized office plans",
+      "As an office interior designer, we develop optimized office plans"
+    ],
+    [
+      "Basically, ergonomic furniture with good lighting is provided for comfort.",
+      "An office interior designer provides ergonomic furniture with good lighting for comfort."
+    ],
+    [
+      "We develop brand-focused interiors that reflect",
+      "Our office interior designer team develops brand-focused interiors that reflect"
+    ],
+    [
+      "We offer customized solutions based on workspace requirements",
+      "As an interior designer for office projects in Noida, we offer customized solutions based on workspace requirements"
+    ],
+    [
+      "- Yes. What's exciting is that it is important to see the brand colours, ocular details, furniture and chosen design elements can be used to create a blank that reflects the identity and finish of the fellowship.",
+      "Yes. An office interior designer can use brand colours, visual details, furniture and chosen design elements to create a workspace that reflects the identity and culture of the company."
+    ],
+    [
+      "Do you want to get started with this? What this shows is that berth design, furniture, lighting, colors and design components can influence employees and clients.",
+      "Layout, furniture, lighting, colours and other design elements all influence how employees and clients see the business."
+    ],
+    [
+      "Something different about this is that employees go through a cycle of work, and comfort becomes a factor during the work phase.",
+      "Employees spend long hours at their desks, so comfort matters throughout the working day."
+    ],
+    [
+      "This is more accessible than expected: well-designed furniture can aid movement, and the lighting provided can improve the rest of the experience.",
+      "Well-designed furniture supports good posture and easy movement, and the right lighting reduces strain."
+    ],
+    [
+      "The strength of this approach is that when the constituents work together, the layout, furniture, lighting and branding, the office is more organized, without making it overly complicated. Importantly, It's important to understand that this can help day-to-day life and help businesses achieve their ends at work. It's the workplace or the co-workspace; provision should begin with people and the work they need to do, which helps to create a clearer understanding.",
+      "When the layout, furniture, lighting and branding work together, the office feels organised without becoming complicated. This helps day-to-day work and supports the goals of the business. Whether it is a corporate office or a co-working space, the planning should begin with people and the work they need to do."
+    ],
+    [
+      "Looking at this, an exceptional office interior unites useful planning, comfortable furniture, appropriate lighting, movement, and purpose components that fit the company.",
+      "An exceptional office interior combines useful planning, comfortable furniture, appropriate lighting, easy movement and design elements that fit the company."
+    ],
+    [
+      "What's really impressive is that a good desk balances comfort, productivity, design, and brand. The data strongly suggests that with thoughtful design, biotechnology, lighting, and a special design, a medium post can become a more effective and welcoming workspace. This is actually quite simple:",
+      "A good office balances comfort, productivity, design and brand. With thoughtful planning, ergonomic furniture and the right lighting, an office of any size can become a more effective and welcoming workspace."
+    ],
+    [
+      "helps companies make Noida offices available for work, boost group productivity, and tell a tale, maximising the use of every centimetre of usable space.",
+      "helps companies in Noida create offices that work well, boost team productivity and tell their brand story, making the most of every square foot."
+    ]
+  ],
+  "services-luxury-home-interior-designs": [
+    [
+      "Is the aim to make things easier? In plain language, each house has its own character,",
+      "With luxury home interior designs, each house has its own character,"
+    ],
+    [
+      "Material selection has an important role in the final look of a home.",
+      "Material selection has an important role in luxury home interior designs."
+    ],
+    [
+      "Is the aim to make things easier? Basically, a full layout makes a luxury home open and easy to use.",
+      "In luxury home interior designs, a well-planned layout makes the home open and easy to use."
+    ],
+    [
+      "We combine the finest residential designs, personal consultations,",
+      "Our luxury home interior designs combine the finest residential planning, personal consultations,"
+    ],
+    [
+      "No. Good planning can make both large and smaller homes",
+      "No. With good planning, luxury home interior designs in Noida can make both large and smaller homes"
+    ],
+    [
+      "Would you like to create things easier? Basically, in addition, the solvent should be your life-style and give each proficiency a clear and well-defined goal.",
+      "Luxury home interior designs should follow your lifestyle and give each room a clear and well-defined goal."
+    ],
+    [
+      "Is it to make things easier? First of all, a good house is not simply expensive furniture and decoration; you will find that it has established an ambiance that has made you really feel relaxed and comfortable.",
+      "A luxury home is not simply expensive furniture and decoration; it is a setting that makes you feel relaxed and comfortable."
+    ],
+    [
+      "In simple terms, we design each part of a space carefully, so the final room feels particularly full without losing its practical side.",
+      "We design each part of the space carefully, so every room feels complete without losing its practical side."
+    ],
+    [
+      "To break this down, we realize you have a general idea of",
+      "You may already have a clear idea of"
+    ],
+    [
+      "This matters because our <b>high-end",
+      "Our <b>high-end"
+    ],
+    [
+      "Put differently, the living space can be designed to feel welcoming, the overlord rooms can offer a quiet, private environment, and the reception areas can be prepared for entertaining guests.",
+      "The living room can feel welcoming, the master bedroom can offer a quiet, private retreat, and the formal areas can be ready for entertaining guests."
+    ],
+    [
+      "Is it your aim to simplify things? In other words, our <b>luxurious",
+      "Our <b>luxurious"
+    ],
+    [
+      "takes into account all those tiny elements that could change the entire scent of your room. In fact, the colors, texture, lighting, furnishings, and surfaces are selected very carefully. It's really simple &ndash; just create a perfectly planned and comfortable space.",
+      "takes into account the small details that change the whole feel of a room. Colours, textures, lighting, furnishings and surfaces are chosen carefully to create a well-planned, comfortable space."
+    ],
+    [
+      "Basically, furniture should have enough space around it, roads should stay well-defined,",
+      "Furniture should have enough space around it, walkways should stay clear,"
+    ],
+    [
+      "The cool thing about this is that for <b>modern",
+      "As a <b>modern"
+    ],
+    [
+      "better leverage the available space. Simply put, substantial spaces can be divided into useful expanses without",
+      "make better use of the available space. Large spaces can be divided into useful zones without"
+    ],
+    [
+      "A unique aspect is that a luxury place should be",
+      "A luxury home should be"
+    ],
+    [
+      "Basically, with straight layouts, chosen materials, private particulars and a design based on your lifestyle, your home can make you find.",
+      "With clear layouts, well-chosen materials, personal details and a design based on your lifestyle, your home becomes a place you love coming back to."
+    ]
+  ],
+  "services-modern-interior-design": [
+    [
+      "We tailor our design processes to individual user needs rather than adopt a universal, harsh style.",
+      "We tailor our modern interior design to individual user needs rather than adopt a universal, rigid style."
+    ],
+    [
+      "We use minimalist planning to create open and airy areas",
+      "Modern interior design uses minimalist planning to create open and airy areas"
+    ],
+    [
+      "Lighting is integral to the design,",
+      "Lighting is integral to modern interior design,"
+    ],
+    [
+      "We also examine practical issues like furniture height,",
+      "In modern interior design in Noida, we also examine practical issues like furniture height,"
+    ],
+    [
+      "We provide end-to-end project handling,",
+      "For modern interior design, we provide end-to-end project handling,"
+    ],
+    [
+      "A house designed in modern style tries to establish spaces",
+      "Modern interior design in Noida tries to establish spaces"
+    ],
+    [
+      "you have various materials, texture and finishes all working together fairly simply. Everything rests on a space's purpose, which is space and the desires from a client in terms of the finish required.",
+      "you have various materials, textures and finishes working together in a simple way. The choice depends on the purpose of the space and the finish the client wants."
+    ],
+    [
+      "With our method, a house, an office or a commercial building may be design individually. Colors, furniture, material, lighting and d&eacute;cor will choose to reflect unity of interior elements. It will be new in design and will be fitted for their user.",
+      "With our method, a house, an office or a commercial building is designed individually. Colours, furniture, materials, lighting and decor are chosen to work together, so the interior feels fresh and suits the people who use it."
+    ]
+  ],
+  "services-residential-interior-design": [
+    [
+      "This is more accessible than expected: this approach engages the Assembly naturally and personally.",
+      "Good residential interior design responds to this naturally and personally."
+    ],
+    [
+      "A living space should be open and well-lit for families and guests, which allows for clearer understanding.",
+      "In residential interior design, a living space should be open and well-lit for families and guests."
+    ],
+    [
+      "Spatial planning is an. One approach is a full layout that helps people move easily",
+      "Spatial planning is at the heart of residential interior design. A full layout helps people move easily"
+    ],
+    [
+      "As an <b>interior design society in Noida</b>, we focus on virtual layouts",
+      "As a <b>residential interior design</b> studio in Noida, we focus on practical layouts"
+    ],
+    [
+      "an experienced <b>upcountry design firm in Noida</b>",
+      "an experienced <b>residential interior design firm in Noida</b>"
+    ],
+    [
+      "In simple terms, it can understand the motivations of the syndicate and turn them into a practical aim.",
+      "In residential interior design, it can understand the needs of the family and turn them into a practical plan."
+    ],
+    [
+      "Yes. Each property can be planned according to its size,",
+      "Yes. Our residential interior design in Noida plans each property according to its size,"
+    ],
+    [
+      "Is the goal to make things easier? Simply put, a house should be more than a place where citizens live. To clarify, You'll notice that it should feel comfortable, helpful, personal, and welcoming. This is straightforward once you get it; the",
+      "A house should be more than a place where a family lives. It should feel comfortable, useful, personal and welcoming. Our"
+    ],
+    [
+      "focuses on areas that meet the lifestyle, personality, and comfort needs of a family. Good planning suits you.",
+      "focuses on spaces that match the lifestyle, personality and comfort needs of your family."
+    ],
+    [
+      "It's important to understand that every family has a different lifestyle. It is worth highlighting that the intention should be considered.",
+      "Every family has a different lifestyle, and the design should start from it."
+    ],
+    [
+      "First, it includes mobility, daily life, space motives, and the preferred aspect. The research indicates that one thing worth noting is that this helps create an interior that feels personal and adapted to Today's Daily life.",
+      "They look at how you move through the home, your daily routine, how each room is used and the look you prefer. This creates an interior that feels personal and suits everyday life."
+    ],
+    [
+      "What sets this apart is that the keep room, kitchens, rooms, and reception areas require a different layout, setting a cutting-edge standard in the field.",
+      "Living rooms, kitchens, bedrooms and study areas each need a different layout."
+    ],
+    [
+      "In simple terms, A unique aspect is that the kitchen involves an uncomplicated arrangement, useful storage and sufficient workspace. In simple terms, the chambers should create a restrained environment; a reception role should support focused work.",
+      "A kitchen needs a simple arrangement, useful storage and enough workspace. Bedrooms should feel calm and private, while a study should support focused work."
+    ],
+    [
+      "Considering this, when you need some help, even a small apartment",
+      "With careful planning, even a small apartment"
+    ],
+    [
+      "providing an opportunity for more accessible ideas. In simple terms, placement, storage, lighting, colours, and decor are viewed together. Researchers should consider that one advantage of this is that it creates a balance, where each company has a well-defined end, without making it overly complicated.",
+      "with furniture placement, storage, lighting, colours and decor planned together. This creates a balanced home where every area has a clear purpose."
+    ],
+    [
+      "Would you like to make things easier? In basic terms, a modernistic home should support the style its inhabitants live. Basically, some families require more storage others require time to spend together. When pushing for better results, these details are important; a beautiful way is more useful if it works well for the people who inhabit it.",
+      "A modern home should support the way its owners live. Some families need more storage, while others want more space to spend time together. These details matter, because a beautiful home is only useful if it works well for the people who live in it."
+    ],
+    [
+      "You'll notice that <b>residential",
+      "Modern <b>residential"
+    ],
+    [
+      "Put differently, Aim is not necessarily. If you're having trouble, it should combine current ideas with decisions that remain well-situated over time.",
+      "The aim is to combine current ideas with choices that will still work well over time."
+    ],
+    [
+      "Looking to make the construction process easier and more efficient? A smooth design process starts with understanding the product and its users.",
+      "A smooth design process starts with understanding the home and the people who live in it."
+    ],
+    [
+      "The momentum stays on. Basically, any decision should align with the overall vision of the Assembly. This is a valuable insight:",
+      "Every decision should follow the overall vision for the home, and"
+    ],
+    [
+      "This is actually quite simple: a professional team",
+      "A professional team"
+    ],
+    [
+      "Is the goal to make things easier? Basically, from concept to execution, clear preparation helps to ensure consistency and facilitates the operation.",
+      "From concept to execution, clear planning keeps the work consistent and the project on track."
+    ],
+    [
+      "Is the goal to make things easier? To break this down, an<b>&nbsp;interior architect</b>&nbsp;for the theatre in Noida can aid with the planning of the space, furniture, equipment, lighting, colours, and fabrics.",
+      "For a home theatre or media room, an <b>interior architect</b> in Noida can help plan the space, furniture, equipment, lighting, colours and fabrics."
+    ],
+    [
+      "You'll notice that with the right advice, owners can",
+      "With the right advice, owners can"
+    ],
+    [
+      "<h2>The main point is that conclusion.</h2>",
+      "<h2>Conclusion</h2>"
+    ],
+    [
+      "you'll receive more than a beautiful aesthetic; you will get a space you will love to live and relax.",
+      "you get more than good looks; you get a space you will love to live and relax in."
+    ]
+  ],
+  "services-top-interior-design-firm": [
+    [
+      "We first define a space's layout, occupants, and purpose.",
+      "As a top interior design firm, we first define a space's layout, occupants, and purpose."
+    ],
+    [
+      "Every project began with a conversation",
+      "At a top interior design firm, every project begins with a conversation"
+    ],
+    [
+      "Rooms such as living rooms, bedrooms, kitchens, dining areas, and more We will organize rooms such as living rooms, bedrooms, kitchens, and dining areas to flow seamlessly with one another. to flow with each other.",
+      "Living rooms, bedrooms, kitchens, and dining areas are organized to flow seamlessly with one another."
+    ],
+    [
+      "Our team also pays attention to the size and character of the property.",
+      "As a top interior design firm in Noida, our team also pays attention to the size and character of the property."
+    ],
+    [
+      "Color choices, furniture placement, lighting, wall treatments, flooring, storage, and decorative details We select color choices, furniture placement, lighting, wall treatments, flooring, storage, and decorative details based on the purpose of each area. according to the purpose of each area.",
+      "As a top interior design firm, we select color choices, furniture placement, lighting, wall treatments, flooring, storage, and decorative details according to the purpose of each area."
+    ],
+    [
+      "Modern, simple, classic, elegant, or contemporary themes You can shape modern, simple, classic, elegant, or contemporary themes around the property. around the property.",
+      "Modern, simple, classic, elegant, or contemporary themes can be shaped around the property."
+    ],
+    [
+      "A planned design process helps keep the work organized from the start.",
+      "A top interior design firm follows a planned design process that keeps the work organized from the start."
+    ],
+    [
+      "The commercial client could require a different style of work.",
+      "A top interior design firm knows that a commercial client could require a different style of work."
+    ],
+    [
+      "Choosing a professional design team can make the process easier to manage.",
+      "Choosing a top interior design firm in Noida can make the process easier to manage."
+    ],
+    [
+      "The process starts with understanding the property, requirements,",
+      "As a top interior design firm, we start the process by understanding the property, requirements,"
+    ],
+    [
+      "to increase not only in their usability and inviting atmosphere but also in their symmetry.",
+      "to become more usable, inviting and well balanced."
+    ],
+    [
+      "cater to the true requirements</p>",
+      "cater to the true requirements of every client and every space.</p>"
+    ]
+  ]
+}

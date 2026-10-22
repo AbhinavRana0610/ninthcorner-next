@@ -1,0 +1,3684 @@
+[
+ {
+  "route": "/about-us.php",
+  "slug": [
+   "about-us.php"
+  ],
+  "key": "about-us"
+ },
+ {
+  "route": "/ak-jain-residence-interior-design.php",
+  "slug": [
+   "ak-jain-residence-interior-design.php"
+  ],
+  "key": "ak-jain1"
+ },
+ {
+  "route": "/alok-verma-residence-interior-design.php",
+  "slug": [
+   "alok-verma-residence-interior-design.php"
+  ],
+  "key": "alok-verma3"
+ },
+ {
+  "route": "/anand-residence-interior-design.php",
+  "slug": [
+   "anand-residence-interior-design.php"
+  ],
+  "key": "anand11"
+ },
+ {
+  "route": "/arun-residence-interior-design.php",
+  "slug": [
+   "arun-residence-interior-design.php"
+  ],
+  "key": "arun4"
+ },
+ {
+  "route": "/blog-architecture-services.php",
+  "slug": [
+   "blog-architecture-services.php"
+  ],
+  "key": "blog-architecture-services"
+ },
+ {
+  "route": "/blog-best-affordable-interior-design-firm-for-2bhk.php",
+  "slug": [
+   "blog-best-affordable-interior-design-firm-for-2bhk.php"
+  ],
+  "key": "blog-best-affordable-interior-design-firm-for-2BHK"
+ },
+ {
+  "route": "/blog-best-interior-designers.php",
+  "slug": [
+   "blog-best-interior-designers.php"
+  ],
+  "key": "blog-Best-interior-designers"
+ },
+ {
+  "route": "/blog-best-salon-interior-designer.php",
+  "slug": [
+   "blog-best-salon-interior-designer.php"
+  ],
+  "key": "blog-best-salon-interior-designer"
+ },
+ {
+  "route": "/blog-exclusively-for-premium-homes-theatre-design-services.php",
+  "slug": [
+   "blog-exclusively-for-premium-homes-theatre-design-services.php"
+  ],
+  "key": "blog-Exclusively-for-Premium-Homes-Theatre-Design-Services"
+ },
+ {
+  "route": "/blog-how-we-create-custom-luxury-interiors-for-high-end-clients.php",
+  "slug": [
+   "blog-how-we-create-custom-luxury-interiors-for-high-end-clients.php"
+  ],
+  "key": "blog-how-we-create-custom-luxury-interiors-for-high-end-clients"
+ },
+ {
+  "route": "/blog-interior-design-company-for-small-flats.php",
+  "slug": [
+   "blog-interior-design-company-for-small-flats.php"
+  ],
+  "key": "blog-interior-design-company-for-small-flats"
+ },
+ {
+  "route": "/blog-interior-design-services-offered-for-small-flats.php",
+  "slug": [
+   "blog-interior-design-services-offered-for-small-flats.php"
+  ],
+  "key": "blog-interior-design-services-offered-for-small-flats"
+ },
+ {
+  "route": "/blog-interior-design-services.php",
+  "slug": [
+   "blog-interior-design-services.php"
+  ],
+  "key": "blog-interior-design-services"
+ },
+ {
+  "route": "/blog-luxury-furniture-and-custom-built-in-solutions.php",
+  "slug": [
+   "blog-luxury-furniture-and-custom-built-in-solutions.php"
+  ],
+  "key": "blog-luxury-furniture-and-custom-built-in-solutions"
+ },
+ {
+  "route": "/blog-our-process-of-designing-luxury-office-salons-and-hotels-from-vision-to-reality.php",
+  "slug": [
+   "blog-our-process-of-designing-luxury-office-salons-and-hotels-from-vision-to-reality.php"
+  ],
+  "key": "blog-Our-Process-of-Designing-Luxury-Office-Salons-and-Hotels-From-Vision-to-Reality"
+ },
+ {
+  "route": "/blog-the-top-interior-design-firm.php",
+  "slug": [
+   "blog-the-top-interior-design-firm.php"
+  ],
+  "key": "blog-the-top-interior-design-firm"
+ },
+ {
+  "route": "/blog.php",
+  "slug": [
+   "blog.php"
+  ],
+  "key": "blog"
+ },
+ {
+  "route": "/blog-best-interior-designers-in-india.php",
+  "slug": [
+   "blog-best-interior-designers-in-india.php"
+  ],
+  "key": "blog1"
+ },
+ {
+  "route": "/blog-hire-professional-interior-designers.php",
+  "slug": [
+   "blog-hire-professional-interior-designers.php"
+  ],
+  "key": "blog2"
+ },
+ {
+  "route": "/blog-interior-design-for-homes.php",
+  "slug": [
+   "blog-interior-design-for-homes.php"
+  ],
+  "key": "blog3"
+ },
+ {
+  "route": "/blog-architecture-services-in-india.php",
+  "slug": [
+   "blog-architecture-services-in-india.php"
+  ],
+  "key": "blog4"
+ },
+ {
+  "route": "/blog-why-india-is-a-center-for-interior-design.php",
+  "slug": [
+   "blog-why-india-is-a-center-for-interior-design.php"
+  ],
+  "key": "blog5"
+ },
+ {
+  "route": "/contact.php",
+  "slug": [
+   "contact.php"
+  ],
+  "key": "contact"
+ },
+ {
+  "route": "/dr-jain-residence-interior-design.php",
+  "slug": [
+   "dr-jain-residence-interior-design.php"
+  ],
+  "key": "dr-jain2"
+ },
+ {
+  "route": "/gallery.php",
+  "slug": [
+   "gallery.php"
+  ],
+  "key": "gallery"
+ },
+ {
+  "route": "/interior-design-service-areas.php",
+  "slug": [
+   "interior-design-service-areas.php"
+  ],
+  "key": "global"
+ },
+ {
+  "route": "/hannu-office.php",
+  "slug": [
+   "hannu-office.php"
+  ],
+  "key": "hannu-office"
+ },
+ {
+  "route": "/",
+  "slug": [],
+  "key": "index"
+ },
+ {
+  "route": "/luxuria-interior-design.php",
+  "slug": [
+   "luxuria-interior-design.php"
+  ],
+  "key": "Luxuria"
+ },
+ {
+  "route": "/project.php",
+  "slug": [
+   "project.php"
+  ],
+  "key": "project"
+ },
+ {
+  "route": "/raj-gupta-residence-interior-design.php",
+  "slug": [
+   "raj-gupta-residence-interior-design.php"
+  ],
+  "key": "raj-gupta5"
+ },
+ {
+  "route": "/rana-residence-interior-design.php",
+  "slug": [
+   "rana-residence-interior-design.php"
+  ],
+  "key": "rana6"
+ },
+ {
+  "route": "/rao-residence-interior-design.php",
+  "slug": [
+   "rao-residence-interior-design.php"
+  ],
+  "key": "rao7"
+ },
+ {
+  "route": "/sachin-residence-interior-design.php",
+  "slug": [
+   "sachin-residence-interior-design.php"
+  ],
+  "key": "sachin8"
+ },
+ {
+  "route": "/services-architecture-services.php",
+  "slug": [
+   "services-architecture-services.php"
+  ],
+  "key": "services-architecture-services"
+ },
+ {
+  "route": "/services-best-interior-designers.php",
+  "slug": [
+   "services-best-interior-designers.php"
+  ],
+  "key": "services-best-interior-designers"
+ },
+ {
+  "route": "/services-best-salon-interior-designer.php",
+  "slug": [
+   "services-best-salon-interior-designer.php"
+  ],
+  "key": "services-best-salon-interior-designer"
+ },
+ {
+  "route": "/services-farmhouse-interior-designer.php",
+  "slug": [
+   "services-farmhouse-interior-designer.php"
+  ],
+  "key": "services-farmhouse-interior-designer"
+ },
+ {
+  "route": "/services-interior-architect-for-showroom-design.php",
+  "slug": [
+   "services-interior-architect-for-showroom-design.php"
+  ],
+  "key": "services-interior-architect-for-showroom-design"
+ },
+ {
+  "route": "/services-interior-design-services.php",
+  "slug": [
+   "services-interior-design-services.php"
+  ],
+  "key": "services-interior-design-services"
+ },
+ {
+  "route": "/services-interior-designer-for-office.php",
+  "slug": [
+   "services-interior-designer-for-office.php"
+  ],
+  "key": "services-interior-designer-for-office"
+ },
+ {
+  "route": "/services-luxury-home-interior-designs.php",
+  "slug": [
+   "services-luxury-home-interior-designs.php"
+  ],
+  "key": "services-luxury-home-interior-designs"
+ },
+ {
+  "route": "/services-modern-interior-design.php",
+  "slug": [
+   "services-modern-interior-design.php"
+  ],
+  "key": "services-modern-interior-design"
+ },
+ {
+  "route": "/services-residential-interior-design.php",
+  "slug": [
+   "services-residential-interior-design.php"
+  ],
+  "key": "services-residential-interior-design"
+ },
+ {
+  "route": "/services-salon-interior-designer.php",
+  "slug": [
+   "services-salon-interior-designer.php"
+  ],
+  "key": "services-Salon-interior-designer"
+ },
+ {
+  "route": "/services-top-interior-design-firm.php",
+  "slug": [
+   "services-top-interior-design-firm.php"
+  ],
+  "key": "services-top-interior-design-firm"
+ },
+ {
+  "route": "/services.php",
+  "slug": [
+   "services.php"
+  ],
+  "key": "services"
+ },
+ {
+  "route": "/star-salon.php",
+  "slug": [
+   "star-salon.php"
+  ],
+  "key": "star-salon"
+ },
+ {
+  "route": "/umesh-residence-interior-design.php",
+  "slug": [
+   "umesh-residence-interior-design.php"
+  ],
+  "key": "umesh9"
+ },
+ {
+  "route": "/vijay-residence-interior-design.php",
+  "slug": [
+   "vijay-residence-interior-design.php"
+  ],
+  "key": "vijay12"
+ },
+ {
+  "route": "/virendra-residence-interior-design.php",
+  "slug": [
+   "virendra-residence-interior-design.php"
+  ],
+  "key": "virend10"
+ },
+ {
+  "route": "/chhattarpur/about-us.php",
+  "slug": [
+   "chhattarpur",
+   "about-us.php"
+  ],
+  "key": "chhattarpur__about-us"
+ },
+ {
+  "route": "/chhattarpur/ak-jain-residence-interior-design.php",
+  "slug": [
+   "chhattarpur",
+   "ak-jain-residence-interior-design.php"
+  ],
+  "key": "chhattarpur__ak-jain1"
+ },
+ {
+  "route": "/chhattarpur/alok-verma-residence-interior-design.php",
+  "slug": [
+   "chhattarpur",
+   "alok-verma-residence-interior-design.php"
+  ],
+  "key": "chhattarpur__alok-verma3"
+ },
+ {
+  "route": "/chhattarpur/anand-residence-interior-design.php",
+  "slug": [
+   "chhattarpur",
+   "anand-residence-interior-design.php"
+  ],
+  "key": "chhattarpur__anand11"
+ },
+ {
+  "route": "/chhattarpur/arun-residence-interior-design.php",
+  "slug": [
+   "chhattarpur",
+   "arun-residence-interior-design.php"
+  ],
+  "key": "chhattarpur__arun4"
+ },
+ {
+  "route": "/chhattarpur/blog-architecture-services.php",
+  "slug": [
+   "chhattarpur",
+   "blog-architecture-services.php"
+  ],
+  "key": "chhattarpur__blog-architecture-services"
+ },
+ {
+  "route": "/chhattarpur/blog-best-affordable-interior-design-firm-for-2bhk.php",
+  "slug": [
+   "chhattarpur",
+   "blog-best-affordable-interior-design-firm-for-2bhk.php"
+  ],
+  "key": "chhattarpur__blog-best-affordable-interior-design-firm-for-2BHK"
+ },
+ {
+  "route": "/chhattarpur/blog-best-interior-designers.php",
+  "slug": [
+   "chhattarpur",
+   "blog-best-interior-designers.php"
+  ],
+  "key": "chhattarpur__blog-Best-interior-designers"
+ },
+ {
+  "route": "/chhattarpur/blog-best-salon-interior-designer.php",
+  "slug": [
+   "chhattarpur",
+   "blog-best-salon-interior-designer.php"
+  ],
+  "key": "chhattarpur__blog-best-salon-interior-designer"
+ },
+ {
+  "route": "/chhattarpur/blog-exclusively-for-premium-homes-theatre-design-services.php",
+  "slug": [
+   "chhattarpur",
+   "blog-exclusively-for-premium-homes-theatre-design-services.php"
+  ],
+  "key": "chhattarpur__blog-Exclusively-for-Premium-Homes-Theatre-Design-Services"
+ },
+ {
+  "route": "/chhattarpur/blog-how-we-create-custom-luxury-interiors-for-high-end-clients.php",
+  "slug": [
+   "chhattarpur",
+   "blog-how-we-create-custom-luxury-interiors-for-high-end-clients.php"
+  ],
+  "key": "chhattarpur__blog-how-we-create-custom-luxury-interiors-for-high-end-clients"
+ },
+ {
+  "route": "/chhattarpur/blog-interior-design-company-for-small-flats.php",
+  "slug": [
+   "chhattarpur",
+   "blog-interior-design-company-for-small-flats.php"
+  ],
+  "key": "chhattarpur__blog-interior-design-company-for-small-flats"
+ },
+ {
+  "route": "/chhattarpur/blog-interior-design-services-offered-for-small-flats.php",
+  "slug": [
+   "chhattarpur",
+   "blog-interior-design-services-offered-for-small-flats.php"
+  ],
+  "key": "chhattarpur__blog-interior-design-services-offered-for-small-flats"
+ },
+ {
+  "route": "/chhattarpur/blog-interior-design-services.php",
+  "slug": [
+   "chhattarpur",
+   "blog-interior-design-services.php"
+  ],
+  "key": "chhattarpur__blog-interior-design-services"
+ },
+ {
+  "route": "/chhattarpur/blog-luxury-furniture-and-custom-built-in-solutions.php",
+  "slug": [
+   "chhattarpur",
+   "blog-luxury-furniture-and-custom-built-in-solutions.php"
+  ],
+  "key": "chhattarpur__blog-luxury-furniture-and-custom-built-in-solutions"
+ },
+ {
+  "route": "/chhattarpur/blog-our-process-of-designing-luxury-office-salons-and-hotels-from-vision-to-reality.php",
+  "slug": [
+   "chhattarpur",
+   "blog-our-process-of-designing-luxury-office-salons-and-hotels-from-vision-to-reality.php"
+  ],
+  "key": "chhattarpur__blog-Our-Process-of-Designing-Luxury-Office-Salons-and-Hotels-From-Vision-to-Reality"
+ },
+ {
+  "route": "/chhattarpur/blog-the-top-interior-design-firm.php",
+  "slug": [
+   "chhattarpur",
+   "blog-the-top-interior-design-firm.php"
+  ],
+  "key": "chhattarpur__blog-the-top-interior-design-firm"
+ },
+ {
+  "route": "/chhattarpur/blog.php",
+  "slug": [
+   "chhattarpur",
+   "blog.php"
+  ],
+  "key": "chhattarpur__blog"
+ },
+ {
+  "route": "/chhattarpur/blog-best-interior-designers-in-india.php",
+  "slug": [
+   "chhattarpur",
+   "blog-best-interior-designers-in-india.php"
+  ],
+  "key": "chhattarpur__blog1"
+ },
+ {
+  "route": "/chhattarpur/blog-hire-professional-interior-designers.php",
+  "slug": [
+   "chhattarpur",
+   "blog-hire-professional-interior-designers.php"
+  ],
+  "key": "chhattarpur__blog2"
+ },
+ {
+  "route": "/chhattarpur/blog-interior-design-for-homes.php",
+  "slug": [
+   "chhattarpur",
+   "blog-interior-design-for-homes.php"
+  ],
+  "key": "chhattarpur__blog3"
+ },
+ {
+  "route": "/chhattarpur/blog-architecture-services-in-india.php",
+  "slug": [
+   "chhattarpur",
+   "blog-architecture-services-in-india.php"
+  ],
+  "key": "chhattarpur__blog4"
+ },
+ {
+  "route": "/chhattarpur/blog-why-india-is-a-center-for-interior-design.php",
+  "slug": [
+   "chhattarpur",
+   "blog-why-india-is-a-center-for-interior-design.php"
+  ],
+  "key": "chhattarpur__blog5"
+ },
+ {
+  "route": "/chhattarpur/contact.php",
+  "slug": [
+   "chhattarpur",
+   "contact.php"
+  ],
+  "key": "chhattarpur__contact"
+ },
+ {
+  "route": "/chhattarpur/dr-jain-residence-interior-design.php",
+  "slug": [
+   "chhattarpur",
+   "dr-jain-residence-interior-design.php"
+  ],
+  "key": "chhattarpur__dr-jain2"
+ },
+ {
+  "route": "/chhattarpur/gallery.php",
+  "slug": [
+   "chhattarpur",
+   "gallery.php"
+  ],
+  "key": "chhattarpur__gallery"
+ },
+ {
+  "route": "/chhattarpur/interior-design-service-areas.php",
+  "slug": [
+   "chhattarpur",
+   "interior-design-service-areas.php"
+  ],
+  "key": "chhattarpur__global"
+ },
+ {
+  "route": "/chhattarpur/hannu-office.php",
+  "slug": [
+   "chhattarpur",
+   "hannu-office.php"
+  ],
+  "key": "chhattarpur__hannu-office"
+ },
+ {
+  "route": "/chhattarpur/",
+  "slug": [
+   "chhattarpur"
+  ],
+  "key": "chhattarpur__index"
+ },
+ {
+  "route": "/chhattarpur/luxuria-interior-design.php",
+  "slug": [
+   "chhattarpur",
+   "luxuria-interior-design.php"
+  ],
+  "key": "chhattarpur__Luxuria"
+ },
+ {
+  "route": "/chhattarpur/project.php",
+  "slug": [
+   "chhattarpur",
+   "project.php"
+  ],
+  "key": "chhattarpur__project"
+ },
+ {
+  "route": "/chhattarpur/raj-gupta-residence-interior-design.php",
+  "slug": [
+   "chhattarpur",
+   "raj-gupta-residence-interior-design.php"
+  ],
+  "key": "chhattarpur__raj-gupta5"
+ },
+ {
+  "route": "/chhattarpur/rana-residence-interior-design.php",
+  "slug": [
+   "chhattarpur",
+   "rana-residence-interior-design.php"
+  ],
+  "key": "chhattarpur__rana6"
+ },
+ {
+  "route": "/chhattarpur/rao-residence-interior-design.php",
+  "slug": [
+   "chhattarpur",
+   "rao-residence-interior-design.php"
+  ],
+  "key": "chhattarpur__rao7"
+ },
+ {
+  "route": "/chhattarpur/sachin-residence-interior-design.php",
+  "slug": [
+   "chhattarpur",
+   "sachin-residence-interior-design.php"
+  ],
+  "key": "chhattarpur__sachin8"
+ },
+ {
+  "route": "/chhattarpur/services-architecture-services.php",
+  "slug": [
+   "chhattarpur",
+   "services-architecture-services.php"
+  ],
+  "key": "chhattarpur__services-architecture-services"
+ },
+ {
+  "route": "/chhattarpur/services-best-interior-designers.php",
+  "slug": [
+   "chhattarpur",
+   "services-best-interior-designers.php"
+  ],
+  "key": "chhattarpur__services-best-interior-designers"
+ },
+ {
+  "route": "/chhattarpur/services-best-salon-interior-designer.php",
+  "slug": [
+   "chhattarpur",
+   "services-best-salon-interior-designer.php"
+  ],
+  "key": "chhattarpur__services-best-salon-interior-designer"
+ },
+ {
+  "route": "/chhattarpur/services-farmhouse-interior-designer.php",
+  "slug": [
+   "chhattarpur",
+   "services-farmhouse-interior-designer.php"
+  ],
+  "key": "chhattarpur__services-farmhouse-interior-designer"
+ },
+ {
+  "route": "/chhattarpur/services-interior-architect-for-showroom-design.php",
+  "slug": [
+   "chhattarpur",
+   "services-interior-architect-for-showroom-design.php"
+  ],
+  "key": "chhattarpur__services-interior-architect-for-showroom-design"
+ },
+ {
+  "route": "/chhattarpur/services-interior-design-services.php",
+  "slug": [
+   "chhattarpur",
+   "services-interior-design-services.php"
+  ],
+  "key": "chhattarpur__services-interior-design-services"
+ },
+ {
+  "route": "/chhattarpur/services-interior-designer-for-office.php",
+  "slug": [
+   "chhattarpur",
+   "services-interior-designer-for-office.php"
+  ],
+  "key": "chhattarpur__services-interior-designer-for-office"
+ },
+ {
+  "route": "/chhattarpur/services-luxury-home-interior-designs.php",
+  "slug": [
+   "chhattarpur",
+   "services-luxury-home-interior-designs.php"
+  ],
+  "key": "chhattarpur__services-luxury-home-interior-designs"
+ },
+ {
+  "route": "/chhattarpur/services-modern-interior-design.php",
+  "slug": [
+   "chhattarpur",
+   "services-modern-interior-design.php"
+  ],
+  "key": "chhattarpur__services-modern-interior-design"
+ },
+ {
+  "route": "/chhattarpur/services-residential-interior-design.php",
+  "slug": [
+   "chhattarpur",
+   "services-residential-interior-design.php"
+  ],
+  "key": "chhattarpur__services-residential-interior-design"
+ },
+ {
+  "route": "/chhattarpur/services-salon-interior-designer.php",
+  "slug": [
+   "chhattarpur",
+   "services-salon-interior-designer.php"
+  ],
+  "key": "chhattarpur__services-Salon-interior-designer"
+ },
+ {
+  "route": "/chhattarpur/services-top-interior-design-firm.php",
+  "slug": [
+   "chhattarpur",
+   "services-top-interior-design-firm.php"
+  ],
+  "key": "chhattarpur__services-top-interior-design-firm"
+ },
+ {
+  "route": "/chhattarpur/services.php",
+  "slug": [
+   "chhattarpur",
+   "services.php"
+  ],
+  "key": "chhattarpur__services"
+ },
+ {
+  "route": "/chhattarpur/star-salon.php",
+  "slug": [
+   "chhattarpur",
+   "star-salon.php"
+  ],
+  "key": "chhattarpur__star-salon"
+ },
+ {
+  "route": "/chhattarpur/umesh-residence-interior-design.php",
+  "slug": [
+   "chhattarpur",
+   "umesh-residence-interior-design.php"
+  ],
+  "key": "chhattarpur__umesh9"
+ },
+ {
+  "route": "/chhattarpur/vijay-residence-interior-design.php",
+  "slug": [
+   "chhattarpur",
+   "vijay-residence-interior-design.php"
+  ],
+  "key": "chhattarpur__vijay12"
+ },
+ {
+  "route": "/chhattarpur/virendra-residence-interior-design.php",
+  "slug": [
+   "chhattarpur",
+   "virendra-residence-interior-design.php"
+  ],
+  "key": "chhattarpur__virend10"
+ },
+ {
+  "route": "/delhi/about-us.php",
+  "slug": [
+   "delhi",
+   "about-us.php"
+  ],
+  "key": "delhi__about-us"
+ },
+ {
+  "route": "/delhi/ak-jain-residence-interior-design.php",
+  "slug": [
+   "delhi",
+   "ak-jain-residence-interior-design.php"
+  ],
+  "key": "delhi__ak-jain1"
+ },
+ {
+  "route": "/delhi/alok-verma-residence-interior-design.php",
+  "slug": [
+   "delhi",
+   "alok-verma-residence-interior-design.php"
+  ],
+  "key": "delhi__alok-verma3"
+ },
+ {
+  "route": "/delhi/anand-residence-interior-design.php",
+  "slug": [
+   "delhi",
+   "anand-residence-interior-design.php"
+  ],
+  "key": "delhi__anand11"
+ },
+ {
+  "route": "/delhi/arun-residence-interior-design.php",
+  "slug": [
+   "delhi",
+   "arun-residence-interior-design.php"
+  ],
+  "key": "delhi__arun4"
+ },
+ {
+  "route": "/delhi/blog-architecture-services.php",
+  "slug": [
+   "delhi",
+   "blog-architecture-services.php"
+  ],
+  "key": "delhi__blog-architecture-services"
+ },
+ {
+  "route": "/delhi/blog-best-affordable-interior-design-firm-for-2bhk.php",
+  "slug": [
+   "delhi",
+   "blog-best-affordable-interior-design-firm-for-2bhk.php"
+  ],
+  "key": "delhi__blog-best-affordable-interior-design-firm-for-2BHK"
+ },
+ {
+  "route": "/delhi/blog-best-interior-designers.php",
+  "slug": [
+   "delhi",
+   "blog-best-interior-designers.php"
+  ],
+  "key": "delhi__blog-Best-interior-designers"
+ },
+ {
+  "route": "/delhi/blog-best-salon-interior-designer.php",
+  "slug": [
+   "delhi",
+   "blog-best-salon-interior-designer.php"
+  ],
+  "key": "delhi__blog-best-salon-interior-designer"
+ },
+ {
+  "route": "/delhi/blog-exclusively-for-premium-homes-theatre-design-services.php",
+  "slug": [
+   "delhi",
+   "blog-exclusively-for-premium-homes-theatre-design-services.php"
+  ],
+  "key": "delhi__blog-Exclusively-for-Premium-Homes-Theatre-Design-Services"
+ },
+ {
+  "route": "/delhi/blog-how-we-create-custom-luxury-interiors-for-high-end-clients.php",
+  "slug": [
+   "delhi",
+   "blog-how-we-create-custom-luxury-interiors-for-high-end-clients.php"
+  ],
+  "key": "delhi__blog-how-we-create-custom-luxury-interiors-for-high-end-clients"
+ },
+ {
+  "route": "/delhi/blog-interior-design-company-for-small-flats.php",
+  "slug": [
+   "delhi",
+   "blog-interior-design-company-for-small-flats.php"
+  ],
+  "key": "delhi__blog-interior-design-company-for-small-flats"
+ },
+ {
+  "route": "/delhi/blog-interior-design-services-offered-for-small-flats.php",
+  "slug": [
+   "delhi",
+   "blog-interior-design-services-offered-for-small-flats.php"
+  ],
+  "key": "delhi__blog-interior-design-services-offered-for-small-flats"
+ },
+ {
+  "route": "/delhi/blog-interior-design-services.php",
+  "slug": [
+   "delhi",
+   "blog-interior-design-services.php"
+  ],
+  "key": "delhi__blog-interior-design-services"
+ },
+ {
+  "route": "/delhi/blog-luxury-furniture-and-custom-built-in-solutions.php",
+  "slug": [
+   "delhi",
+   "blog-luxury-furniture-and-custom-built-in-solutions.php"
+  ],
+  "key": "delhi__blog-luxury-furniture-and-custom-built-in-solutions"
+ },
+ {
+  "route": "/delhi/blog-our-process-of-designing-luxury-office-salons-and-hotels-from-vision-to-reality.php",
+  "slug": [
+   "delhi",
+   "blog-our-process-of-designing-luxury-office-salons-and-hotels-from-vision-to-reality.php"
+  ],
+  "key": "delhi__blog-Our-Process-of-Designing-Luxury-Office-Salons-and-Hotels-From-Vision-to-Reality"
+ },
+ {
+  "route": "/delhi/blog-the-top-interior-design-firm.php",
+  "slug": [
+   "delhi",
+   "blog-the-top-interior-design-firm.php"
+  ],
+  "key": "delhi__blog-the-top-interior-design-firm"
+ },
+ {
+  "route": "/delhi/blog.php",
+  "slug": [
+   "delhi",
+   "blog.php"
+  ],
+  "key": "delhi__blog"
+ },
+ {
+  "route": "/delhi/blog-best-interior-designers-in-india.php",
+  "slug": [
+   "delhi",
+   "blog-best-interior-designers-in-india.php"
+  ],
+  "key": "delhi__blog1"
+ },
+ {
+  "route": "/delhi/blog-hire-professional-interior-designers.php",
+  "slug": [
+   "delhi",
+   "blog-hire-professional-interior-designers.php"
+  ],
+  "key": "delhi__blog2"
+ },
+ {
+  "route": "/delhi/blog-interior-design-for-homes.php",
+  "slug": [
+   "delhi",
+   "blog-interior-design-for-homes.php"
+  ],
+  "key": "delhi__blog3"
+ },
+ {
+  "route": "/delhi/blog-architecture-services-in-india.php",
+  "slug": [
+   "delhi",
+   "blog-architecture-services-in-india.php"
+  ],
+  "key": "delhi__blog4"
+ },
+ {
+  "route": "/delhi/blog-why-india-is-a-center-for-interior-design.php",
+  "slug": [
+   "delhi",
+   "blog-why-india-is-a-center-for-interior-design.php"
+  ],
+  "key": "delhi__blog5"
+ },
+ {
+  "route": "/delhi/contact.php",
+  "slug": [
+   "delhi",
+   "contact.php"
+  ],
+  "key": "delhi__contact"
+ },
+ {
+  "route": "/delhi/dr-jain-residence-interior-design.php",
+  "slug": [
+   "delhi",
+   "dr-jain-residence-interior-design.php"
+  ],
+  "key": "delhi__dr-jain2"
+ },
+ {
+  "route": "/delhi/gallery.php",
+  "slug": [
+   "delhi",
+   "gallery.php"
+  ],
+  "key": "delhi__gallery"
+ },
+ {
+  "route": "/delhi/interior-design-service-areas.php",
+  "slug": [
+   "delhi",
+   "interior-design-service-areas.php"
+  ],
+  "key": "delhi__global"
+ },
+ {
+  "route": "/delhi/hannu-office.php",
+  "slug": [
+   "delhi",
+   "hannu-office.php"
+  ],
+  "key": "delhi__hannu-office"
+ },
+ {
+  "route": "/delhi/",
+  "slug": [
+   "delhi"
+  ],
+  "key": "delhi__index"
+ },
+ {
+  "route": "/delhi/luxuria-interior-design.php",
+  "slug": [
+   "delhi",
+   "luxuria-interior-design.php"
+  ],
+  "key": "delhi__Luxuria"
+ },
+ {
+  "route": "/delhi/project.php",
+  "slug": [
+   "delhi",
+   "project.php"
+  ],
+  "key": "delhi__project"
+ },
+ {
+  "route": "/delhi/raj-gupta-residence-interior-design.php",
+  "slug": [
+   "delhi",
+   "raj-gupta-residence-interior-design.php"
+  ],
+  "key": "delhi__raj-gupta5"
+ },
+ {
+  "route": "/delhi/rana-residence-interior-design.php",
+  "slug": [
+   "delhi",
+   "rana-residence-interior-design.php"
+  ],
+  "key": "delhi__rana6"
+ },
+ {
+  "route": "/delhi/rao-residence-interior-design.php",
+  "slug": [
+   "delhi",
+   "rao-residence-interior-design.php"
+  ],
+  "key": "delhi__rao7"
+ },
+ {
+  "route": "/delhi/sachin-residence-interior-design.php",
+  "slug": [
+   "delhi",
+   "sachin-residence-interior-design.php"
+  ],
+  "key": "delhi__sachin8"
+ },
+ {
+  "route": "/delhi/services-architecture-services.php",
+  "slug": [
+   "delhi",
+   "services-architecture-services.php"
+  ],
+  "key": "delhi__services-architecture-services"
+ },
+ {
+  "route": "/delhi/services-best-interior-designers.php",
+  "slug": [
+   "delhi",
+   "services-best-interior-designers.php"
+  ],
+  "key": "delhi__services-best-interior-designers"
+ },
+ {
+  "route": "/delhi/services-best-salon-interior-designer.php",
+  "slug": [
+   "delhi",
+   "services-best-salon-interior-designer.php"
+  ],
+  "key": "delhi__services-best-salon-interior-designer"
+ },
+ {
+  "route": "/delhi/services-farmhouse-interior-designer.php",
+  "slug": [
+   "delhi",
+   "services-farmhouse-interior-designer.php"
+  ],
+  "key": "delhi__services-farmhouse-interior-designer"
+ },
+ {
+  "route": "/delhi/services-interior-architect-for-showroom-design.php",
+  "slug": [
+   "delhi",
+   "services-interior-architect-for-showroom-design.php"
+  ],
+  "key": "delhi__services-interior-architect-for-showroom-design"
+ },
+ {
+  "route": "/delhi/services-interior-design-services.php",
+  "slug": [
+   "delhi",
+   "services-interior-design-services.php"
+  ],
+  "key": "delhi__services-interior-design-services"
+ },
+ {
+  "route": "/delhi/services-interior-designer-for-office.php",
+  "slug": [
+   "delhi",
+   "services-interior-designer-for-office.php"
+  ],
+  "key": "delhi__services-interior-designer-for-office"
+ },
+ {
+  "route": "/delhi/services-luxury-home-interior-designs.php",
+  "slug": [
+   "delhi",
+   "services-luxury-home-interior-designs.php"
+  ],
+  "key": "delhi__services-luxury-home-interior-designs"
+ },
+ {
+  "route": "/delhi/services-modern-interior-design.php",
+  "slug": [
+   "delhi",
+   "services-modern-interior-design.php"
+  ],
+  "key": "delhi__services-modern-interior-design"
+ },
+ {
+  "route": "/delhi/services-residential-interior-design.php",
+  "slug": [
+   "delhi",
+   "services-residential-interior-design.php"
+  ],
+  "key": "delhi__services-residential-interior-design"
+ },
+ {
+  "route": "/delhi/services-salon-interior-designer.php",
+  "slug": [
+   "delhi",
+   "services-salon-interior-designer.php"
+  ],
+  "key": "delhi__services-Salon-interior-designer"
+ },
+ {
+  "route": "/delhi/services-top-interior-design-firm.php",
+  "slug": [
+   "delhi",
+   "services-top-interior-design-firm.php"
+  ],
+  "key": "delhi__services-top-interior-design-firm"
+ },
+ {
+  "route": "/delhi/services.php",
+  "slug": [
+   "delhi",
+   "services.php"
+  ],
+  "key": "delhi__services"
+ },
+ {
+  "route": "/delhi/star-salon.php",
+  "slug": [
+   "delhi",
+   "star-salon.php"
+  ],
+  "key": "delhi__star-salon"
+ },
+ {
+  "route": "/delhi/umesh-residence-interior-design.php",
+  "slug": [
+   "delhi",
+   "umesh-residence-interior-design.php"
+  ],
+  "key": "delhi__umesh9"
+ },
+ {
+  "route": "/delhi/vijay-residence-interior-design.php",
+  "slug": [
+   "delhi",
+   "vijay-residence-interior-design.php"
+  ],
+  "key": "delhi__vijay12"
+ },
+ {
+  "route": "/delhi/virendra-residence-interior-design.php",
+  "slug": [
+   "delhi",
+   "virendra-residence-interior-design.php"
+  ],
+  "key": "delhi__virend10"
+ },
+ {
+  "route": "/gurgaon/about-us.php",
+  "slug": [
+   "gurgaon",
+   "about-us.php"
+  ],
+  "key": "gurgaon__about-us"
+ },
+ {
+  "route": "/gurgaon/ak-jain-residence-interior-design.php",
+  "slug": [
+   "gurgaon",
+   "ak-jain-residence-interior-design.php"
+  ],
+  "key": "gurgaon__ak-jain1"
+ },
+ {
+  "route": "/gurgaon/alok-verma-residence-interior-design.php",
+  "slug": [
+   "gurgaon",
+   "alok-verma-residence-interior-design.php"
+  ],
+  "key": "gurgaon__alok-verma3"
+ },
+ {
+  "route": "/gurgaon/anand-residence-interior-design.php",
+  "slug": [
+   "gurgaon",
+   "anand-residence-interior-design.php"
+  ],
+  "key": "gurgaon__anand11"
+ },
+ {
+  "route": "/gurgaon/arun-residence-interior-design.php",
+  "slug": [
+   "gurgaon",
+   "arun-residence-interior-design.php"
+  ],
+  "key": "gurgaon__arun4"
+ },
+ {
+  "route": "/gurgaon/blog-architecture-services.php",
+  "slug": [
+   "gurgaon",
+   "blog-architecture-services.php"
+  ],
+  "key": "gurgaon__blog-architecture-services"
+ },
+ {
+  "route": "/gurgaon/blog-best-affordable-interior-design-firm-for-2bhk.php",
+  "slug": [
+   "gurgaon",
+   "blog-best-affordable-interior-design-firm-for-2bhk.php"
+  ],
+  "key": "gurgaon__blog-best-affordable-interior-design-firm-for-2BHK"
+ },
+ {
+  "route": "/gurgaon/blog-best-interior-designers.php",
+  "slug": [
+   "gurgaon",
+   "blog-best-interior-designers.php"
+  ],
+  "key": "gurgaon__blog-Best-interior-designers"
+ },
+ {
+  "route": "/gurgaon/blog-best-salon-interior-designer.php",
+  "slug": [
+   "gurgaon",
+   "blog-best-salon-interior-designer.php"
+  ],
+  "key": "gurgaon__blog-best-salon-interior-designer"
+ },
+ {
+  "route": "/gurgaon/blog-exclusively-for-premium-homes-theatre-design-services.php",
+  "slug": [
+   "gurgaon",
+   "blog-exclusively-for-premium-homes-theatre-design-services.php"
+  ],
+  "key": "gurgaon__blog-Exclusively-for-Premium-Homes-Theatre-Design-Services"
+ },
+ {
+  "route": "/gurgaon/blog-how-we-create-custom-luxury-interiors-for-high-end-clients.php",
+  "slug": [
+   "gurgaon",
+   "blog-how-we-create-custom-luxury-interiors-for-high-end-clients.php"
+  ],
+  "key": "gurgaon__blog-how-we-create-custom-luxury-interiors-for-high-end-clients"
+ },
+ {
+  "route": "/gurgaon/blog-interior-design-company-for-small-flats.php",
+  "slug": [
+   "gurgaon",
+   "blog-interior-design-company-for-small-flats.php"
+  ],
+  "key": "gurgaon__blog-interior-design-company-for-small-flats"
+ },
+ {
+  "route": "/gurgaon/blog-interior-design-services-offered-for-small-flats.php",
+  "slug": [
+   "gurgaon",
+   "blog-interior-design-services-offered-for-small-flats.php"
+  ],
+  "key": "gurgaon__blog-interior-design-services-offered-for-small-flats"
+ },
+ {
+  "route": "/gurgaon/blog-interior-design-services.php",
+  "slug": [
+   "gurgaon",
+   "blog-interior-design-services.php"
+  ],
+  "key": "gurgaon__blog-interior-design-services"
+ },
+ {
+  "route": "/gurgaon/blog-luxury-furniture-and-custom-built-in-solutions.php",
+  "slug": [
+   "gurgaon",
+   "blog-luxury-furniture-and-custom-built-in-solutions.php"
+  ],
+  "key": "gurgaon__blog-luxury-furniture-and-custom-built-in-solutions"
+ },
+ {
+  "route": "/gurgaon/blog-our-process-of-designing-luxury-office-salons-and-hotels-from-vision-to-reality.php",
+  "slug": [
+   "gurgaon",
+   "blog-our-process-of-designing-luxury-office-salons-and-hotels-from-vision-to-reality.php"
+  ],
+  "key": "gurgaon__blog-Our-Process-of-Designing-Luxury-Office-Salons-and-Hotels-From-Vision-to-Reality"
+ },
+ {
+  "route": "/gurgaon/blog-the-top-interior-design-firm.php",
+  "slug": [
+   "gurgaon",
+   "blog-the-top-interior-design-firm.php"
+  ],
+  "key": "gurgaon__blog-the-top-interior-design-firm"
+ },
+ {
+  "route": "/gurgaon/blog.php",
+  "slug": [
+   "gurgaon",
+   "blog.php"
+  ],
+  "key": "gurgaon__blog"
+ },
+ {
+  "route": "/gurgaon/blog-best-interior-designers-in-india.php",
+  "slug": [
+   "gurgaon",
+   "blog-best-interior-designers-in-india.php"
+  ],
+  "key": "gurgaon__blog1"
+ },
+ {
+  "route": "/gurgaon/blog-hire-professional-interior-designers.php",
+  "slug": [
+   "gurgaon",
+   "blog-hire-professional-interior-designers.php"
+  ],
+  "key": "gurgaon__blog2"
+ },
+ {
+  "route": "/gurgaon/blog-interior-design-for-homes.php",
+  "slug": [
+   "gurgaon",
+   "blog-interior-design-for-homes.php"
+  ],
+  "key": "gurgaon__blog3"
+ },
+ {
+  "route": "/gurgaon/blog-architecture-services-in-india.php",
+  "slug": [
+   "gurgaon",
+   "blog-architecture-services-in-india.php"
+  ],
+  "key": "gurgaon__blog4"
+ },
+ {
+  "route": "/gurgaon/blog-why-india-is-a-center-for-interior-design.php",
+  "slug": [
+   "gurgaon",
+   "blog-why-india-is-a-center-for-interior-design.php"
+  ],
+  "key": "gurgaon__blog5"
+ },
+ {
+  "route": "/gurgaon/contact.php",
+  "slug": [
+   "gurgaon",
+   "contact.php"
+  ],
+  "key": "gurgaon__contact"
+ },
+ {
+  "route": "/gurgaon/dr-jain-residence-interior-design.php",
+  "slug": [
+   "gurgaon",
+   "dr-jain-residence-interior-design.php"
+  ],
+  "key": "gurgaon__dr-jain2"
+ },
+ {
+  "route": "/gurgaon/gallery.php",
+  "slug": [
+   "gurgaon",
+   "gallery.php"
+  ],
+  "key": "gurgaon__gallery"
+ },
+ {
+  "route": "/gurgaon/interior-design-service-areas.php",
+  "slug": [
+   "gurgaon",
+   "interior-design-service-areas.php"
+  ],
+  "key": "gurgaon__global"
+ },
+ {
+  "route": "/gurgaon/hannu-office.php",
+  "slug": [
+   "gurgaon",
+   "hannu-office.php"
+  ],
+  "key": "gurgaon__hannu-office"
+ },
+ {
+  "route": "/gurgaon/",
+  "slug": [
+   "gurgaon"
+  ],
+  "key": "gurgaon__index"
+ },
+ {
+  "route": "/gurgaon/luxuria-interior-design.php",
+  "slug": [
+   "gurgaon",
+   "luxuria-interior-design.php"
+  ],
+  "key": "gurgaon__Luxuria"
+ },
+ {
+  "route": "/gurgaon/project.php",
+  "slug": [
+   "gurgaon",
+   "project.php"
+  ],
+  "key": "gurgaon__project"
+ },
+ {
+  "route": "/gurgaon/raj-gupta-residence-interior-design.php",
+  "slug": [
+   "gurgaon",
+   "raj-gupta-residence-interior-design.php"
+  ],
+  "key": "gurgaon__raj-gupta5"
+ },
+ {
+  "route": "/gurgaon/rana-residence-interior-design.php",
+  "slug": [
+   "gurgaon",
+   "rana-residence-interior-design.php"
+  ],
+  "key": "gurgaon__rana6"
+ },
+ {
+  "route": "/gurgaon/rao-residence-interior-design.php",
+  "slug": [
+   "gurgaon",
+   "rao-residence-interior-design.php"
+  ],
+  "key": "gurgaon__rao7"
+ },
+ {
+  "route": "/gurgaon/sachin-residence-interior-design.php",
+  "slug": [
+   "gurgaon",
+   "sachin-residence-interior-design.php"
+  ],
+  "key": "gurgaon__sachin8"
+ },
+ {
+  "route": "/gurgaon/services-architecture-services.php",
+  "slug": [
+   "gurgaon",
+   "services-architecture-services.php"
+  ],
+  "key": "gurgaon__services-architecture-services"
+ },
+ {
+  "route": "/gurgaon/services-best-interior-designers.php",
+  "slug": [
+   "gurgaon",
+   "services-best-interior-designers.php"
+  ],
+  "key": "gurgaon__services-best-interior-designers"
+ },
+ {
+  "route": "/gurgaon/services-best-salon-interior-designer.php",
+  "slug": [
+   "gurgaon",
+   "services-best-salon-interior-designer.php"
+  ],
+  "key": "gurgaon__services-best-salon-interior-designer"
+ },
+ {
+  "route": "/gurgaon/services-farmhouse-interior-designer.php",
+  "slug": [
+   "gurgaon",
+   "services-farmhouse-interior-designer.php"
+  ],
+  "key": "gurgaon__services-farmhouse-interior-designer"
+ },
+ {
+  "route": "/gurgaon/services-interior-architect-for-showroom-design.php",
+  "slug": [
+   "gurgaon",
+   "services-interior-architect-for-showroom-design.php"
+  ],
+  "key": "gurgaon__services-interior-architect-for-showroom-design"
+ },
+ {
+  "route": "/gurgaon/services-interior-design-services.php",
+  "slug": [
+   "gurgaon",
+   "services-interior-design-services.php"
+  ],
+  "key": "gurgaon__services-interior-design-services"
+ },
+ {
+  "route": "/gurgaon/services-interior-designer-for-office.php",
+  "slug": [
+   "gurgaon",
+   "services-interior-designer-for-office.php"
+  ],
+  "key": "gurgaon__services-interior-designer-for-office"
+ },
+ {
+  "route": "/gurgaon/services-luxury-home-interior-designs.php",
+  "slug": [
+   "gurgaon",
+   "services-luxury-home-interior-designs.php"
+  ],
+  "key": "gurgaon__services-luxury-home-interior-designs"
+ },
+ {
+  "route": "/gurgaon/services-modern-interior-design.php",
+  "slug": [
+   "gurgaon",
+   "services-modern-interior-design.php"
+  ],
+  "key": "gurgaon__services-modern-interior-design"
+ },
+ {
+  "route": "/gurgaon/services-residential-interior-design.php",
+  "slug": [
+   "gurgaon",
+   "services-residential-interior-design.php"
+  ],
+  "key": "gurgaon__services-residential-interior-design"
+ },
+ {
+  "route": "/gurgaon/services-salon-interior-designer.php",
+  "slug": [
+   "gurgaon",
+   "services-salon-interior-designer.php"
+  ],
+  "key": "gurgaon__services-Salon-interior-designer"
+ },
+ {
+  "route": "/gurgaon/services-top-interior-design-firm.php",
+  "slug": [
+   "gurgaon",
+   "services-top-interior-design-firm.php"
+  ],
+  "key": "gurgaon__services-top-interior-design-firm"
+ },
+ {
+  "route": "/gurgaon/services.php",
+  "slug": [
+   "gurgaon",
+   "services.php"
+  ],
+  "key": "gurgaon__services"
+ },
+ {
+  "route": "/gurgaon/star-salon.php",
+  "slug": [
+   "gurgaon",
+   "star-salon.php"
+  ],
+  "key": "gurgaon__star-salon"
+ },
+ {
+  "route": "/gurgaon/umesh-residence-interior-design.php",
+  "slug": [
+   "gurgaon",
+   "umesh-residence-interior-design.php"
+  ],
+  "key": "gurgaon__umesh9"
+ },
+ {
+  "route": "/gurgaon/vijay-residence-interior-design.php",
+  "slug": [
+   "gurgaon",
+   "vijay-residence-interior-design.php"
+  ],
+  "key": "gurgaon__vijay12"
+ },
+ {
+  "route": "/gurgaon/virendra-residence-interior-design.php",
+  "slug": [
+   "gurgaon",
+   "virendra-residence-interior-design.php"
+  ],
+  "key": "gurgaon__virend10"
+ },
+ {
+  "route": "/hauzkhas/about-us.php",
+  "slug": [
+   "hauzkhas",
+   "about-us.php"
+  ],
+  "key": "hauzkhas__about-us"
+ },
+ {
+  "route": "/hauzkhas/ak-jain-residence-interior-design.php",
+  "slug": [
+   "hauzkhas",
+   "ak-jain-residence-interior-design.php"
+  ],
+  "key": "hauzkhas__ak-jain1"
+ },
+ {
+  "route": "/hauzkhas/alok-verma-residence-interior-design.php",
+  "slug": [
+   "hauzkhas",
+   "alok-verma-residence-interior-design.php"
+  ],
+  "key": "hauzkhas__alok-verma3"
+ },
+ {
+  "route": "/hauzkhas/anand-residence-interior-design.php",
+  "slug": [
+   "hauzkhas",
+   "anand-residence-interior-design.php"
+  ],
+  "key": "hauzkhas__anand11"
+ },
+ {
+  "route": "/hauzkhas/arun-residence-interior-design.php",
+  "slug": [
+   "hauzkhas",
+   "arun-residence-interior-design.php"
+  ],
+  "key": "hauzkhas__arun4"
+ },
+ {
+  "route": "/hauzkhas/blog-architecture-services.php",
+  "slug": [
+   "hauzkhas",
+   "blog-architecture-services.php"
+  ],
+  "key": "hauzkhas__blog-architecture-services"
+ },
+ {
+  "route": "/hauzkhas/blog-best-affordable-interior-design-firm-for-2bhk.php",
+  "slug": [
+   "hauzkhas",
+   "blog-best-affordable-interior-design-firm-for-2bhk.php"
+  ],
+  "key": "hauzkhas__blog-best-affordable-interior-design-firm-for-2BHK"
+ },
+ {
+  "route": "/hauzkhas/blog-best-interior-designers.php",
+  "slug": [
+   "hauzkhas",
+   "blog-best-interior-designers.php"
+  ],
+  "key": "hauzkhas__blog-Best-interior-designers"
+ },
+ {
+  "route": "/hauzkhas/blog-best-salon-interior-designer.php",
+  "slug": [
+   "hauzkhas",
+   "blog-best-salon-interior-designer.php"
+  ],
+  "key": "hauzkhas__blog-best-salon-interior-designer"
+ },
+ {
+  "route": "/hauzkhas/blog-exclusively-for-premium-homes-theatre-design-services.php",
+  "slug": [
+   "hauzkhas",
+   "blog-exclusively-for-premium-homes-theatre-design-services.php"
+  ],
+  "key": "hauzkhas__blog-Exclusively-for-Premium-Homes-Theatre-Design-Services"
+ },
+ {
+  "route": "/hauzkhas/blog-how-we-create-custom-luxury-interiors-for-high-end-clients.php",
+  "slug": [
+   "hauzkhas",
+   "blog-how-we-create-custom-luxury-interiors-for-high-end-clients.php"
+  ],
+  "key": "hauzkhas__blog-how-we-create-custom-luxury-interiors-for-high-end-clients"
+ },
+ {
+  "route": "/hauzkhas/blog-interior-design-company-for-small-flats.php",
+  "slug": [
+   "hauzkhas",
+   "blog-interior-design-company-for-small-flats.php"
+  ],
+  "key": "hauzkhas__blog-interior-design-company-for-small-flats"
+ },
+ {
+  "route": "/hauzkhas/blog-interior-design-services-offered-for-small-flats.php",
+  "slug": [
+   "hauzkhas",
+   "blog-interior-design-services-offered-for-small-flats.php"
+  ],
+  "key": "hauzkhas__blog-interior-design-services-offered-for-small-flats"
+ },
+ {
+  "route": "/hauzkhas/blog-interior-design-services.php",
+  "slug": [
+   "hauzkhas",
+   "blog-interior-design-services.php"
+  ],
+  "key": "hauzkhas__blog-interior-design-services"
+ },
+ {
+  "route": "/hauzkhas/blog-luxury-furniture-and-custom-built-in-solutions.php",
+  "slug": [
+   "hauzkhas",
+   "blog-luxury-furniture-and-custom-built-in-solutions.php"
+  ],
+  "key": "hauzkhas__blog-luxury-furniture-and-custom-built-in-solutions"
+ },
+ {
+  "route": "/hauzkhas/blog-our-process-of-designing-luxury-office-salons-and-hotels-from-vision-to-reality.php",
+  "slug": [
+   "hauzkhas",
+   "blog-our-process-of-designing-luxury-office-salons-and-hotels-from-vision-to-reality.php"
+  ],
+  "key": "hauzkhas__blog-Our-Process-of-Designing-Luxury-Office-Salons-and-Hotels-From-Vision-to-Reality"
+ },
+ {
+  "route": "/hauzkhas/blog-the-top-interior-design-firm.php",
+  "slug": [
+   "hauzkhas",
+   "blog-the-top-interior-design-firm.php"
+  ],
+  "key": "hauzkhas__blog-the-top-interior-design-firm"
+ },
+ {
+  "route": "/hauzkhas/blog.php",
+  "slug": [
+   "hauzkhas",
+   "blog.php"
+  ],
+  "key": "hauzkhas__blog"
+ },
+ {
+  "route": "/hauzkhas/blog-best-interior-designers-in-india.php",
+  "slug": [
+   "hauzkhas",
+   "blog-best-interior-designers-in-india.php"
+  ],
+  "key": "hauzkhas__blog1"
+ },
+ {
+  "route": "/hauzkhas/blog-hire-professional-interior-designers.php",
+  "slug": [
+   "hauzkhas",
+   "blog-hire-professional-interior-designers.php"
+  ],
+  "key": "hauzkhas__blog2"
+ },
+ {
+  "route": "/hauzkhas/blog-interior-design-for-homes.php",
+  "slug": [
+   "hauzkhas",
+   "blog-interior-design-for-homes.php"
+  ],
+  "key": "hauzkhas__blog3"
+ },
+ {
+  "route": "/hauzkhas/blog-architecture-services-in-india.php",
+  "slug": [
+   "hauzkhas",
+   "blog-architecture-services-in-india.php"
+  ],
+  "key": "hauzkhas__blog4"
+ },
+ {
+  "route": "/hauzkhas/blog-why-india-is-a-center-for-interior-design.php",
+  "slug": [
+   "hauzkhas",
+   "blog-why-india-is-a-center-for-interior-design.php"
+  ],
+  "key": "hauzkhas__blog5"
+ },
+ {
+  "route": "/hauzkhas/contact.php",
+  "slug": [
+   "hauzkhas",
+   "contact.php"
+  ],
+  "key": "hauzkhas__contact"
+ },
+ {
+  "route": "/hauzkhas/dr-jain-residence-interior-design.php",
+  "slug": [
+   "hauzkhas",
+   "dr-jain-residence-interior-design.php"
+  ],
+  "key": "hauzkhas__dr-jain2"
+ },
+ {
+  "route": "/hauzkhas/gallery.php",
+  "slug": [
+   "hauzkhas",
+   "gallery.php"
+  ],
+  "key": "hauzkhas__gallery"
+ },
+ {
+  "route": "/hauzkhas/interior-design-service-areas.php",
+  "slug": [
+   "hauzkhas",
+   "interior-design-service-areas.php"
+  ],
+  "key": "hauzkhas__global"
+ },
+ {
+  "route": "/hauzkhas/hannu-office.php",
+  "slug": [
+   "hauzkhas",
+   "hannu-office.php"
+  ],
+  "key": "hauzkhas__hannu-office"
+ },
+ {
+  "route": "/hauzkhas/",
+  "slug": [
+   "hauzkhas"
+  ],
+  "key": "hauzkhas__index"
+ },
+ {
+  "route": "/hauzkhas/luxuria-interior-design.php",
+  "slug": [
+   "hauzkhas",
+   "luxuria-interior-design.php"
+  ],
+  "key": "hauzkhas__Luxuria"
+ },
+ {
+  "route": "/hauzkhas/project.php",
+  "slug": [
+   "hauzkhas",
+   "project.php"
+  ],
+  "key": "hauzkhas__project"
+ },
+ {
+  "route": "/hauzkhas/raj-gupta-residence-interior-design.php",
+  "slug": [
+   "hauzkhas",
+   "raj-gupta-residence-interior-design.php"
+  ],
+  "key": "hauzkhas__raj-gupta5"
+ },
+ {
+  "route": "/hauzkhas/rana-residence-interior-design.php",
+  "slug": [
+   "hauzkhas",
+   "rana-residence-interior-design.php"
+  ],
+  "key": "hauzkhas__rana6"
+ },
+ {
+  "route": "/hauzkhas/rao-residence-interior-design.php",
+  "slug": [
+   "hauzkhas",
+   "rao-residence-interior-design.php"
+  ],
+  "key": "hauzkhas__rao7"
+ },
+ {
+  "route": "/hauzkhas/sachin-residence-interior-design.php",
+  "slug": [
+   "hauzkhas",
+   "sachin-residence-interior-design.php"
+  ],
+  "key": "hauzkhas__sachin8"
+ },
+ {
+  "route": "/hauzkhas/services-architecture-services.php",
+  "slug": [
+   "hauzkhas",
+   "services-architecture-services.php"
+  ],
+  "key": "hauzkhas__services-architecture-services"
+ },
+ {
+  "route": "/hauzkhas/services-best-interior-designers.php",
+  "slug": [
+   "hauzkhas",
+   "services-best-interior-designers.php"
+  ],
+  "key": "hauzkhas__services-best-interior-designers"
+ },
+ {
+  "route": "/hauzkhas/services-best-salon-interior-designer.php",
+  "slug": [
+   "hauzkhas",
+   "services-best-salon-interior-designer.php"
+  ],
+  "key": "hauzkhas__services-best-salon-interior-designer"
+ },
+ {
+  "route": "/hauzkhas/services-farmhouse-interior-designer.php",
+  "slug": [
+   "hauzkhas",
+   "services-farmhouse-interior-designer.php"
+  ],
+  "key": "hauzkhas__services-farmhouse-interior-designer"
+ },
+ {
+  "route": "/hauzkhas/services-interior-architect-for-showroom-design.php",
+  "slug": [
+   "hauzkhas",
+   "services-interior-architect-for-showroom-design.php"
+  ],
+  "key": "hauzkhas__services-interior-architect-for-showroom-design"
+ },
+ {
+  "route": "/hauzkhas/services-interior-design-services.php",
+  "slug": [
+   "hauzkhas",
+   "services-interior-design-services.php"
+  ],
+  "key": "hauzkhas__services-interior-design-services"
+ },
+ {
+  "route": "/hauzkhas/services-interior-designer-for-office.php",
+  "slug": [
+   "hauzkhas",
+   "services-interior-designer-for-office.php"
+  ],
+  "key": "hauzkhas__services-interior-designer-for-office"
+ },
+ {
+  "route": "/hauzkhas/services-luxury-home-interior-designs.php",
+  "slug": [
+   "hauzkhas",
+   "services-luxury-home-interior-designs.php"
+  ],
+  "key": "hauzkhas__services-luxury-home-interior-designs"
+ },
+ {
+  "route": "/hauzkhas/services-modern-interior-design.php",
+  "slug": [
+   "hauzkhas",
+   "services-modern-interior-design.php"
+  ],
+  "key": "hauzkhas__services-modern-interior-design"
+ },
+ {
+  "route": "/hauzkhas/services-residential-interior-design.php",
+  "slug": [
+   "hauzkhas",
+   "services-residential-interior-design.php"
+  ],
+  "key": "hauzkhas__services-residential-interior-design"
+ },
+ {
+  "route": "/hauzkhas/services-salon-interior-designer.php",
+  "slug": [
+   "hauzkhas",
+   "services-salon-interior-designer.php"
+  ],
+  "key": "hauzkhas__services-Salon-interior-designer"
+ },
+ {
+  "route": "/hauzkhas/services-top-interior-design-firm.php",
+  "slug": [
+   "hauzkhas",
+   "services-top-interior-design-firm.php"
+  ],
+  "key": "hauzkhas__services-top-interior-design-firm"
+ },
+ {
+  "route": "/hauzkhas/services.php",
+  "slug": [
+   "hauzkhas",
+   "services.php"
+  ],
+  "key": "hauzkhas__services"
+ },
+ {
+  "route": "/hauzkhas/star-salon.php",
+  "slug": [
+   "hauzkhas",
+   "star-salon.php"
+  ],
+  "key": "hauzkhas__star-salon"
+ },
+ {
+  "route": "/hauzkhas/umesh-residence-interior-design.php",
+  "slug": [
+   "hauzkhas",
+   "umesh-residence-interior-design.php"
+  ],
+  "key": "hauzkhas__umesh9"
+ },
+ {
+  "route": "/hauzkhas/vijay-residence-interior-design.php",
+  "slug": [
+   "hauzkhas",
+   "vijay-residence-interior-design.php"
+  ],
+  "key": "hauzkhas__vijay12"
+ },
+ {
+  "route": "/hauzkhas/virendra-residence-interior-design.php",
+  "slug": [
+   "hauzkhas",
+   "virendra-residence-interior-design.php"
+  ],
+  "key": "hauzkhas__virend10"
+ },
+ {
+  "route": "/karnal/about-us.php",
+  "slug": [
+   "karnal",
+   "about-us.php"
+  ],
+  "key": "karnal__about-us"
+ },
+ {
+  "route": "/karnal/ak-jain-residence-interior-design.php",
+  "slug": [
+   "karnal",
+   "ak-jain-residence-interior-design.php"
+  ],
+  "key": "karnal__ak-jain1"
+ },
+ {
+  "route": "/karnal/alok-verma-residence-interior-design.php",
+  "slug": [
+   "karnal",
+   "alok-verma-residence-interior-design.php"
+  ],
+  "key": "karnal__alok-verma3"
+ },
+ {
+  "route": "/karnal/anand-residence-interior-design.php",
+  "slug": [
+   "karnal",
+   "anand-residence-interior-design.php"
+  ],
+  "key": "karnal__anand11"
+ },
+ {
+  "route": "/karnal/arun-residence-interior-design.php",
+  "slug": [
+   "karnal",
+   "arun-residence-interior-design.php"
+  ],
+  "key": "karnal__arun4"
+ },
+ {
+  "route": "/karnal/blog-architecture-services.php",
+  "slug": [
+   "karnal",
+   "blog-architecture-services.php"
+  ],
+  "key": "karnal__blog-architecture-services"
+ },
+ {
+  "route": "/karnal/blog-best-affordable-interior-design-firm-for-2bhk.php",
+  "slug": [
+   "karnal",
+   "blog-best-affordable-interior-design-firm-for-2bhk.php"
+  ],
+  "key": "karnal__blog-best-affordable-interior-design-firm-for-2BHK"
+ },
+ {
+  "route": "/karnal/blog-best-interior-designers.php",
+  "slug": [
+   "karnal",
+   "blog-best-interior-designers.php"
+  ],
+  "key": "karnal__blog-Best-interior-designers"
+ },
+ {
+  "route": "/karnal/blog-best-salon-interior-designer.php",
+  "slug": [
+   "karnal",
+   "blog-best-salon-interior-designer.php"
+  ],
+  "key": "karnal__blog-best-salon-interior-designer"
+ },
+ {
+  "route": "/karnal/blog-exclusively-for-premium-homes-theatre-design-services.php",
+  "slug": [
+   "karnal",
+   "blog-exclusively-for-premium-homes-theatre-design-services.php"
+  ],
+  "key": "karnal__blog-Exclusively-for-Premium-Homes-Theatre-Design-Services"
+ },
+ {
+  "route": "/karnal/blog-how-we-create-custom-luxury-interiors-for-high-end-clients.php",
+  "slug": [
+   "karnal",
+   "blog-how-we-create-custom-luxury-interiors-for-high-end-clients.php"
+  ],
+  "key": "karnal__blog-how-we-create-custom-luxury-interiors-for-high-end-clients"
+ },
+ {
+  "route": "/karnal/blog-interior-design-company-for-small-flats.php",
+  "slug": [
+   "karnal",
+   "blog-interior-design-company-for-small-flats.php"
+  ],
+  "key": "karnal__blog-interior-design-company-for-small-flats"
+ },
+ {
+  "route": "/karnal/blog-interior-design-services-offered-for-small-flats.php",
+  "slug": [
+   "karnal",
+   "blog-interior-design-services-offered-for-small-flats.php"
+  ],
+  "key": "karnal__blog-interior-design-services-offered-for-small-flats"
+ },
+ {
+  "route": "/karnal/blog-interior-design-services.php",
+  "slug": [
+   "karnal",
+   "blog-interior-design-services.php"
+  ],
+  "key": "karnal__blog-interior-design-services"
+ },
+ {
+  "route": "/karnal/blog-luxury-furniture-and-custom-built-in-solutions.php",
+  "slug": [
+   "karnal",
+   "blog-luxury-furniture-and-custom-built-in-solutions.php"
+  ],
+  "key": "karnal__blog-luxury-furniture-and-custom-built-in-solutions"
+ },
+ {
+  "route": "/karnal/blog-our-process-of-designing-luxury-office-salons-and-hotels-from-vision-to-reality.php",
+  "slug": [
+   "karnal",
+   "blog-our-process-of-designing-luxury-office-salons-and-hotels-from-vision-to-reality.php"
+  ],
+  "key": "karnal__blog-Our-Process-of-Designing-Luxury-Office-Salons-and-Hotels-From-Vision-to-Reality"
+ },
+ {
+  "route": "/karnal/blog-the-top-interior-design-firm.php",
+  "slug": [
+   "karnal",
+   "blog-the-top-interior-design-firm.php"
+  ],
+  "key": "karnal__blog-the-top-interior-design-firm"
+ },
+ {
+  "route": "/karnal/blog.php",
+  "slug": [
+   "karnal",
+   "blog.php"
+  ],
+  "key": "karnal__blog"
+ },
+ {
+  "route": "/karnal/blog-best-interior-designers-in-india.php",
+  "slug": [
+   "karnal",
+   "blog-best-interior-designers-in-india.php"
+  ],
+  "key": "karnal__blog1"
+ },
+ {
+  "route": "/karnal/blog-hire-professional-interior-designers.php",
+  "slug": [
+   "karnal",
+   "blog-hire-professional-interior-designers.php"
+  ],
+  "key": "karnal__blog2"
+ },
+ {
+  "route": "/karnal/blog-interior-design-for-homes.php",
+  "slug": [
+   "karnal",
+   "blog-interior-design-for-homes.php"
+  ],
+  "key": "karnal__blog3"
+ },
+ {
+  "route": "/karnal/blog-architecture-services-in-india.php",
+  "slug": [
+   "karnal",
+   "blog-architecture-services-in-india.php"
+  ],
+  "key": "karnal__blog4"
+ },
+ {
+  "route": "/karnal/blog-why-india-is-a-center-for-interior-design.php",
+  "slug": [
+   "karnal",
+   "blog-why-india-is-a-center-for-interior-design.php"
+  ],
+  "key": "karnal__blog5"
+ },
+ {
+  "route": "/karnal/contact.php",
+  "slug": [
+   "karnal",
+   "contact.php"
+  ],
+  "key": "karnal__contact"
+ },
+ {
+  "route": "/karnal/dr-jain-residence-interior-design.php",
+  "slug": [
+   "karnal",
+   "dr-jain-residence-interior-design.php"
+  ],
+  "key": "karnal__dr-jain2"
+ },
+ {
+  "route": "/karnal/gallery.php",
+  "slug": [
+   "karnal",
+   "gallery.php"
+  ],
+  "key": "karnal__gallery"
+ },
+ {
+  "route": "/karnal/interior-design-service-areas.php",
+  "slug": [
+   "karnal",
+   "interior-design-service-areas.php"
+  ],
+  "key": "karnal__global"
+ },
+ {
+  "route": "/karnal/hannu-office.php",
+  "slug": [
+   "karnal",
+   "hannu-office.php"
+  ],
+  "key": "karnal__hannu-office"
+ },
+ {
+  "route": "/karnal/",
+  "slug": [
+   "karnal"
+  ],
+  "key": "karnal__index"
+ },
+ {
+  "route": "/karnal/luxuria-interior-design.php",
+  "slug": [
+   "karnal",
+   "luxuria-interior-design.php"
+  ],
+  "key": "karnal__Luxuria"
+ },
+ {
+  "route": "/karnal/project.php",
+  "slug": [
+   "karnal",
+   "project.php"
+  ],
+  "key": "karnal__project"
+ },
+ {
+  "route": "/karnal/raj-gupta-residence-interior-design.php",
+  "slug": [
+   "karnal",
+   "raj-gupta-residence-interior-design.php"
+  ],
+  "key": "karnal__raj-gupta5"
+ },
+ {
+  "route": "/karnal/rana-residence-interior-design.php",
+  "slug": [
+   "karnal",
+   "rana-residence-interior-design.php"
+  ],
+  "key": "karnal__rana6"
+ },
+ {
+  "route": "/karnal/rao-residence-interior-design.php",
+  "slug": [
+   "karnal",
+   "rao-residence-interior-design.php"
+  ],
+  "key": "karnal__rao7"
+ },
+ {
+  "route": "/karnal/sachin-residence-interior-design.php",
+  "slug": [
+   "karnal",
+   "sachin-residence-interior-design.php"
+  ],
+  "key": "karnal__sachin8"
+ },
+ {
+  "route": "/karnal/services-architecture-services.php",
+  "slug": [
+   "karnal",
+   "services-architecture-services.php"
+  ],
+  "key": "karnal__services-architecture-services"
+ },
+ {
+  "route": "/karnal/services-best-interior-designers.php",
+  "slug": [
+   "karnal",
+   "services-best-interior-designers.php"
+  ],
+  "key": "karnal__services-best-interior-designers"
+ },
+ {
+  "route": "/karnal/services-best-salon-interior-designer.php",
+  "slug": [
+   "karnal",
+   "services-best-salon-interior-designer.php"
+  ],
+  "key": "karnal__services-best-salon-interior-designer"
+ },
+ {
+  "route": "/karnal/services-farmhouse-interior-designer.php",
+  "slug": [
+   "karnal",
+   "services-farmhouse-interior-designer.php"
+  ],
+  "key": "karnal__services-farmhouse-interior-designer"
+ },
+ {
+  "route": "/karnal/services-interior-architect-for-showroom-design.php",
+  "slug": [
+   "karnal",
+   "services-interior-architect-for-showroom-design.php"
+  ],
+  "key": "karnal__services-interior-architect-for-showroom-design"
+ },
+ {
+  "route": "/karnal/services-interior-design-services.php",
+  "slug": [
+   "karnal",
+   "services-interior-design-services.php"
+  ],
+  "key": "karnal__services-interior-design-services"
+ },
+ {
+  "route": "/karnal/services-interior-designer-for-office.php",
+  "slug": [
+   "karnal",
+   "services-interior-designer-for-office.php"
+  ],
+  "key": "karnal__services-interior-designer-for-office"
+ },
+ {
+  "route": "/karnal/services-luxury-home-interior-designs.php",
+  "slug": [
+   "karnal",
+   "services-luxury-home-interior-designs.php"
+  ],
+  "key": "karnal__services-luxury-home-interior-designs"
+ },
+ {
+  "route": "/karnal/services-modern-interior-design.php",
+  "slug": [
+   "karnal",
+   "services-modern-interior-design.php"
+  ],
+  "key": "karnal__services-modern-interior-design"
+ },
+ {
+  "route": "/karnal/services-residential-interior-design.php",
+  "slug": [
+   "karnal",
+   "services-residential-interior-design.php"
+  ],
+  "key": "karnal__services-residential-interior-design"
+ },
+ {
+  "route": "/karnal/services-salon-interior-designer.php",
+  "slug": [
+   "karnal",
+   "services-salon-interior-designer.php"
+  ],
+  "key": "karnal__services-Salon-interior-designer"
+ },
+ {
+  "route": "/karnal/services-top-interior-design-firm.php",
+  "slug": [
+   "karnal",
+   "services-top-interior-design-firm.php"
+  ],
+  "key": "karnal__services-top-interior-design-firm"
+ },
+ {
+  "route": "/karnal/services.php",
+  "slug": [
+   "karnal",
+   "services.php"
+  ],
+  "key": "karnal__services"
+ },
+ {
+  "route": "/karnal/star-salon.php",
+  "slug": [
+   "karnal",
+   "star-salon.php"
+  ],
+  "key": "karnal__star-salon"
+ },
+ {
+  "route": "/karnal/umesh-residence-interior-design.php",
+  "slug": [
+   "karnal",
+   "umesh-residence-interior-design.php"
+  ],
+  "key": "karnal__umesh9"
+ },
+ {
+  "route": "/karnal/vijay-residence-interior-design.php",
+  "slug": [
+   "karnal",
+   "vijay-residence-interior-design.php"
+  ],
+  "key": "karnal__vijay12"
+ },
+ {
+  "route": "/karnal/virendra-residence-interior-design.php",
+  "slug": [
+   "karnal",
+   "virendra-residence-interior-design.php"
+  ],
+  "key": "karnal__virend10"
+ },
+ {
+  "route": "/noida/about-us.php",
+  "slug": [
+   "noida",
+   "about-us.php"
+  ],
+  "key": "noida__about-us"
+ },
+ {
+  "route": "/noida/ak-jain-residence-interior-design.php",
+  "slug": [
+   "noida",
+   "ak-jain-residence-interior-design.php"
+  ],
+  "key": "noida__ak-jain1"
+ },
+ {
+  "route": "/noida/alok-verma-residence-interior-design.php",
+  "slug": [
+   "noida",
+   "alok-verma-residence-interior-design.php"
+  ],
+  "key": "noida__alok-verma3"
+ },
+ {
+  "route": "/noida/anand-residence-interior-design.php",
+  "slug": [
+   "noida",
+   "anand-residence-interior-design.php"
+  ],
+  "key": "noida__anand11"
+ },
+ {
+  "route": "/noida/arun-residence-interior-design.php",
+  "slug": [
+   "noida",
+   "arun-residence-interior-design.php"
+  ],
+  "key": "noida__arun4"
+ },
+ {
+  "route": "/noida/blog-architecture-services.php",
+  "slug": [
+   "noida",
+   "blog-architecture-services.php"
+  ],
+  "key": "noida__blog-architecture-services"
+ },
+ {
+  "route": "/noida/blog-best-affordable-interior-design-firm-for-2bhk.php",
+  "slug": [
+   "noida",
+   "blog-best-affordable-interior-design-firm-for-2bhk.php"
+  ],
+  "key": "noida__blog-best-affordable-interior-design-firm-for-2BHK"
+ },
+ {
+  "route": "/noida/blog-best-interior-designers.php",
+  "slug": [
+   "noida",
+   "blog-best-interior-designers.php"
+  ],
+  "key": "noida__blog-Best-interior-designers"
+ },
+ {
+  "route": "/noida/blog-best-salon-interior-designer.php",
+  "slug": [
+   "noida",
+   "blog-best-salon-interior-designer.php"
+  ],
+  "key": "noida__blog-best-salon-interior-designer"
+ },
+ {
+  "route": "/noida/blog-exclusively-for-premium-homes-theatre-design-services.php",
+  "slug": [
+   "noida",
+   "blog-exclusively-for-premium-homes-theatre-design-services.php"
+  ],
+  "key": "noida__blog-Exclusively-for-Premium-Homes-Theatre-Design-Services"
+ },
+ {
+  "route": "/noida/blog-how-we-create-custom-luxury-interiors-for-high-end-clients.php",
+  "slug": [
+   "noida",
+   "blog-how-we-create-custom-luxury-interiors-for-high-end-clients.php"
+  ],
+  "key": "noida__blog-how-we-create-custom-luxury-interiors-for-high-end-clients"
+ },
+ {
+  "route": "/noida/blog-interior-design-company-for-small-flats.php",
+  "slug": [
+   "noida",
+   "blog-interior-design-company-for-small-flats.php"
+  ],
+  "key": "noida__blog-interior-design-company-for-small-flats"
+ },
+ {
+  "route": "/noida/blog-interior-design-services-offered-for-small-flats.php",
+  "slug": [
+   "noida",
+   "blog-interior-design-services-offered-for-small-flats.php"
+  ],
+  "key": "noida__blog-interior-design-services-offered-for-small-flats"
+ },
+ {
+  "route": "/noida/blog-interior-design-services.php",
+  "slug": [
+   "noida",
+   "blog-interior-design-services.php"
+  ],
+  "key": "noida__blog-interior-design-services"
+ },
+ {
+  "route": "/noida/blog-luxury-furniture-and-custom-built-in-solutions.php",
+  "slug": [
+   "noida",
+   "blog-luxury-furniture-and-custom-built-in-solutions.php"
+  ],
+  "key": "noida__blog-luxury-furniture-and-custom-built-in-solutions"
+ },
+ {
+  "route": "/noida/blog-our-process-of-designing-luxury-office-salons-and-hotels-from-vision-to-reality.php",
+  "slug": [
+   "noida",
+   "blog-our-process-of-designing-luxury-office-salons-and-hotels-from-vision-to-reality.php"
+  ],
+  "key": "noida__blog-Our-Process-of-Designing-Luxury-Office-Salons-and-Hotels-From-Vision-to-Reality"
+ },
+ {
+  "route": "/noida/blog-the-top-interior-design-firm.php",
+  "slug": [
+   "noida",
+   "blog-the-top-interior-design-firm.php"
+  ],
+  "key": "noida__blog-the-top-interior-design-firm"
+ },
+ {
+  "route": "/noida/blog.php",
+  "slug": [
+   "noida",
+   "blog.php"
+  ],
+  "key": "noida__blog"
+ },
+ {
+  "route": "/noida/blog-best-interior-designers-in-india.php",
+  "slug": [
+   "noida",
+   "blog-best-interior-designers-in-india.php"
+  ],
+  "key": "noida__blog1"
+ },
+ {
+  "route": "/noida/blog-hire-professional-interior-designers.php",
+  "slug": [
+   "noida",
+   "blog-hire-professional-interior-designers.php"
+  ],
+  "key": "noida__blog2"
+ },
+ {
+  "route": "/noida/blog-interior-design-for-homes.php",
+  "slug": [
+   "noida",
+   "blog-interior-design-for-homes.php"
+  ],
+  "key": "noida__blog3"
+ },
+ {
+  "route": "/noida/blog-architecture-services-in-india.php",
+  "slug": [
+   "noida",
+   "blog-architecture-services-in-india.php"
+  ],
+  "key": "noida__blog4"
+ },
+ {
+  "route": "/noida/blog-why-india-is-a-center-for-interior-design.php",
+  "slug": [
+   "noida",
+   "blog-why-india-is-a-center-for-interior-design.php"
+  ],
+  "key": "noida__blog5"
+ },
+ {
+  "route": "/noida/contact.php",
+  "slug": [
+   "noida",
+   "contact.php"
+  ],
+  "key": "noida__contact"
+ },
+ {
+  "route": "/noida/dr-jain-residence-interior-design.php",
+  "slug": [
+   "noida",
+   "dr-jain-residence-interior-design.php"
+  ],
+  "key": "noida__dr-jain2"
+ },
+ {
+  "route": "/noida/gallery.php",
+  "slug": [
+   "noida",
+   "gallery.php"
+  ],
+  "key": "noida__gallery"
+ },
+ {
+  "route": "/noida/interior-design-service-areas.php",
+  "slug": [
+   "noida",
+   "interior-design-service-areas.php"
+  ],
+  "key": "noida__global"
+ },
+ {
+  "route": "/noida/hannu-office.php",
+  "slug": [
+   "noida",
+   "hannu-office.php"
+  ],
+  "key": "noida__hannu-office"
+ },
+ {
+  "route": "/noida/",
+  "slug": [
+   "noida"
+  ],
+  "key": "noida__index"
+ },
+ {
+  "route": "/noida/luxuria-interior-design.php",
+  "slug": [
+   "noida",
+   "luxuria-interior-design.php"
+  ],
+  "key": "noida__Luxuria"
+ },
+ {
+  "route": "/noida/project.php",
+  "slug": [
+   "noida",
+   "project.php"
+  ],
+  "key": "noida__project"
+ },
+ {
+  "route": "/noida/raj-gupta-residence-interior-design.php",
+  "slug": [
+   "noida",
+   "raj-gupta-residence-interior-design.php"
+  ],
+  "key": "noida__raj-gupta5"
+ },
+ {
+  "route": "/noida/rana-residence-interior-design.php",
+  "slug": [
+   "noida",
+   "rana-residence-interior-design.php"
+  ],
+  "key": "noida__rana6"
+ },
+ {
+  "route": "/noida/rao-residence-interior-design.php",
+  "slug": [
+   "noida",
+   "rao-residence-interior-design.php"
+  ],
+  "key": "noida__rao7"
+ },
+ {
+  "route": "/noida/sachin-residence-interior-design.php",
+  "slug": [
+   "noida",
+   "sachin-residence-interior-design.php"
+  ],
+  "key": "noida__sachin8"
+ },
+ {
+  "route": "/noida/services-architecture-services.php",
+  "slug": [
+   "noida",
+   "services-architecture-services.php"
+  ],
+  "key": "noida__services-architecture-services"
+ },
+ {
+  "route": "/noida/services-best-interior-designers.php",
+  "slug": [
+   "noida",
+   "services-best-interior-designers.php"
+  ],
+  "key": "noida__services-best-interior-designers"
+ },
+ {
+  "route": "/noida/services-best-salon-interior-designer.php",
+  "slug": [
+   "noida",
+   "services-best-salon-interior-designer.php"
+  ],
+  "key": "noida__services-best-salon-interior-designer"
+ },
+ {
+  "route": "/noida/services-farmhouse-interior-designer.php",
+  "slug": [
+   "noida",
+   "services-farmhouse-interior-designer.php"
+  ],
+  "key": "noida__services-farmhouse-interior-designer"
+ },
+ {
+  "route": "/noida/services-interior-architect-for-showroom-design.php",
+  "slug": [
+   "noida",
+   "services-interior-architect-for-showroom-design.php"
+  ],
+  "key": "noida__services-interior-architect-for-showroom-design"
+ },
+ {
+  "route": "/noida/services-interior-design-services.php",
+  "slug": [
+   "noida",
+   "services-interior-design-services.php"
+  ],
+  "key": "noida__services-interior-design-services"
+ },
+ {
+  "route": "/noida/services-interior-designer-for-office.php",
+  "slug": [
+   "noida",
+   "services-interior-designer-for-office.php"
+  ],
+  "key": "noida__services-interior-designer-for-office"
+ },
+ {
+  "route": "/noida/services-luxury-home-interior-designs.php",
+  "slug": [
+   "noida",
+   "services-luxury-home-interior-designs.php"
+  ],
+  "key": "noida__services-luxury-home-interior-designs"
+ },
+ {
+  "route": "/noida/services-modern-interior-design.php",
+  "slug": [
+   "noida",
+   "services-modern-interior-design.php"
+  ],
+  "key": "noida__services-modern-interior-design"
+ },
+ {
+  "route": "/noida/services-residential-interior-design.php",
+  "slug": [
+   "noida",
+   "services-residential-interior-design.php"
+  ],
+  "key": "noida__services-residential-interior-design"
+ },
+ {
+  "route": "/noida/services-salon-interior-designer.php",
+  "slug": [
+   "noida",
+   "services-salon-interior-designer.php"
+  ],
+  "key": "noida__services-Salon-interior-designer"
+ },
+ {
+  "route": "/noida/services-top-interior-design-firm.php",
+  "slug": [
+   "noida",
+   "services-top-interior-design-firm.php"
+  ],
+  "key": "noida__services-top-interior-design-firm"
+ },
+ {
+  "route": "/noida/services.php",
+  "slug": [
+   "noida",
+   "services.php"
+  ],
+  "key": "noida__services"
+ },
+ {
+  "route": "/noida/star-salon.php",
+  "slug": [
+   "noida",
+   "star-salon.php"
+  ],
+  "key": "noida__star-salon"
+ },
+ {
+  "route": "/noida/umesh-residence-interior-design.php",
+  "slug": [
+   "noida",
+   "umesh-residence-interior-design.php"
+  ],
+  "key": "noida__umesh9"
+ },
+ {
+  "route": "/noida/vijay-residence-interior-design.php",
+  "slug": [
+   "noida",
+   "vijay-residence-interior-design.php"
+  ],
+  "key": "noida__vijay12"
+ },
+ {
+  "route": "/noida/virendra-residence-interior-design.php",
+  "slug": [
+   "noida",
+   "virendra-residence-interior-design.php"
+  ],
+  "key": "noida__virend10"
+ },
+ {
+  "route": "/pitampura/about-us.php",
+  "slug": [
+   "pitampura",
+   "about-us.php"
+  ],
+  "key": "pitampura__about-us"
+ },
+ {
+  "route": "/pitampura/ak-jain-residence-interior-design.php",
+  "slug": [
+   "pitampura",
+   "ak-jain-residence-interior-design.php"
+  ],
+  "key": "pitampura__ak-jain1"
+ },
+ {
+  "route": "/pitampura/alok-verma-residence-interior-design.php",
+  "slug": [
+   "pitampura",
+   "alok-verma-residence-interior-design.php"
+  ],
+  "key": "pitampura__alok-verma3"
+ },
+ {
+  "route": "/pitampura/anand-residence-interior-design.php",
+  "slug": [
+   "pitampura",
+   "anand-residence-interior-design.php"
+  ],
+  "key": "pitampura__anand11"
+ },
+ {
+  "route": "/pitampura/arun-residence-interior-design.php",
+  "slug": [
+   "pitampura",
+   "arun-residence-interior-design.php"
+  ],
+  "key": "pitampura__arun4"
+ },
+ {
+  "route": "/pitampura/blog-architecture-services.php",
+  "slug": [
+   "pitampura",
+   "blog-architecture-services.php"
+  ],
+  "key": "pitampura__blog-architecture-services"
+ },
+ {
+  "route": "/pitampura/blog-best-affordable-interior-design-firm-for-2bhk.php",
+  "slug": [
+   "pitampura",
+   "blog-best-affordable-interior-design-firm-for-2bhk.php"
+  ],
+  "key": "pitampura__blog-best-affordable-interior-design-firm-for-2BHK"
+ },
+ {
+  "route": "/pitampura/blog-best-interior-designers.php",
+  "slug": [
+   "pitampura",
+   "blog-best-interior-designers.php"
+  ],
+  "key": "pitampura__blog-Best-interior-designers"
+ },
+ {
+  "route": "/pitampura/blog-best-salon-interior-designer.php",
+  "slug": [
+   "pitampura",
+   "blog-best-salon-interior-designer.php"
+  ],
+  "key": "pitampura__blog-best-salon-interior-designer"
+ },
+ {
+  "route": "/pitampura/blog-exclusively-for-premium-homes-theatre-design-services.php",
+  "slug": [
+   "pitampura",
+   "blog-exclusively-for-premium-homes-theatre-design-services.php"
+  ],
+  "key": "pitampura__blog-Exclusively-for-Premium-Homes-Theatre-Design-Services"
+ },
+ {
+  "route": "/pitampura/blog-how-we-create-custom-luxury-interiors-for-high-end-clients.php",
+  "slug": [
+   "pitampura",
+   "blog-how-we-create-custom-luxury-interiors-for-high-end-clients.php"
+  ],
+  "key": "pitampura__blog-how-we-create-custom-luxury-interiors-for-high-end-clients"
+ },
+ {
+  "route": "/pitampura/blog-interior-design-company-for-small-flats.php",
+  "slug": [
+   "pitampura",
+   "blog-interior-design-company-for-small-flats.php"
+  ],
+  "key": "pitampura__blog-interior-design-company-for-small-flats"
+ },
+ {
+  "route": "/pitampura/blog-interior-design-services-offered-for-small-flats.php",
+  "slug": [
+   "pitampura",
+   "blog-interior-design-services-offered-for-small-flats.php"
+  ],
+  "key": "pitampura__blog-interior-design-services-offered-for-small-flats"
+ },
+ {
+  "route": "/pitampura/blog-interior-design-services.php",
+  "slug": [
+   "pitampura",
+   "blog-interior-design-services.php"
+  ],
+  "key": "pitampura__blog-interior-design-services"
+ },
+ {
+  "route": "/pitampura/blog-luxury-furniture-and-custom-built-in-solutions.php",
+  "slug": [
+   "pitampura",
+   "blog-luxury-furniture-and-custom-built-in-solutions.php"
+  ],
+  "key": "pitampura__blog-luxury-furniture-and-custom-built-in-solutions"
+ },
+ {
+  "route": "/pitampura/blog-our-process-of-designing-luxury-office-salons-and-hotels-from-vision-to-reality.php",
+  "slug": [
+   "pitampura",
+   "blog-our-process-of-designing-luxury-office-salons-and-hotels-from-vision-to-reality.php"
+  ],
+  "key": "pitampura__blog-Our-Process-of-Designing-Luxury-Office-Salons-and-Hotels-From-Vision-to-Reality"
+ },
+ {
+  "route": "/pitampura/blog-the-top-interior-design-firm.php",
+  "slug": [
+   "pitampura",
+   "blog-the-top-interior-design-firm.php"
+  ],
+  "key": "pitampura__blog-the-top-interior-design-firm"
+ },
+ {
+  "route": "/pitampura/blog.php",
+  "slug": [
+   "pitampura",
+   "blog.php"
+  ],
+  "key": "pitampura__blog"
+ },
+ {
+  "route": "/pitampura/blog-best-interior-designers-in-india.php",
+  "slug": [
+   "pitampura",
+   "blog-best-interior-designers-in-india.php"
+  ],
+  "key": "pitampura__blog1"
+ },
+ {
+  "route": "/pitampura/blog-hire-professional-interior-designers.php",
+  "slug": [
+   "pitampura",
+   "blog-hire-professional-interior-designers.php"
+  ],
+  "key": "pitampura__blog2"
+ },
+ {
+  "route": "/pitampura/blog-interior-design-for-homes.php",
+  "slug": [
+   "pitampura",
+   "blog-interior-design-for-homes.php"
+  ],
+  "key": "pitampura__blog3"
+ },
+ {
+  "route": "/pitampura/blog-architecture-services-in-india.php",
+  "slug": [
+   "pitampura",
+   "blog-architecture-services-in-india.php"
+  ],
+  "key": "pitampura__blog4"
+ },
+ {
+  "route": "/pitampura/blog-why-india-is-a-center-for-interior-design.php",
+  "slug": [
+   "pitampura",
+   "blog-why-india-is-a-center-for-interior-design.php"
+  ],
+  "key": "pitampura__blog5"
+ },
+ {
+  "route": "/pitampura/contact.php",
+  "slug": [
+   "pitampura",
+   "contact.php"
+  ],
+  "key": "pitampura__contact"
+ },
+ {
+  "route": "/pitampura/dr-jain-residence-interior-design.php",
+  "slug": [
+   "pitampura",
+   "dr-jain-residence-interior-design.php"
+  ],
+  "key": "pitampura__dr-jain2"
+ },
+ {
+  "route": "/pitampura/gallery.php",
+  "slug": [
+   "pitampura",
+   "gallery.php"
+  ],
+  "key": "pitampura__gallery"
+ },
+ {
+  "route": "/pitampura/interior-design-service-areas.php",
+  "slug": [
+   "pitampura",
+   "interior-design-service-areas.php"
+  ],
+  "key": "pitampura__global"
+ },
+ {
+  "route": "/pitampura/hannu-office.php",
+  "slug": [
+   "pitampura",
+   "hannu-office.php"
+  ],
+  "key": "pitampura__hannu-office"
+ },
+ {
+  "route": "/pitampura/",
+  "slug": [
+   "pitampura"
+  ],
+  "key": "pitampura__index"
+ },
+ {
+  "route": "/pitampura/luxuria-interior-design.php",
+  "slug": [
+   "pitampura",
+   "luxuria-interior-design.php"
+  ],
+  "key": "pitampura__Luxuria"
+ },
+ {
+  "route": "/pitampura/project.php",
+  "slug": [
+   "pitampura",
+   "project.php"
+  ],
+  "key": "pitampura__project"
+ },
+ {
+  "route": "/pitampura/raj-gupta-residence-interior-design.php",
+  "slug": [
+   "pitampura",
+   "raj-gupta-residence-interior-design.php"
+  ],
+  "key": "pitampura__raj-gupta5"
+ },
+ {
+  "route": "/pitampura/rana-residence-interior-design.php",
+  "slug": [
+   "pitampura",
+   "rana-residence-interior-design.php"
+  ],
+  "key": "pitampura__rana6"
+ },
+ {
+  "route": "/pitampura/rao-residence-interior-design.php",
+  "slug": [
+   "pitampura",
+   "rao-residence-interior-design.php"
+  ],
+  "key": "pitampura__rao7"
+ },
+ {
+  "route": "/pitampura/sachin-residence-interior-design.php",
+  "slug": [
+   "pitampura",
+   "sachin-residence-interior-design.php"
+  ],
+  "key": "pitampura__sachin8"
+ },
+ {
+  "route": "/pitampura/services-architecture-services.php",
+  "slug": [
+   "pitampura",
+   "services-architecture-services.php"
+  ],
+  "key": "pitampura__services-architecture-services"
+ },
+ {
+  "route": "/pitampura/services-best-interior-designers.php",
+  "slug": [
+   "pitampura",
+   "services-best-interior-designers.php"
+  ],
+  "key": "pitampura__services-best-interior-designers"
+ },
+ {
+  "route": "/pitampura/services-best-salon-interior-designer.php",
+  "slug": [
+   "pitampura",
+   "services-best-salon-interior-designer.php"
+  ],
+  "key": "pitampura__services-best-salon-interior-designer"
+ },
+ {
+  "route": "/pitampura/services-farmhouse-interior-designer.php",
+  "slug": [
+   "pitampura",
+   "services-farmhouse-interior-designer.php"
+  ],
+  "key": "pitampura__services-farmhouse-interior-designer"
+ },
+ {
+  "route": "/pitampura/services-interior-architect-for-showroom-design.php",
+  "slug": [
+   "pitampura",
+   "services-interior-architect-for-showroom-design.php"
+  ],
+  "key": "pitampura__services-interior-architect-for-showroom-design"
+ },
+ {
+  "route": "/pitampura/services-interior-design-services.php",
+  "slug": [
+   "pitampura",
+   "services-interior-design-services.php"
+  ],
+  "key": "pitampura__services-interior-design-services"
+ },
+ {
+  "route": "/pitampura/services-interior-designer-for-office.php",
+  "slug": [
+   "pitampura",
+   "services-interior-designer-for-office.php"
+  ],
+  "key": "pitampura__services-interior-designer-for-office"
+ },
+ {
+  "route": "/pitampura/services-luxury-home-interior-designs.php",
+  "slug": [
+   "pitampura",
+   "services-luxury-home-interior-designs.php"
+  ],
+  "key": "pitampura__services-luxury-home-interior-designs"
+ },
+ {
+  "route": "/pitampura/services-modern-interior-design.php",
+  "slug": [
+   "pitampura",
+   "services-modern-interior-design.php"
+  ],
+  "key": "pitampura__services-modern-interior-design"
+ },
+ {
+  "route": "/pitampura/services-residential-interior-design.php",
+  "slug": [
+   "pitampura",
+   "services-residential-interior-design.php"
+  ],
+  "key": "pitampura__services-residential-interior-design"
+ },
+ {
+  "route": "/pitampura/services-salon-interior-designer.php",
+  "slug": [
+   "pitampura",
+   "services-salon-interior-designer.php"
+  ],
+  "key": "pitampura__services-Salon-interior-designer"
+ },
+ {
+  "route": "/pitampura/services-top-interior-design-firm.php",
+  "slug": [
+   "pitampura",
+   "services-top-interior-design-firm.php"
+  ],
+  "key": "pitampura__services-top-interior-design-firm"
+ },
+ {
+  "route": "/pitampura/services.php",
+  "slug": [
+   "pitampura",
+   "services.php"
+  ],
+  "key": "pitampura__services"
+ },
+ {
+  "route": "/pitampura/star-salon.php",
+  "slug": [
+   "pitampura",
+   "star-salon.php"
+  ],
+  "key": "pitampura__star-salon"
+ },
+ {
+  "route": "/pitampura/umesh-residence-interior-design.php",
+  "slug": [
+   "pitampura",
+   "umesh-residence-interior-design.php"
+  ],
+  "key": "pitampura__umesh9"
+ },
+ {
+  "route": "/pitampura/vijay-residence-interior-design.php",
+  "slug": [
+   "pitampura",
+   "vijay-residence-interior-design.php"
+  ],
+  "key": "pitampura__vijay12"
+ },
+ {
+  "route": "/pitampura/virendra-residence-interior-design.php",
+  "slug": [
+   "pitampura",
+   "virendra-residence-interior-design.php"
+  ],
+  "key": "pitampura__virend10"
+ },
+ {
+  "route": "/rajokri/about-us.php",
+  "slug": [
+   "rajokri",
+   "about-us.php"
+  ],
+  "key": "rajokri__about-us"
+ },
+ {
+  "route": "/rajokri/ak-jain-residence-interior-design.php",
+  "slug": [
+   "rajokri",
+   "ak-jain-residence-interior-design.php"
+  ],
+  "key": "rajokri__ak-jain1"
+ },
+ {
+  "route": "/rajokri/alok-verma-residence-interior-design.php",
+  "slug": [
+   "rajokri",
+   "alok-verma-residence-interior-design.php"
+  ],
+  "key": "rajokri__alok-verma3"
+ },
+ {
+  "route": "/rajokri/anand-residence-interior-design.php",
+  "slug": [
+   "rajokri",
+   "anand-residence-interior-design.php"
+  ],
+  "key": "rajokri__anand11"
+ },
+ {
+  "route": "/rajokri/arun-residence-interior-design.php",
+  "slug": [
+   "rajokri",
+   "arun-residence-interior-design.php"
+  ],
+  "key": "rajokri__arun4"
+ },
+ {
+  "route": "/rajokri/blog-architecture-services.php",
+  "slug": [
+   "rajokri",
+   "blog-architecture-services.php"
+  ],
+  "key": "rajokri__blog-architecture-services"
+ },
+ {
+  "route": "/rajokri/blog-best-affordable-interior-design-firm-for-2bhk.php",
+  "slug": [
+   "rajokri",
+   "blog-best-affordable-interior-design-firm-for-2bhk.php"
+  ],
+  "key": "rajokri__blog-best-affordable-interior-design-firm-for-2BHK"
+ },
+ {
+  "route": "/rajokri/blog-best-interior-designers.php",
+  "slug": [
+   "rajokri",
+   "blog-best-interior-designers.php"
+  ],
+  "key": "rajokri__blog-Best-interior-designers"
+ },
+ {
+  "route": "/rajokri/blog-best-salon-interior-designer.php",
+  "slug": [
+   "rajokri",
+   "blog-best-salon-interior-designer.php"
+  ],
+  "key": "rajokri__blog-best-salon-interior-designer"
+ },
+ {
+  "route": "/rajokri/blog-exclusively-for-premium-homes-theatre-design-services.php",
+  "slug": [
+   "rajokri",
+   "blog-exclusively-for-premium-homes-theatre-design-services.php"
+  ],
+  "key": "rajokri__blog-Exclusively-for-Premium-Homes-Theatre-Design-Services"
+ },
+ {
+  "route": "/rajokri/blog-how-we-create-custom-luxury-interiors-for-high-end-clients.php",
+  "slug": [
+   "rajokri",
+   "blog-how-we-create-custom-luxury-interiors-for-high-end-clients.php"
+  ],
+  "key": "rajokri__blog-how-we-create-custom-luxury-interiors-for-high-end-clients"
+ },
+ {
+  "route": "/rajokri/blog-interior-design-company-for-small-flats.php",
+  "slug": [
+   "rajokri",
+   "blog-interior-design-company-for-small-flats.php"
+  ],
+  "key": "rajokri__blog-interior-design-company-for-small-flats"
+ },
+ {
+  "route": "/rajokri/blog-interior-design-services-offered-for-small-flats.php",
+  "slug": [
+   "rajokri",
+   "blog-interior-design-services-offered-for-small-flats.php"
+  ],
+  "key": "rajokri__blog-interior-design-services-offered-for-small-flats"
+ },
+ {
+  "route": "/rajokri/blog-interior-design-services.php",
+  "slug": [
+   "rajokri",
+   "blog-interior-design-services.php"
+  ],
+  "key": "rajokri__blog-interior-design-services"
+ },
+ {
+  "route": "/rajokri/blog-luxury-furniture-and-custom-built-in-solutions.php",
+  "slug": [
+   "rajokri",
+   "blog-luxury-furniture-and-custom-built-in-solutions.php"
+  ],
+  "key": "rajokri__blog-luxury-furniture-and-custom-built-in-solutions"
+ },
+ {
+  "route": "/rajokri/blog-our-process-of-designing-luxury-office-salons-and-hotels-from-vision-to-reality.php",
+  "slug": [
+   "rajokri",
+   "blog-our-process-of-designing-luxury-office-salons-and-hotels-from-vision-to-reality.php"
+  ],
+  "key": "rajokri__blog-Our-Process-of-Designing-Luxury-Office-Salons-and-Hotels-From-Vision-to-Reality"
+ },
+ {
+  "route": "/rajokri/blog-the-top-interior-design-firm.php",
+  "slug": [
+   "rajokri",
+   "blog-the-top-interior-design-firm.php"
+  ],
+  "key": "rajokri__blog-the-top-interior-design-firm"
+ },
+ {
+  "route": "/rajokri/blog.php",
+  "slug": [
+   "rajokri",
+   "blog.php"
+  ],
+  "key": "rajokri__blog"
+ },
+ {
+  "route": "/rajokri/blog-best-interior-designers-in-india.php",
+  "slug": [
+   "rajokri",
+   "blog-best-interior-designers-in-india.php"
+  ],
+  "key": "rajokri__blog1"
+ },
+ {
+  "route": "/rajokri/blog-hire-professional-interior-designers.php",
+  "slug": [
+   "rajokri",
+   "blog-hire-professional-interior-designers.php"
+  ],
+  "key": "rajokri__blog2"
+ },
+ {
+  "route": "/rajokri/blog-interior-design-for-homes.php",
+  "slug": [
+   "rajokri",
+   "blog-interior-design-for-homes.php"
+  ],
+  "key": "rajokri__blog3"
+ },
+ {
+  "route": "/rajokri/blog-architecture-services-in-india.php",
+  "slug": [
+   "rajokri",
+   "blog-architecture-services-in-india.php"
+  ],
+  "key": "rajokri__blog4"
+ },
+ {
+  "route": "/rajokri/blog-why-india-is-a-center-for-interior-design.php",
+  "slug": [
+   "rajokri",
+   "blog-why-india-is-a-center-for-interior-design.php"
+  ],
+  "key": "rajokri__blog5"
+ },
+ {
+  "route": "/rajokri/contact.php",
+  "slug": [
+   "rajokri",
+   "contact.php"
+  ],
+  "key": "rajokri__contact"
+ },
+ {
+  "route": "/rajokri/dr-jain-residence-interior-design.php",
+  "slug": [
+   "rajokri",
+   "dr-jain-residence-interior-design.php"
+  ],
+  "key": "rajokri__dr-jain2"
+ },
+ {
+  "route": "/rajokri/gallery.php",
+  "slug": [
+   "rajokri",
+   "gallery.php"
+  ],
+  "key": "rajokri__gallery"
+ },
+ {
+  "route": "/rajokri/interior-design-service-areas.php",
+  "slug": [
+   "rajokri",
+   "interior-design-service-areas.php"
+  ],
+  "key": "rajokri__global"
+ },
+ {
+  "route": "/rajokri/hannu-office.php",
+  "slug": [
+   "rajokri",
+   "hannu-office.php"
+  ],
+  "key": "rajokri__hannu-office"
+ },
+ {
+  "route": "/rajokri/",
+  "slug": [
+   "rajokri"
+  ],
+  "key": "rajokri__index"
+ },
+ {
+  "route": "/rajokri/luxuria-interior-design.php",
+  "slug": [
+   "rajokri",
+   "luxuria-interior-design.php"
+  ],
+  "key": "rajokri__Luxuria"
+ },
+ {
+  "route": "/rajokri/project.php",
+  "slug": [
+   "rajokri",
+   "project.php"
+  ],
+  "key": "rajokri__project"
+ },
+ {
+  "route": "/rajokri/raj-gupta-residence-interior-design.php",
+  "slug": [
+   "rajokri",
+   "raj-gupta-residence-interior-design.php"
+  ],
+  "key": "rajokri__raj-gupta5"
+ },
+ {
+  "route": "/rajokri/rana-residence-interior-design.php",
+  "slug": [
+   "rajokri",
+   "rana-residence-interior-design.php"
+  ],
+  "key": "rajokri__rana6"
+ },
+ {
+  "route": "/rajokri/rao-residence-interior-design.php",
+  "slug": [
+   "rajokri",
+   "rao-residence-interior-design.php"
+  ],
+  "key": "rajokri__rao7"
+ },
+ {
+  "route": "/rajokri/sachin-residence-interior-design.php",
+  "slug": [
+   "rajokri",
+   "sachin-residence-interior-design.php"
+  ],
+  "key": "rajokri__sachin8"
+ },
+ {
+  "route": "/rajokri/services-architecture-services.php",
+  "slug": [
+   "rajokri",
+   "services-architecture-services.php"
+  ],
+  "key": "rajokri__services-architecture-services"
+ },
+ {
+  "route": "/rajokri/services-best-interior-designers.php",
+  "slug": [
+   "rajokri",
+   "services-best-interior-designers.php"
+  ],
+  "key": "rajokri__services-best-interior-designers"
+ },
+ {
+  "route": "/rajokri/services-best-salon-interior-designer.php",
+  "slug": [
+   "rajokri",
+   "services-best-salon-interior-designer.php"
+  ],
+  "key": "rajokri__services-best-salon-interior-designer"
+ },
+ {
+  "route": "/rajokri/services-farmhouse-interior-designer.php",
+  "slug": [
+   "rajokri",
+   "services-farmhouse-interior-designer.php"
+  ],
+  "key": "rajokri__services-farmhouse-interior-designer"
+ },
+ {
+  "route": "/rajokri/services-interior-architect-for-showroom-design.php",
+  "slug": [
+   "rajokri",
+   "services-interior-architect-for-showroom-design.php"
+  ],
+  "key": "rajokri__services-interior-architect-for-showroom-design"
+ },
+ {
+  "route": "/rajokri/services-interior-design-services.php",
+  "slug": [
+   "rajokri",
+   "services-interior-design-services.php"
+  ],
+  "key": "rajokri__services-interior-design-services"
+ },
+ {
+  "route": "/rajokri/services-interior-designer-for-office.php",
+  "slug": [
+   "rajokri",
+   "services-interior-designer-for-office.php"
+  ],
+  "key": "rajokri__services-interior-designer-for-office"
+ },
+ {
+  "route": "/rajokri/services-luxury-home-interior-designs.php",
+  "slug": [
+   "rajokri",
+   "services-luxury-home-interior-designs.php"
+  ],
+  "key": "rajokri__services-luxury-home-interior-designs"
+ },
+ {
+  "route": "/rajokri/services-modern-interior-design.php",
+  "slug": [
+   "rajokri",
+   "services-modern-interior-design.php"
+  ],
+  "key": "rajokri__services-modern-interior-design"
+ },
+ {
+  "route": "/rajokri/services-residential-interior-design.php",
+  "slug": [
+   "rajokri",
+   "services-residential-interior-design.php"
+  ],
+  "key": "rajokri__services-residential-interior-design"
+ },
+ {
+  "route": "/rajokri/services-salon-interior-designer.php",
+  "slug": [
+   "rajokri",
+   "services-salon-interior-designer.php"
+  ],
+  "key": "rajokri__services-Salon-interior-designer"
+ },
+ {
+  "route": "/rajokri/services-top-interior-design-firm.php",
+  "slug": [
+   "rajokri",
+   "services-top-interior-design-firm.php"
+  ],
+  "key": "rajokri__services-top-interior-design-firm"
+ },
+ {
+  "route": "/rajokri/services.php",
+  "slug": [
+   "rajokri",
+   "services.php"
+  ],
+  "key": "rajokri__services"
+ },
+ {
+  "route": "/rajokri/star-salon.php",
+  "slug": [
+   "rajokri",
+   "star-salon.php"
+  ],
+  "key": "rajokri__star-salon"
+ },
+ {
+  "route": "/rajokri/umesh-residence-interior-design.php",
+  "slug": [
+   "rajokri",
+   "umesh-residence-interior-design.php"
+  ],
+  "key": "rajokri__umesh9"
+ },
+ {
+  "route": "/rajokri/vijay-residence-interior-design.php",
+  "slug": [
+   "rajokri",
+   "vijay-residence-interior-design.php"
+  ],
+  "key": "rajokri__vijay12"
+ },
+ {
+  "route": "/rajokri/virendra-residence-interior-design.php",
+  "slug": [
+   "rajokri",
+   "virendra-residence-interior-design.php"
+  ],
+  "key": "rajokri__virend10"
+ }
+]

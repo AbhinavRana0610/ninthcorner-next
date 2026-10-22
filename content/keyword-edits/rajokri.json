@@ -1,0 +1,103 @@
+{
+  "_about": "Keyword-density edits for the Rajokri service pages. These pages are short (~210 words), so the target is 3 keyword mentions (about 1.4%); 2 would stay under 1%. Applied by scripts/apply-keyword-edits.mjs. Each edit replaces one existing sentence fragment.",
+  "services-architecture-services": [
+    [
+      "Designing diverse structures across residential,",
+      "Our architecture services design diverse structures across residential,"
+    ]
+  ],
+  "services-best-interior-designers": [
+    [
+      "Strategic use of architectural lighting,",
+      "The best interior designers make strategic use of architectural lighting,"
+    ]
+  ],
+  "services-best-salon-interior-designer": [
+    [
+      "Curating ergonomic and stylish furniture that provides maximum comfort",
+      "The best salon interior designer curates ergonomic and stylish furniture that provides maximum comfort"
+    ]
+  ],
+  "services-farmhouse-interior-designer": [
+    [
+      "Our designs in Rajokri, Delhi focus on",
+      "As a farmhouse interior designer in Rajokri, Delhi, we focus on"
+    ],
+    [
+      "Designing airy, open-concept floor plans",
+      "A farmhouse interior designer creates airy, open-concept floor plans"
+    ]
+  ],
+  "services-interior-architect-for-showroom-design": [
+    [
+      "Our interior architecture services for showrooms in Rajokri, Delhi focus on",
+      "As an interior architect for showroom design in Rajokri, Delhi, we focus on"
+    ],
+    [
+      "Architectural floor plans designed specifically to communicate your brand story",
+      "An interior architect for showroom design creates floor plans that communicate your brand story"
+    ]
+  ],
+  "services-interior-designer-for-office": [
+    [
+      "<h1>Office Interior Designer in Rajokri, Delhi</h1>",
+      "<h1>Interior Designer for Office in Rajokri, Delhi</h1>"
+    ],
+    [
+      "We design offices in Rajokri, Delhi that enhance",
+      "As an interior designer for office spaces in Rajokri, Delhi, we design offices that enhance"
+    ],
+    [
+      "Partner with Rajokri's premier office design firm",
+      "Partner with Rajokri's premier interior designer for office spaces"
+    ]
+  ],
+  "services-interior-design-services": [
+    [
+      "Handling every phase of the project,",
+      "Our interior design services handle every phase of the project,"
+    ]
+  ],
+  "services-luxury-home-interior-designs": [
+    [
+      "We craft luxury home interiors in Rajokri, Delhi",
+      "We craft luxury home interior designs in Rajokri, Delhi"
+    ],
+    [
+      "Sophisticated spatial planning that emphasizes a grand sense of scale",
+      "Luxury home interior designs with spatial planning that emphasizes a grand sense of scale"
+    ]
+  ],
+  "services-modern-interior-design": [
+    [
+      "Designing interiors that aren't just beautiful but are built around",
+      "Modern interior design that isn't just beautiful but is built around"
+    ]
+  ],
+  "services-residential-interior-design": [
+    [
+      "We create residential interiors in Rajokri, Delhi that reflect",
+      "Our residential interior design in Rajokri, Delhi creates homes that reflect"
+    ],
+    [
+      "Strategic space planning that maximizes storage and movement",
+      "Residential interior design with space planning that maximizes storage and movement"
+    ]
+  ],
+  "services-Salon-interior-designer": [
+    [
+      "We create salon interiors in Rajokri, Delhi that reflect your brand identity,",
+      "As a salon interior designer in Rajokri, Delhi, we create salon interiors that reflect your brand identity,"
+    ],
+    [
+      "Meticulous spatial planning that optimizes the flow between service areas,",
+      "Spatial planning by a salon interior designer that optimizes the flow between service areas,"
+    ]
+  ],
+  "services-top-interior-design-firm": [
+    [
+      "Applying extreme attention to detail",
+      "As a top interior design firm, we apply extreme attention to detail"
+    ]
+  ]
+}

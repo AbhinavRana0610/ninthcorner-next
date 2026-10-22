@@ -1,0 +1,42 @@
+{
+  "_about": "Keyword-density edits for the Chhattarpur service pages. These pages are short (~210 words), so the target is 3 keyword mentions (about 1.4%); 2 would stay under 1%. best-interior-designers already has 3. Applied by scripts/apply-keyword-edits.mjs. Each edit replaces one existing sentence fragment.",
+  "services-architecture-services": [
+    ["Specialized architectural planning for high-end residential homes,", "Specialized architecture services for high-end residential homes,"]
+  ],
+  "services-best-salon-interior-designer": [
+    ["Strategically planned layouts that improve movement for staff", "Layouts planned by the best salon interior designer to improve movement for staff"]
+  ],
+  "services-farmhouse-interior-designer": [
+    ["We specialize in farmhouse interiors that blend rustic charm", "As a farmhouse interior designer, we specialize in farmhouse interiors that blend rustic charm"],
+    ["Partner with the leading farmhouse interior specialists in", "Partner with the leading farmhouse interior designer in"]
+  ],
+  "services-interior-architect-for-showroom-design": [
+    ["Our interior architecture services for showrooms in Chhattarpur, Delhi focus on", "As an interior architect for showroom design in Chhattarpur, Delhi, we focus on"],
+    ["Partner with Chhattarpur's leading showroom interior architects", "Partner with a leading interior architect for showroom design in Chhattarpur"]
+  ],
+  "services-interior-designer-for-office": [
+    ["We design offices in Chhattarpur, Delhi that enhance", "As an interior designer for office spaces in Chhattarpur, Delhi, we design offices that enhance"],
+    ["Partner with the leading office interior designers in", "Partner with the leading interior designer for office projects in"]
+  ],
+  "services-interior-design-services": [
+    ["Complete design and execution services, handling everything", "Complete interior design services, handling everything"]
+  ],
+  "services-luxury-home-interior-designs": [
+    ["We craft luxury home interiors in Chhattarpur, Delhi", "We craft luxury home interior designs in Chhattarpur, Delhi"],
+    ["Designing layouts that flow naturally,", "Luxury home interior designs with layouts that flow naturally,"]
+  ],
+  "services-modern-interior-design": [
+    ["Prioritizing human-centric, ergonomic furniture", "Modern interior design that prioritizes human-centric, ergonomic furniture"]
+  ],
+  "services-residential-interior-design": [
+    ["We create residential interiors in Chhattarpur, Delhi that reflect", "Our residential interior design in Chhattarpur, Delhi creates homes that reflect"],
+    ["Strategic spatial planning that makes even compact rooms feel spacious", "Residential interior design with spatial planning that makes even compact rooms feel spacious"]
+  ],
+  "services-Salon-interior-designer": [
+    ["We create salon interiors in Chhattarpur, Delhi that reflect your brand,", "As a salon interior designer in Chhattarpur, Delhi, we create salon interiors that reflect your brand,"],
+    ["Human-centric design principles aimed at enhancing the client journey,", "A salon interior designer applies human-centric design principles to enhance the client journey,"]
+  ],
+  "services-top-interior-design-firm": [
+    ["Developing innovative and functional interior concepts", "As a top interior design firm, we develop innovative and functional interior concepts"]
+  ]
+}
