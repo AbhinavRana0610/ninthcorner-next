@@ -63,12 +63,7 @@
       "replace": "Gurgaon's"
     },
     {
-      "note": "Point 10: put the keyword into generic H1s (same look, a few words added)",
-      "pages": "(^|__)about-us$",
-      "find": "<h1>We go beyond walls and furniture",
-      "replace": "<h1>9th Corner interior designers go beyond walls and furniture"
-    },
-    {
+      "note": "Point 10: put the keyword into generic H1s (same look, a few words added). About-us H1 rule removed 22 Oct at the user's request (back to 'We go beyond walls...').",
       "pages": "(^|__)services$",
       "find": "<h1>Transformative Interior Design\\.</h1>",
       "replace": "<h1>Transformative Interior Design Services.</h1>"
