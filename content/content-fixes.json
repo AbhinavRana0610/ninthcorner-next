@@ -292,6 +292,12 @@
       "pages": "(^|__)blog$",
       "find": "the philosophy re\\.\\.\\.",
       "replace": "the philosophy..."
+    },
+    {
+      "note": "User (22 Oct): homepage About section heading back to the live 'About Us' look on all 9 homepages; H1 is 'About Us' (keyword H1 dropped on purpose). Inline weight/line-height undo the .about-text h1 CSS so it matches the old h2.",
+      "pages": "(^|__)index$",
+      "find": "<h1 style=\"font-size: clamp\\(1\\.9rem, 4vw, 2\\.6rem\\); line-height: 1\\.2; margin-bottom: 0\\.5rem;\">9th Corner: [^<]*</h1>(\\s*)<h2 style=\"font-size: clamp\\(1\\.4rem, 3vw, 2rem\\);\">",
+      "replace": "<h1 style=\"font-size: 3rem; margin-bottom: -15px; font-weight: 700; line-height: inherit;\">About Us</h1>$1<h2 style=\"font-size: 2.2rem;\">"
     }
   ]
 }
