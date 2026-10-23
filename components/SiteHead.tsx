@@ -19,7 +19,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 const INTER_CSS = 'https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap';
 const FONT_AWESOME_CSS = 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css';
-export const GLOBAL_CSS = '/css/style.min.css?v=20261014-7';
+export const GLOBAL_CSS = '/css/style.min.css?v=20261022-1';
 
 /**
  * Everything header.php put in <head>, in the same order. Stylesheets carry a

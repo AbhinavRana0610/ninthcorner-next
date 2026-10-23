@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-html-link-for-pages -- legacy pages need a full page load for their inline scripts */
 import type { Metadata } from 'next';
 
 // Replica of the legacy 404.php (standalone page, no site header/footer).
@@ -35,9 +36,9 @@ export default function NotFound() {
         <p>The page you&apos;re looking for has moved or no longer exists.</p>
         <p>Let&apos;s get you back to designing beautiful spaces with 9th-Corner.</p>
         <div className="links">
-          <a className="btn solid" href="/index.php">Back to Home</a>
-          <a className="btn" href="/project.php">View Projects</a>
-          <a className="btn" href="/contact.php">Contact Us</a>
+          <a className="btn solid" href="/">Back to Home</a>
+          <a className="btn" href="/project">View Projects</a>
+          <a className="btn" href="/contact">Contact Us</a>
         </div>
       </div>
     </>

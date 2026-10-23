@@ -1,6 +1,6 @@
 import { NextResponse } from 'next/server';
 import type { NextRequest } from 'next/server';
-import { PAGE_RENAMES, cleanImagePath, renamedPage } from '@/lib/slug-renames';
+import { cleanImagePath, renamedPage } from '@/lib/slug-renames';
 
 // Port of the legacy .htaccess redirect rules (all 301, same targets).
 const CITY = '(?:chhattarpur|delhi|gurgaon|hauzkhas|karnal|noida|pitampura|rajokri)';
@@ -23,14 +23,17 @@ const RULES: [RegExp, (m: RegExpMatchArray) => string][] = [
   [new RegExp(`^/(${CITY})/index\\.php$`), (m) => `/${m[1]}/`],
   // Apache DirectorySlash: /<city> -> /<city>/
   [new RegExp(`^/(${CITY})$`), (m) => `/${m[1]}/`],
-  // SEO slug cleanup (lib/slug-renames.ts): capitals and numbered short forms.
-  [new RegExp(`^/(${CITY}/)?(${Object.keys(PAGE_RENAMES).join('|')})\\.php$`), (m) => `/${m[1] ?? ''}${m[2]}.php`],
+  // Extensionless URLs: every other "/<page>.php" (finalTarget drops the ".php" and applies
+  // the SEO slug cleanup of lib/slug-renames.ts).
+  [/^\/(.+)\.php$/, (m) => `/${m[1]}.php`],
+  // Pages have no trailing slash; only "/" and the city index pages "/<city>/" do.
+  [new RegExp(`^(?!/${CITY}/$)/(.+)/$`), (m) => `/${m[1]}`],
 ];
 
-// Rules above may target a page that was renamed later; point them at the final URL
-// so every legacy URL is a single 301.
+// Rules above target legacy ".php" names; point them at the final extensionless URL (with
+// any later rename) so every legacy URL is a single 301.
 function finalTarget(target: string): string {
-  return target.replace(/([^/]+)\.php$/, (_, name: string) => `${renamedPage(name)}.php`);
+  return target.replace(/([^/]+)\.php$/, (_, name: string) => (name === 'index' ? '' : renamedPage(name)));
 }
 
 export function proxy(request: NextRequest) {

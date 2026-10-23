@@ -47,7 +47,7 @@ export default function Footer({ city }: { city: string | null }) {
                 <li><a href="#" title="Architecture">Architecture</a></li>
                 <li><a href="#" title="Construction">Construction</a></li>
                 <li><a href="#" title="Vastu">Vastu</a></li>
-                <li><a href={`${base}interior-design-service-areas.php`} title="Global">Global </a> </li>
+                <li><a href={`${base}interior-design-service-areas`} title="Global">Global </a> </li>
               </ul>
             </div>
 

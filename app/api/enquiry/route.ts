@@ -18,11 +18,11 @@ function field(form: FormData, ...names: string[]): string {
 function redirectTarget(request: Request, form: FormData): URL {
   const site = new URL(request.url);
   const referer = request.headers.get('referer');
-  const base = referer && new URL(referer).origin === site.origin ? new URL(referer) : new URL('/contact.php', site);
-  const target = new URL(field(form, 'redirect_to') || 'contact.php?success=1', base);
-  if (target.origin !== site.origin) return new URL('/contact.php?success=1', site);
-  // The legacy server 301'd "/index.php" to "/", keeping the query string.
-  target.pathname = target.pathname.replace(/(^|\/)index\.php$/, '$1');
+  const base = referer && new URL(referer).origin === site.origin ? new URL(referer) : new URL('/contact', site);
+  const target = new URL(field(form, 'redirect_to') || 'contact?success=1', base);
+  if (target.origin !== site.origin) return new URL('/contact?success=1', site);
+  // Old .php redirect_to values: "index.php" -> "/", "<page>.php" -> "<page>" (as proxy.ts 301s them).
+  target.pathname = target.pathname.replace(/(^|\/)index\.php$/, '$1').replace(/\.php$/, '');
   return target;
 }
 

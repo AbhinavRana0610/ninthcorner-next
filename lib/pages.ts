@@ -40,14 +40,13 @@ export function allRoutes(): RouteEntry[] {
 
 export function routeFromSlug(slug: string[] | undefined): string {
   if (!slug || slug.length === 0) return '/';
-  // A bare city segment is that city's index page, served at "/<city>/".
-  if (slug.length === 1 && !slug[0].includes('.')) return `/${slug[0]}/`;
   return '/' + slug.join('/');
 }
 
 export function getPage(slug: string[] | undefined): LegacyPage | null {
   const route = routeFromSlug(slug?.map((s) => decodeURIComponent(s)));
-  const entry = allRoutes().find((r) => r.route === route);
+  // A bare city segment is that city's index page, served at "/<city>/".
+  const entry = allRoutes().find((r) => r.route === route) ?? allRoutes().find((r) => r.route === `${route}/`);
   if (!entry) return null;
   return JSON.parse(fs.readFileSync(path.join(CONTENT_DIR, 'pages', entry.key + '.json'), 'utf8')) as LegacyPage;
 }

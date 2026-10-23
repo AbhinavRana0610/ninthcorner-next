@@ -15,20 +15,20 @@ export default function Header({ city, withStyle = true }: Props) {
   const links = city
     ? [
         { href: base, title: 'Home', label: 'Home' },
-        { href: `${base}services.php`, title: 'Services', label: 'Services' },
-        { href: `${base}about-us.php`, title: 'About-Us', label: 'About-Us' },
-        { href: `${base}project.php`, title: 'Projects', label: ' Projects ' },
-        { href: `${base}gallery.php`, title: 'Gallery', label: 'Gallery' },
-        { href: `${base}blog.php`, title: 'Blogs', label: 'Blogs' },
-        { href: `${base}contact.php`, title: 'Contact-Us', label: 'Contact-Us' },
+        { href: `${base}services`, title: 'Services', label: 'Services' },
+        { href: `${base}about-us`, title: 'About-Us', label: 'About-Us' },
+        { href: `${base}project`, title: 'Projects', label: ' Projects ' },
+        { href: `${base}gallery`, title: 'Gallery', label: 'Gallery' },
+        { href: `${base}blog`, title: 'Blogs', label: 'Blogs' },
+        { href: `${base}contact`, title: 'Contact-Us', label: 'Contact-Us' },
       ]
     : [
         { href: base, title: 'Home', label: 'Home' },
-        { href: '/about-us.php', title: 'About Us', label: 'About-Us' },
-        { href: '/project.php', title: 'Projects', label: ' Projects ' },
-        { href: '/gallery.php', title: 'Gallery', label: 'Gallery' },
-        { href: '/blog.php', title: 'Blogs', label: 'Blogs' },
-        { href: '/contact.php', title: 'Contact Us', label: 'Contact-Us' },
+        { href: '/about-us', title: 'About Us', label: 'About-Us' },
+        { href: '/project', title: 'Projects', label: ' Projects ' },
+        { href: '/gallery', title: 'Gallery', label: 'Gallery' },
+        { href: '/blog', title: 'Blogs', label: 'Blogs' },
+        { href: '/contact', title: 'Contact Us', label: 'Contact-Us' },
       ];
 
   return (
