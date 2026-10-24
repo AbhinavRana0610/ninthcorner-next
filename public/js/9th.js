@@ -871,7 +871,7 @@ const statueImg = document.querySelector(".statue-img");
 const quoteText = document.querySelector(".quote-text");
 
 if (animatedSection && statueImg && quoteText) {
-const quote = "Lines create structures, but passion creates experiences — at The 9th Corner Inc., we don’t just build spaces; we shape emotions and memories, because a home or office is never just a layout, it’s a true reflection of one’s lifestyle, choices, and way of living.” <br> <b>– Rahuul Guptaa</b>";
+const quote = "Lines create structures, but passion creates experiences — at The 9th Corner Inc., we don’t just build spaces; we shape emotions and memories, because a home or office is never just a layout, it’s a true reflection of one’s lifestyle, choices, and way of living.” <br> <b>– Rahul Gupta</b>";
 
 // Floating Animation for the Statue (continuous)
 gsap.to(statueImg, {

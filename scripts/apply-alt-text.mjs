@@ -45,7 +45,7 @@ const RULES = [
     'Dining room with twelve-seater table and ring chandelier at Mr Rana residence in Noida by Ninth Corner'],
 
   // Blog pages (blog1-5): the old alts did not match the photos.
-  ['/img/owner1.avif', BLOG_OLD_1, 'Rahuul Guptaa, director of Ninth Corner interior design firm'],
+  ['/img/owner1.avif', BLOG_OLD_1, 'Rahul Gupta, director of Ninth Corner interior design firm'],
   ['/img/ch12.avif', BLOG_OLD_2, 'Double-height foyer with floating marble staircase and sculpture by Ninth Corner'],
   ['/img/ch10.avif', BLOG_OLD_1, 'Modern multi-storey residence facade with evening lighting designed by Ninth Corner'],
   ['/img/ch19.avif', BLOG_OLD_2, 'Luxury living room with crystal chandelier, grey sofas and maroon armchairs by Ninth Corner'],
