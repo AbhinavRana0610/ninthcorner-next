@@ -1,0 +1,28 @@
+{
+  "h1": "Architecture Services in Pitampura, Delhi",
+  "heroImage": "'/img/p1.avif'",
+  "intro": "<p>Our architecture services in Pitampura, Delhi provide a bridge between visionary design and structural reality. We specialize in residential, commercial, and institutional projects that are deeply functional, environmentally sustainable, and visually arresting. By integrating cutting-edge engineering with smart urban planning, we deliver landmarks that stand the test of time.</p>",
+  "philosophyHeading": "Comprehensive Architectural Design",
+  "philosophy": "<p>\"We offer high-precision planning, advanced 3D visualization, and rigorous structural design. From the initial blueprint to the final site inspection, our goal is to architect spaces that are practical, beautiful, and perfectly aligned with the unique landscape of North Delhi.\"</p>",
+  "cards": [
+    [
+      "Multi-Sector Expertise",
+      "Architecture services across luxury housing, corporate high-rises, and institutional complexes, ensuring compliance and creative excellence."
+    ],
+    [
+      "Digital Prototyping",
+      "Utilizing 3D BIM (Building Information Modeling) and photorealistic visualization to explore spatial depth and lighting before breaking ground."
+    ],
+    [
+      "Sustainable Innovation",
+      "Prioritizing passive cooling, natural ventilation, and eco-friendly materiality to reduce carbon footprints and long-term operational costs."
+    ]
+  ],
+  "reasons": [
+    "Experienced Architects with Deep Local Building Code Knowledge",
+    "Tailored Solutions for Complex Functional & Aesthetic Requirements",
+    "End-to-End Project Management from Conceptual Sketch to Completion"
+  ],
+  "cta": "Ready to break ground on your vision? Partner with Pitampura’s premier architectural team to design the future of your property.",
+  "faq": "<!-- FAQS:auto -->\n        <section class=\"faq-section\">\n            <h2>Frequently Asked Questions</h2>\n            <div class=\"faq-list\">\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Which architecture services do you offer in Pitampura?</h3>\n                    <p class=\"faq-a\">Planning, elevations, working drawings and consultant coordination for builder floors, independent houses and commercial buildings in North and West Delhi.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Can you plan a rebuild of an old Pitampura house?</h3>\n                    <p class=\"faq-a\">Yes. Many older houses are being rebuilt as stilt-plus-floors. We plan parking, staircases and lifts and make sure each floor gets light and air.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Is it easy to meet your team during the project?</h3>\n                    <p class=\"faq-a\">Yes. Our head office is at Netaji Subhash Place, so design reviews and material meetings can happen close to your site.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Why combine architecture services with interior planning?</h3>\n                    <p class=\"faq-a\">When the building and the interiors are planned together, rooms are sized for the furniture you need and services are placed where they will be used.</p>\n                </div>\n            </div>\n        </section>\n        <!-- /FAQS:auto -->"
+}

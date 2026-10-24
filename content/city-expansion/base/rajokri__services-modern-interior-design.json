@@ -1,0 +1,28 @@
+{
+  "h1": "Modern Interior Design in Rajokri, Delhi",
+  "heroImage": "'/img/e2.avif'",
+  "intro": "<p>Our modern interior design services in Rajokri, Delhi focus on simplicity, elegance, and functionality. We craft interiors with clean lines, neutral palettes, and contemporary furniture, creating spaces that feel spacious, organized, and visually appealing. Whether you are looking for a minimalist home or a streamlined corporate office, we bring the latest design trends to your doorstep.</p>",
+  "philosophyHeading": "Balancing Style with Practicality",
+  "philosophy": "<p>\"We design homes, offices, and commercial spaces that combine aesthetic appeal with everyday functionality. Every element—from furniture to lighting—is curated to create a cohesive, stylish environment tailored to your modern lifestyle.\"</p>",
+  "cards": [
+    [
+      "Minimalist Layouts",
+      "Achieving maximum impact through decluttered spaces that emphasize architectural beauty and spatial freedom."
+    ],
+    [
+      "Smart Materials",
+      "Integrating innovative materials and architectural lighting to add depth and texture to neutral color palettes."
+    ],
+    [
+      "Ergonomic Flow",
+      "Modern interior design that isn't just beautiful but is built around the human experience for ultimate comfort."
+    ]
+  ],
+  "reasons": [
+    "Experts in Contemporary Design Principles",
+    "Customized Solutions for Every Brand & Home",
+    "End-to-End Professional Project Handling"
+  ],
+  "cta": "Ready to modernize your world? Partner with the leading interior experts in Rajokri to build a space that defines the future of design.",
+  "faq": "<!-- FAQS:auto -->\n        <section class=\"faq-section\">\n            <h2>Frequently Asked Questions</h2>\n            <div class=\"faq-list\">\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">What is modern interior design for a Rajokri home?</h3>\n                    <p class=\"faq-a\">Open layouts, clean lines, large windows, a calm palette and practical furniture, often with a strong connection to the garden.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Can a large farmhouse have a modern interior?</h3>\n                    <p class=\"faq-a\">Yes. Modern furniture, simple forms and natural materials suit large farmhouses and keep the spaces airy and relaxed.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Does modern design work for commercial spaces near the highway?</h3>\n                    <p class=\"faq-a\">Yes. Showrooms and offices along NH48 benefit from modern design because it keeps the focus on products and brand.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">How do you keep modern interior design from feeling empty in large rooms?</h3>\n                    <p class=\"faq-a\">Zoned seating, rugs, layered lighting and a few large art pieces make big modern rooms feel warm and lived in.</p>\n                </div>\n            </div>\n        </section>\n        <!-- /FAQS:auto -->"
+}

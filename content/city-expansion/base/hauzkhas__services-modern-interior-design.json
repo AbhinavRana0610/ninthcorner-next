@@ -1,0 +1,28 @@
+{
+  "h1": "Modern Interior Design in Hauz Khas, Delhi",
+  "heroImage": "'/img/e2.avif'",
+  "intro": "<p>Our modern interior design services in Hauz Khas, Delhi focus on the core principles of simplicity, elegance, and uncompromised functionality. We craft interiors characterized by clean architectural lines, sophisticated neutral palettes, and curated contemporary furniture, creating spaces that feel expansive, organized, and effortlessly stylish. We turn every property into a modern sanctuary that resonates with urban grace.</p>",
+  "philosophyHeading": "Balancing Style with Practicality",
+  "philosophy": "<p>\"We design homes, offices, and commercial spaces that merge high-concept aesthetic appeal with everyday usability. Every element, from the structural layout to the bespoke lighting and décor, is selected to create a cohesive, modern environment tailored precisely to your evolving needs.\"</p>",
+  "cards": [
+    [
+      "Minimalist Layouts",
+      "Strategic spatial planning that prioritizes \"breathing room\" and flow, ensuring a high-impact aesthetic without the clutter."
+    ],
+    [
+      "Innovative Materials",
+      "Integrating glass, polished concrete, and natural woods with cutting-edge lighting design to create layers of visual interest."
+    ],
+    [
+      "Ergonomic Precision",
+      "Modern interior design that adapts to the human body and lifestyle, focusing on smart storage and intuitive furniture placement."
+    ]
+  ],
+  "reasons": [
+    "Professionals Skilled in Global Contemporary Design Trends",
+    "Customized Solutions for Urban Homes & Commercial Hubs",
+    "Full Turnkey Management from 3D Concept to Final Handover"
+  ],
+  "cta": "Ready to embrace modern living? Partner with Hauz Khas’s premier modern design firm to transform your space today.",
+  "faq": "<!-- FAQS:auto -->\n        <section class=\"faq-section\">\n            <h2>Frequently Asked Questions</h2>\n            <div class=\"faq-list\">\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">What does modern interior design mean for a Hauz Khas home?</h3>\n                    <p class=\"faq-a\">It means open, uncluttered rooms with clean lines, neutral colours and practical furniture. In compact South Delhi floors, this approach makes rooms feel larger and brighter.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Can modern design feel warm and not cold?</h3>\n                    <p class=\"faq-a\">Yes. Wood, textured fabrics, warm lighting and plants soften a modern space, so it feels welcoming as well as stylish.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Is modern design suitable for cafés and studios?</h3>\n                    <p class=\"faq-a\">Yes. Many cafés, studios and boutiques in Hauz Khas use a modern style because it lets the product, art or food take centre stage.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">How is modern interior design different from minimalism?</h3>\n                    <p class=\"faq-a\">Minimalism keeps only the essentials. A modern style is also clean and simple, but it allows more materials, colour and personal pieces.</p>\n                </div>\n            </div>\n        </section>\n        <!-- /FAQS:auto -->"
+}

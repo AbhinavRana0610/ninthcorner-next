@@ -1,0 +1,552 @@
+{
+  "_about": "Rajokri service pages rebuilt in the Delhi service-page layout (content/city-expansion/service-page.css) with extra local content. The page's own hero, intro, philosophy box, three feature cards, reason titles, CTA and FAQ are kept from the page; everything here is added. Applied by scripts/apply-city-expansion.mjs.",
+  "_gallery": {
+    "heading": "Our Completed Projects Near Rajokri",
+    "images": [
+      [
+        "/img/project/mr-virend-singh-gurgaon/mr-virend-singh-gurgaon/final-render-01.avif",
+        "Residence by 9th Corner in Gurgaon, near Rajokri",
+        "Gurgaon Residence"
+      ],
+      [
+        "/img/project/mr-sachin-saket/mr-sachin-saket/29.avif",
+        "Home interior in Saket, Delhi by 9th Corner",
+        "Saket Home"
+      ],
+      [
+        "/img/project/mr-alok-verma-south-x/mr-alok-verma-south-x/2.avif",
+        "Residential project in South Extension, Delhi by 9th Corner",
+        "South Extension Residence"
+      ],
+      [
+        "/img/project/mr-virend-singh-gurgaon/mr-virend-singh-gurgaon/final-render-03.avif",
+        "Home design by 9th Corner in Gurgaon",
+        "Gurgaon Home Design"
+      ],
+      [
+        "/img/project/mr-sachin-saket/mr-sachin-saket/18.avif",
+        "Interior project in Saket, Delhi by 9th Corner",
+        "Saket Interior"
+      ],
+      [
+        "/img/project/mr-alok-verma-south-x/mr-alok-verma-south-x/218.avif",
+        "Interior design in South Extension, Delhi by 9th Corner",
+        "South Extension Interior"
+      ],
+      [
+        "/img/project/mr-virend-singh-gurgaon/mr-virend-singh-gurgaon/final-render-04.avif",
+        "Architecture and interiors by 9th Corner in Gurgaon",
+        "Gurgaon Project"
+      ],
+      [
+        "/img/project/mr-alok-verma-south-x/mr-alok-verma-south-x/75.avif",
+        "Living room interior in South Extension, Delhi by 9th Corner",
+        "South Extension Living Room"
+      ]
+    ]
+  },
+  "services-Salon-interior-designer": {
+    "introHeading": "Salons Between Delhi and Gurgaon",
+    "intro": "<p>Rajokri sits right on NH-48, with Vasant Kunj, Mahipalpur and the Gurgaon border all close by. Salons here draw local residents, farmhouse families and a fair number of wedding guests during the season. As a salon interior designer, we plan spaces that can serve a regular haircut client and a full bridal party on the same afternoon.</p>",
+    "cards": [
+      [
+        "Neighbourhood Salons in the Village",
+        "<p>Inside the village, shops tend to be small, with low ceilings and limited frontage. We make them feel larger with a light colour scheme, wall-mounted stations, mirrors on facing walls and recessed lights instead of bulky fittings. A single wash basin at the back, with a partition for privacy, often fits better than a separate wash room.</p><p>Simple, sturdy materials keep running costs low.</p>"
+      ],
+      [
+        "Bridal Suites for the Wedding Season",
+        "<p>Many weddings in the farmhouses around Rajokri start with a salon visit. A salon interior designer can turn a back room into a bridal suite with a large lit mirror, a comfortable chair for long sessions, a changing space, a sofa for family members and a clean wall for photos.</p><p>Good lighting here is essential, because makeup must look right both indoors and under stage lights.</p>"
+      ]
+    ],
+    "features": [
+      "Comfort for Clients and Staff",
+      "<p>Long sessions such as colouring, keratin or bridal makeup can run for hours. Chairs need to be well padded and adjustable, and footrests make a real difference. Staff need anti-fatigue mats at stations, a small rest corner and storage that keeps tools within reach. Strong cooling, quiet fans and fresh air keep everyone comfortable in summer, when the highway heat is intense.</p>"
+    ],
+    "process": [
+      "Planning Your Salon Step by Step",
+      "<p>We visit the shop, take measurements and check water supply, drainage and the electrical load. Our salon interior designer team then shares a layout with station positions and a 3D view of the finished look.</p><p>After you approve a budget, we manage plumbing, wiring, false ceiling, flooring, furniture, mirrors and signboards, and hand over a salon that is ready for its first client.</p>"
+    ],
+    "whyHeading": "Reasons Owners Pick Our Salon Interior Designer Team",
+    "whyIntro": "<p>We understand that most salon owners are working with a fixed budget. We show you where money brings the most return, such as lighting and chairs, and where a simpler choice will do.</p>",
+    "whyText": [
+      "Salon floors, spas and bridal rooms planned in detail.",
+      "Your brand and your daily workflow designed together.",
+      "One team from the first sketch to the opening."
+    ],
+    "whyMore": [
+      [
+        "Bridal Rooms That Photograph Well",
+        "Light and backdrops planned for pictures."
+      ],
+      [
+        "Comfort for Long Sessions",
+        "Chairs, footrests and cooling that suit hours of work."
+      ]
+    ],
+    "galleryText": "Interiors from our portfolio in Gurgaon, Saket and South Extension, a short drive away.",
+    "closingHeading": "A Salon Ready for Every Kind of Client",
+    "closing": "<p>From a quick trim to a wedding-day look, your space should handle it all with ease. A practical salon interior designer helps you get there without overspending.</p><p>Planning a salon in Rajokri? <a href=\"/rajokri/contact\">Message 9th Corner</a> to fix a visit.</p>"
+  },
+  "services-architecture-services": {
+    "introHeading": "Building Near the Airport and the Expressway",
+    "intro": "<p>Rajokri is a place of contrasts. The old village has tight lanes and mixed-use buildings, while the surrounding land holds some of Delhi's largest farmhouses, close to the airport and the Gurgaon border. Our architecture services cover both, with designs that respond to noise, heat, access and the local building rules.</p>",
+    "cards": [
+      [
+        "Farmhouse Estates",
+        "<p>On a large estate, the arrangement of buildings matters as much as their design. We place the main house, guest cottages, staff quarters, garages and party lawns so that private areas stay quiet when events are on. Driveways are planned for cars, catering vans and emergency access.</p><p>Wide verandas, courtyards and shaded walkways make the outdoors usable for more of the year.</p><p>Pool houses, staff blocks and the generator room are placed downwind and out of the main views.</p>"
+      ],
+      [
+        "Village Plots and Mixed-Use Buildings",
+        "<p>Inside the village, plots are small and roads narrow. Our architecture services here focus on safe structure, a compact stair, ground-floor shops or parking and rented units above, all within the limits of the plot and with proper fire escape.</p><p>Where shops face the main road, we design shutters, signage space and a loading point that will not block traffic.</p>"
+      ]
+    ],
+    "features": [
+      "Designing for Aircraft Noise and Highway Heat",
+      "<p>Being close to the airport means regular aircraft noise. We use double-glazed windows, solid doors, insulated roofs and careful placement of bedrooms to keep homes quiet. The open land around Rajokri also gets very hot in summer, so we plan deep overhangs, light-coloured roofs, shaded west walls and cross-ventilation.</p><p>Rainwater harvesting and good drainage are part of every site plan.</p><p>Estates often need underground tanks and a water treatment plant, so we plan them with easy access for servicing.</p>"
+    ],
+    "process": [
+      "Our Architecture Process",
+      "<p>We begin with a site visit, a measured survey and a discussion of your needs and budget. Concept options and 3D massing studies follow, then detailed drawings for structure, services and finishes.</p><p>During construction, our architecture services include regular site checks, coordination with engineers and contractors, and support with the interiors until handover.</p>"
+    ],
+    "whyHeading": "Why Pick Our Architecture Services in Rajokri?",
+    "whyIntro": "<p>Large sites and tight village plots both need clear thinking at the start. We sort out access, utilities and permissions early, so construction moves without long pauses. We also prepare the drawings needed for approvals and keep a record of every revision.</p>",
+    "whyText": [
+      "Experience with estates as well as compact plots.",
+      "Buildings designed for strength, comfort and good looks.",
+      "Involvement from the first survey to final handover."
+    ],
+    "whyMore": [
+      [
+        "Quiet Homes Near the Airport",
+        "Glazing and layouts that cut aircraft noise."
+      ],
+      [
+        "Climate-Smart Planning",
+        "Shade, insulation and airflow built in."
+      ]
+    ],
+    "galleryText": "Homes we have designed and completed in Gurgaon, South Extension and Saket.",
+    "closingHeading": "Design That Respects the Site",
+    "closing": "<p>Good buildings work with their surroundings, not against them. Careful architecture services make the most of Rajokri's open land while dealing with its noise and heat. Each choice, from window size to roof colour, affects comfort for years.</p><p>Have a plot or estate in Rajokri? <a href=\"/rajokri/contact\">Talk to 9th Corner</a> about a site study.</p>"
+  },
+  "services-best-interior-designers": {
+    "introHeading": "Picking a Designer for Your Rajokri Property",
+    "intro": "<p>Property in and around Rajokri includes village homes, rented floors, large farmhouses and commercial units on the highway. People searching for the best interior designers here often need someone who can work across all of these, with a site team that is comfortable on a big estate as well as in a narrow lane.</p>",
+    "cards": [
+      [
+        "Homes and Rental Floors",
+        "<p>Many owners in Rajokri build several floors and rent some of them out. We design the owner's floor with care and give rental floors durable, neutral interiors that attract good tenants and need little upkeep.</p><p>Modular kitchens, simple wardrobes and good lighting go a long way in raising rental value.</p><p>Owner floors often get upgrades like a home theatre wall, wooden flooring or a larger master bath.</p>"
+      ],
+      [
+        "Farmhouses and Commercial Spaces",
+        "<p>Estates and highway-facing businesses need a larger scale of planning. The best interior designers for these projects think about guest flow, service areas, security and how the space looks from a distance as well as up close.</p><p>We also plan lighting for evenings, when most events happen.</p>"
+      ]
+    ],
+    "features": [
+      "Signs of a Reliable Design Team",
+      "<p>A firm that visits before quoting. Drawings that show sizes and materials, not just pretty pictures. A clear payment schedule linked to work stages. A named supervisor for your site. Honest answers on timelines, including what could delay things. We work this way on every project, and we are happy to put you in touch with past clients.</p><p>Ask, too, how the firm handles a supplier delay. We share alternatives quickly so the site does not sit idle.</p>"
+    ],
+    "process": [
+      "How a Project Runs With Us",
+      "<p>After the first visit, we prepare a layout and design direction with mood boards and 3D views. Once you approve, we finalise materials and share a detailed budget.</p><p>Our site team then handles civil work, carpentry, electrical, plumbing and finishing, with weekly updates. Before handover we walk through every room together. Steady delivery like this is what the best interior designers are known for.</p>"
+    ],
+    "whyHeading": "Why Many Consider Us Among the Best Interior Designers Nearby",
+    "whyIntro": "<p>We keep promises small and delivery strong. If a timeline is tight, we say so at the start rather than at the end. We also tell you when something is not worth the money.</p>",
+    "whyText": [
+      "Experience across homes, rental floors and businesses.",
+      "Ideas that suit your brand, budget and taste.",
+      "Good-quality finishes from trusted suppliers."
+    ],
+    "whyMore": [
+      [
+        "Rental Floors That Earn More",
+        "Durable, neutral interiors tenants like."
+      ],
+      [
+        "A Named Site Supervisor",
+        "One person responsible for your project."
+      ]
+    ],
+    "galleryText": "A look at finished homes in Saket, South Extension and Gurgaon.",
+    "closingHeading": "Choose Experience You Can See",
+    "closing": "<p>The best interior designers let their finished work speak. Visit a completed home, talk to past clients and compare what each quote really includes before you decide.</p><p>Looking for a designer in Rajokri? <a href=\"/rajokri/contact\">Meet 9th Corner</a> to talk through your project.</p>"
+  },
+  "services-best-salon-interior-designer": {
+    "introHeading": "Premium Salons for the Airport Corridor",
+    "intro": "<p>Rajokri's location near Vasant Kunj, Aerocity and the Gurgaon border puts it within reach of clients who are used to high-end salons. Owners who want the best salon interior designer for this market need a space that feels polished and calm, and a layout that keeps a busy team moving smoothly.</p>",
+    "cards": [
+      [
+        "Luxury Hair and Beauty Lounges",
+        "<p>For a premium lounge, we keep the number of stations modest and give each one generous space, a quality chair and its own lighting. A separate colour bar, a quiet wash lounge with reclining basins and a private treatment room add to the sense of luxury.</p><p>Materials such as veneer, marble-look surfaces and brushed metal give a rich finish that is still easy to clean.</p><p>Retail shelves near the exit invite clients to pick up the products their stylist just used.</p>"
+      ],
+      [
+        "Salons Attached to Farmhouses and Venues",
+        "<p>Some wedding venues and farmhouses now include a salon for brides and guests. The best salon interior designer plans these rooms for heavy use on event days, with several makeup stations, plenty of power points, a steamer area for outfits and direct access from the parking.</p>"
+      ]
+    ],
+    "features": [
+      "Lighting, Sound and Scent",
+      "<p>Clients remember how a salon feels. We plan bright, accurate light at the mirrors and softer light in waiting and wash areas. Background music is zoned so it does not compete with conversation. Good exhaust near the colour bar keeps the air fresh, so the salon smells clean rather than of chemicals.</p><p>Hidden storage keeps product boxes out of sight.</p><p>Flooring near the basins is slip-resistant, and a hidden drain under the backwash units makes cleaning quick.</p>"
+    ],
+    "process": [
+      "Getting From Idea to Opening",
+      "<p>We start with your brand, service menu and price range, then visit the space. As the best salon interior designer for your goals, we prepare two layout options and 3D views, and suggest where to invest for the biggest effect.</p><p>Site work covers plumbing, electricals, ceilings, furniture, lighting and branding, scheduled to meet your launch date.</p>"
+    ],
+    "whyHeading": "What Makes Us the Best Salon Interior Designer for Your Project",
+    "whyIntro": "<p>We design salons as working spaces first. Stylists, therapists and front-desk staff are consulted before the layout is locked. Their feedback often saves costly changes later.</p>",
+    "whyText": [
+      "Experience with premium salons, spas and bridal rooms.",
+      "Brand look and daily operations planned together.",
+      "Complete service from drawings to a ready salon."
+    ],
+    "whyMore": [
+      [
+        "Event-Day Ready Layouts",
+        "Rooms that cope with many guests at once."
+      ],
+      [
+        "Fresh Air by Design",
+        "Exhaust and airflow that keep chemical smells down."
+      ]
+    ],
+    "galleryText": "Recent interiors from our portfolio in Gurgaon, Saket and South Extension.",
+    "closingHeading": "Premium Feel, Practical Layout",
+    "closing": "<p>High-paying clients expect comfort and care in every detail. Working with the best salon interior designer helps your salon earn that trust.</p><p>Planning a premium salon near Rajokri? <a href=\"/rajokri/contact\">Contact 9th Corner</a> today.</p>"
+  },
+  "services-farmhouse-interior-designer": {
+    "introHeading": "Farmhouses Around Rajokri and Westend Greens",
+    "intro": "<p>The farm belt around Rajokri, including Westend Greens and the estates along the expressway, is home to some of the capital's grandest private properties. Many are full-time homes; others host weddings and corporate events. As a farmhouse interior designer, we plan each property around how often it is used, how many people it must hold and how private the family wants it to be.</p>",
+    "cards": [
+      [
+        "Private Family Farmhouses",
+        "<p>For families living on the estate, we design a main house that feels generous but not empty: a drawing room for receiving guests, a cosy family lounge, a large kitchen with a separate service kitchen, and bedrooms with views of the lawns.</p><p>A home office, gym or library can be added in a quieter wing away from the entrance.</p>"
+      ],
+      [
+        "Farmhouses Used for Events",
+        "<p>Event farmhouses need a very different plan. A farmhouse interior designer looks at guest arrival, stage and dance-floor areas, a bridal room, VIP lounges, catering zones and toilet blocks that are easy to reach and keep clean. Power, lighting and sound points are built into the landscape for each type of event.</p><p>Storage for chairs, tables, linen and décor between events saves the cost of hiring them every time.</p>"
+      ]
+    ],
+    "features": [
+      "Keeping Large Homes Cool and Quiet",
+      "<p>Big glass walls are lovely in winter but can turn a room into an oven in May. We use deep verandas, external shades, high-performance glass and ceiling insulation. Being under flight paths, many estates near Rajokri also benefit from double glazing in bedrooms. Outdoor areas get misting fans, shade trees and pergolas so they stay usable longer through the year.</p><p>Driveways and lawns need lights bright enough for safety but soft enough not to spoil the night sky.</p>"
+    ],
+    "process": [
+      "How We Plan a Farmhouse Project",
+      "<p>The first visit is a long walk around the estate: where the sun sets, which trees must stay, where water collects after rain. Back at the studio, our farmhouse interior designer team sketches a master plan for the whole property, then room layouts and 3D views of the spaces you will use most.</p><p>On site we coordinate carpentry, lighting, landscape, pool and outdoor works, and send a weekly report so owners who live elsewhere always know where things stand.</p>"
+    ],
+    "whyHeading": "Why Families Trust Us as Their Farmhouse Interior Designer",
+    "whyIntro": "<p>An estate project has many moving parts. We bring them together under one plan and one schedule, so you are not chasing different vendors. You get one contact person for everything.</p>",
+    "whyText": [
+      "Work on large estates and countryside homes.",
+      "Interiors planned around your family's way of living.",
+      "One team managing every trade on the estate."
+    ],
+    "whyMore": [
+      [
+        "Planned for Events and Privacy",
+        "Guests and family areas kept apart."
+      ],
+      [
+        "Sleep Undisturbed by Flights",
+        "Double glazing and heavy curtains in bedrooms."
+      ]
+    ],
+    "galleryText": "A selection of our finished homes in Gurgaon, South Extension and Saket.",
+    "closingHeading": "An Estate That Feels Like Home",
+    "closing": "<p>Size alone does not make a great farmhouse. A thoughtful farmhouse interior designer makes it comfortable, practical and full of character.</p><p>Have an estate near Rajokri or Westend Greens? <a href=\"/rajokri/contact\">Invite 9th Corner for a walk-through</a>.</p>"
+  },
+  "services-interior-architect-for-showroom-design": {
+    "introHeading": "Showrooms on the Delhi-Gurgaon Highway",
+    "intro": "<p>Shops and showrooms along NH-48 near Rajokri, Kapashera and Mahipalpur catch traffic heading to Gurgaon and the airport. Customers often stop on the way, so the store must catch their eye quickly and make it easy to browse and buy. An interior architect for showroom design plans the frontage, the floor and the buying journey as one.</p>",
+    "cards": [
+      [
+        "Automobile and Two-Wheeler Showrooms",
+        "<p>Vehicle showrooms need clear floor space, strong lighting that shows the paint finish, a delivery bay and a comfortable lounge for families. We plan service reception, a parts counter and a test-drive desk so that sales and service do not get in each other's way.</p><p>Polished, hard-wearing floors handle tyre marks and daily cleaning.</p><p>Customer lounges get charging points, a coffee counter and a clear view of the delivery bay.</p>"
+      ],
+      [
+        "Furniture, Marble and Building Material Stores",
+        "<p>Heavy, large products need big doors, reinforced floors and display systems that can bear weight. An interior architect for showroom design also plans mock-up rooms, sample walls and good daylight so customers can judge colours and textures properly.</p>"
+      ]
+    ],
+    "features": [
+      "Being Seen From a Fast Road",
+      "<p>On a highway, a showroom has only a few seconds to be noticed. A bold facade, well-lit signage, a clear entrance and visible parking make a big difference. Inside, a strong display near the door and a simple route through the store keep visitors moving. Large glass fronts are balanced with shading so the interior does not overheat.</p><p>Night lighting keeps the store visible after dark.</p><p>A recessed mat and an air curtain at the entrance keep highway dust off the floor on windy days.</p>"
+    ],
+    "process": [
+      "Our Showroom Planning Steps",
+      "<p>First we list your products, stock volumes and how customers arrive, by car, two-wheeler or on foot. Working as your interior architect for showroom design, we then draw zoning options, display units, lighting and the facade, and walk you through the store in 3D before anything is built.</p><p>Site work is planned to keep closures short, and we coordinate with your brand team on graphics and launch timing.</p>"
+    ],
+    "whyHeading": "What Our Interior Architect for Showroom Design Brings",
+    "whyIntro": "<p>Highway showrooms deal with dust, heat and heavy footfall. We pick materials and fixtures that look good on day one and still hold up after years of use. Cleaning is planned for too, since dust from the road settles quickly.</p>",
+    "whyText": [
+      "Experience with large retail and display spaces.",
+      "Solutions shaped by your brand and product range.",
+      "Design and site execution handled together."
+    ],
+    "whyMore": [
+      [
+        "Facades That Catch the Eye",
+        "Signage and lighting planned for passing traffic."
+      ],
+      [
+        "Tough Materials",
+        "Floors and fixtures built for heavy use."
+      ]
+    ],
+    "galleryText": "Completed interiors by our team in South Extension, Gurgaon and Saket.",
+    "closingHeading": "Make Every Passing Car a Possible Customer",
+    "closing": "<p>Thousands of vehicles pass your store every day. A focused interior architect for showroom design turns that traffic into footfall, with a frontage that is hard to miss and a floor that is easy to shop.</p><p>Planning a showroom on NH-48 near Rajokri? <a href=\"/rajokri/contact\">Drop 9th Corner a message</a>.</p>"
+  },
+  "services-interior-design-services": {
+    "introHeading": "Interiors for Every Kind of Property in Rajokri",
+    "intro": "<p>Our interior design services in Rajokri cover village homes, new rental floors, guest houses, farmhouses and small offices. Each comes with its own budget and goals. A rental floor needs durable finishes; a family home needs comfort and storage; a guest house near the airport needs rooms that are easy to clean and quick to turn around.</p>",
+    "cards": [
+      [
+        "Homes and Rental Floors",
+        "<p>For owner-occupied homes, we design every room with the family's habits in mind. For rental floors, we keep designs neutral and tough: laminate wardrobes, simple modular kitchens, good lighting and easy-care floors that suit a wide range of tenants.</p><p>Both get proper planning for water heaters, AC units and inverters.</p><p>We also help owners choose taps, switches and lights that are easy to replace if a tenant damages them.</p>"
+      ],
+      [
+        "Guest Houses and Service Apartments",
+        "<p>With the airport so close, many properties in Rajokri and Mahipalpur serve short-stay guests. Our interior design services for these spaces focus on compact, comfortable rooms, good blackout curtains, sound insulation, hotel-style bathrooms and furniture that withstands constant use.</p><p>Keycard locks, luggage racks and simple work desks are planned for each room, along with a small reception and linen storage.</p>"
+      ]
+    ],
+    "features": [
+      "What You Can Expect From Us",
+      "<p>A site visit and clear brief. Layouts and 3D views before any money is spent on site. Material selection with samples. A detailed budget, room by room. Skilled carpenters, electricians and painters under one supervisor. Regular updates. A final walk-through and a list of warranties. You can choose design-only support or a full turnkey project.</p><p>For small budgets, we can phase the work: essentials first, then décor and extras when you are ready.</p>"
+    ],
+    "process": [
+      "From First Call to Handover",
+      "<p>We fix a visit, measure the property and understand your goals. A proposal for our interior design services follows, with scope, time and fees.</p><p>Once you agree, we finalise the design and start work with a planned schedule. You get photo updates every week and a smooth handover at the end.</p>"
+    ],
+    "whyHeading": "Our Interior Design Services, Matched to Your Property",
+    "whyIntro": "<p>We match the design to the purpose of the property. That keeps spending sensible and the result fit for use. A guest house and a family home should not get the same design.</p>",
+    "whyText": [
+      "A team experienced with homes, rentals and guest houses.",
+      "Neat workmanship and reliable fittings.",
+      "One continuous process from concept to completion."
+    ],
+    "whyMore": [
+      [
+        "Designs for Short-Stay Rooms",
+        "Hotel-style comfort that is easy to maintain."
+      ],
+      [
+        "Weekly Photo Updates",
+        "See progress even when you are away."
+      ]
+    ],
+    "galleryText": "Finished homes from Saket, Gurgaon and South Extension.",
+    "closingHeading": "The Right Interior for the Right Purpose",
+    "closing": "<p>You may live in it, rent it out or host guests. Either way, good interior design services help your property work harder and look better. We plan with the end user in mind, whoever that is.</p><p>Have a property in Rajokri? <a href=\"/rajokri/contact\">Get a quote from 9th Corner</a>.</p>"
+  },
+  "services-interior-designer-for-office": {
+    "introHeading": "Workspaces Near the Airport and Gurgaon Border",
+    "intro": "<p>Rajokri's position between Delhi, Gurgaon and the airport makes it a practical base for travel agencies, logistics and cargo firms, event companies and small corporate teams. As an interior designer for office spaces, we plan offices that look professional to visitors, stay quiet despite aircraft and highway noise, and make the most of every square foot.</p>",
+    "cards": [
+      [
+        "Travel, Logistics and Service Firms",
+        "<p>These businesses need a front desk that handles walk-in clients, a work area for operations staff, secure storage for documents and a cabin for the owner. We plan clear zones and good sound control so calls and client meetings can happen side by side.</p><p>Large wall screens or tracking boards can be built into the design where needed.</p>"
+      ],
+      [
+        "Small Corporate Teams",
+        "<p>For teams moving out of crowded Gurgaon towers, an interior designer for office floors in Rajokri can offer more space at a lower cost. We plan open desks, a meeting room, phone booths, a pantry and break area, with cabling and power backup sorted from the start.</p><p>Larger floors can be split later with glass partitions if part of the space is sublet.</p>"
+      ]
+    ],
+    "features": [
+      "Keeping Out Noise and Heat",
+      "<p>Aircraft and highway noise can make focus hard. We use double-glazed windows, acoustic ceilings, carpet or vinyl floors and soft panels to bring the sound level down. Heat gain from large windows is controlled with films, blinds and well-placed AC units, so the office stays comfortable without huge power bills.</p><p>Good task lighting reduces eye strain for staff who work on screens all day.</p>"
+    ],
+    "process": [
+      "Setting Up Your Office",
+      "<p>We sit with you to map who works where and how often clients visit. From that brief, our interior designer for office projects draws the floor plan, picks furniture and shows the result in 3D, along with an itemised quote.</p><p>Once signed off, the fit-out runs to a written programme: partitions and ceilings first, then power and data, then furniture and finishing.</p>"
+    ],
+    "whyHeading": "Reasons to Hire Our Interior Designer for Office Projects",
+    "whyIntro": "<p>An office is a daily tool for your business. We design for productivity and comfort first, and make sure the look supports your brand. Spare points are left for future desks.</p>",
+    "whyText": [
+      "Offices for agencies, logistics firms and corporate teams.",
+      "Layouts that adapt as your business changes.",
+      "Turnkey delivery from layout to move-in."
+    ],
+    "whyMore": [
+      [
+        "Quiet Offices Near the Airport",
+        "Glazing and acoustics that cut outside noise."
+      ],
+      [
+        "Lower Running Costs",
+        "Smart lighting and cooling choices."
+      ]
+    ],
+    "galleryText": "A few interiors we have handed over in Gurgaon, Saket and South Extension.",
+    "closingHeading": "A Focused Office in a Busy Location",
+    "closing": "<p>Being near the airport is great for business, but the office still needs calm. A skilled interior designer for office spaces can give you both.</p><p>Looking for office design near Rajokri? <a href=\"/rajokri/contact\">Call 9th Corner</a> and share your floor plan.</p>"
+  },
+  "services-luxury-home-interior-designs": {
+    "introHeading": "Luxury Residences Around Rajokri",
+    "intro": "<p>The estates around Rajokri and Westend Greens include some of the most private and spacious homes near Delhi. Owners here expect quality in every detail. Our luxury home interior designs combine grand spaces with warmth and comfort, so the home feels as good for a quiet family evening as it does for a large celebration.</p>",
+    "cards": [
+      [
+        "Formal and Family Spaces",
+        "<p>We plan a formal drawing room for hosting, a separate family lounge for everyday use and a dining area that can expand for larger gatherings. Double-height halls get feature walls, statement lighting and acoustic treatment so voices do not echo.</p><p>A bar, a cigar lounge or a music room can be designed as a natural extension of these spaces.</p><p>Large windows facing the lawns get deep reveals and motorised blinds, so the view stays clear without the glare.</p>"
+      ],
+      [
+        "Suites, Spas and Leisure Rooms",
+        "<p>Master suites in our luxury home interior designs often include walk-in wardrobes, sitting areas and bathrooms with stone finishes and rain showers. Home theatres, gyms, indoor pools and spa rooms are planned with proper ventilation, lighting and service access.</p><p>Children's and guest suites follow the same standard, scaled to suit each user.</p>"
+      ]
+    ],
+    "features": [
+      "Quality You Can See and Feel",
+      "<p>Rich stone, fine veneers, solid wood and hand-finished metals are chosen for both beauty and durability. Lighting is layered and controlled through scenes. Curtains, climate and security run on one smart system. Soundproofing in bedrooms and media rooms keeps aircraft noise out. Every hinge, handle and switch is selected to feel solid in the hand.</p><p>Staff routes, laundry, store rooms and service kitchens are planned so the household runs smoothly without crossing formal areas.</p>"
+    ],
+    "process": [
+      "How We Deliver Luxury Projects",
+      "<p>Our first meetings are about you: your taste, travel, collections and routines. Our luxury home interior designs are then developed room by room, with sample boards you can handle and 3D images before anything is ordered.</p><p>A senior supervisor manages craftsmen and vendors on site, and the final finish is inspected in detail with you.</p>"
+    ],
+    "whyHeading": "The Thinking Behind Our Luxury Home Interior Designs",
+    "whyIntro": "<p>Discretion matters in high-end homes. We keep your plans private, secure the site and limit access to the people who need to be there. All drawings and samples are stored securely with us.</p>",
+    "whyText": [
+      "Experience with estates, villas and penthouses.",
+      "Designs shaped around your lifestyle and tastes.",
+      "Full service with careful supervision throughout."
+    ],
+    "whyMore": [
+      [
+        "Smart Homes Done Neatly",
+        "Lights, curtains and security on one system."
+      ],
+      [
+        "Private, Secure Sites",
+        "Limited access and careful record keeping."
+      ]
+    ],
+    "galleryText": "Premium residences from our portfolio in Gurgaon, South Extension and Saket.",
+    "closingHeading": "Luxury That Feels Personal",
+    "closing": "<p>The best homes reflect the people who live in them. Our luxury home interior designs bring that personal touch to even the largest estates. Your home should tell your story, not a showroom's.</p><p>Planning a luxury home in Rajokri? <a href=\"/rajokri/contact\">Book a private consultation with 9th Corner</a>.</p>"
+  },
+  "services-modern-interior-design": {
+    "introHeading": "Modern Interiors for Rajokri's Homes and Estates",
+    "intro": "<p>From new floors in the village to glass-fronted farmhouses on the estates, many owners in Rajokri want a clean, current look. Modern interior design fits these homes neatly: simple lines, open plans, good light and furniture that does its job without fuss. The challenge is to keep it warm and practical in a dusty, hot climate.</p>",
+    "cards": [
+      [
+        "Modern Floors and Apartments",
+        "<p>In compact homes, we use flush cabinets, wall-hung units and multi-use furniture to keep floors clear. A soft base palette of white, beige or grey is lifted with one or two accent colours. Lighting is mostly hidden, with coves and downlights, plus a statement pendant over the dining table.</p><p>Sliding doors save space and keep rooms flexible.</p><p>Kids' rooms get bright bedding or one coloured wall, while bunk beds and study desks keep the floor free for play.</p>"
+      ],
+      [
+        "Contemporary Farmhouses",
+        "<p>For larger homes, modern interior design means big openings to the lawns, minimal frames, large-format floor tiles and long, low furniture. Outdoor decks continue the indoor flooring, so the house and garden feel like one space.</p><p>Inside, a long kitchen island often becomes the centre of family life, with the dining table close by and views to the pool or garden.</p>"
+      ]
+    ],
+    "features": [
+      "Making Modern Work in Delhi's Climate",
+      "<p>Clean lines show dust easily, so we pick surfaces that wipe clean and resist marks. Matte surfaces hide fingerprints better than gloss. Large windows get good shading and, near the airport, double glazing for quiet. Warm textures such as wood, linen and wool stop the space from feeling cold, and plants bring life to plain walls.</p><p>Good modern rooms do not need a big budget. Furniture of the right size, one well-chosen light and tidy storage do more than costly imported pieces.</p>"
+    ],
+    "process": [
+      "How a Modern Home Comes Together",
+      "<p>Bring us screenshots, magazine pages or a few photos of places you like. After a site visit, our modern interior design team turns them into a floor plan, a palette of three or four materials and realistic 3D views.</p><p>Skilled carpenters and finishers build to the drawings under daily supervision, and we check alignment, joints and edges before handover.</p>"
+    ],
+    "whyHeading": "What You Get With Our Modern Interior Design Team",
+    "whyIntro": "<p>Modern design leaves nowhere to hide poor workmanship. We keep a close eye on the details that make clean lines look right. Every shutter gap and skirting line is checked before we hand over.</p>",
+    "whyText": [
+      "Designers fluent in current, minimal design.",
+      "Clean, current interiors for floors, estates and workplaces.",
+      "Professional handling of every stage of work."
+    ],
+    "whyMore": [
+      [
+        "Easy-Clean Finishes",
+        "Matte, durable surfaces that hide dust and marks."
+      ],
+      [
+        "Indoor-Outdoor Flow",
+        "Decks and lawns that feel part of the home."
+      ]
+    ],
+    "galleryText": "Recent work in Saket, South Extension and Gurgaon, all close to Rajokri.",
+    "closingHeading": "Simple Spaces, Better Living",
+    "closing": "<p>A clutter-free, well-lit home makes daily life easier. Thoughtful modern interior design brings that calm to every room.</p><p>Want your Rajokri home to feel lighter and less cluttered? <a href=\"/rajokri/contact\">Contact 9th Corner</a>.</p>"
+  },
+  "services-residential-interior-design": {
+    "introHeading": "Homes for Rajokri's Growing Families",
+    "intro": "<p>Rajokri has changed fast. Old village homes are being rebuilt as multi-floor houses, and many families now live on one floor and rent the others. Our residential interior design work helps each household get the most from its space, with storage, comfort and a look that suits the family.</p>",
+    "cards": [
+      [
+        "Rebuilt Family Houses",
+        "<p>When a house is rebuilt, the family often wants each floor to be self-contained, with its own kitchen and living area, while still feeling part of one home. We plan each floor around the people who will live there and keep a shared style across stairs and common areas.</p><p>Terraces can become usable sit-outs or small gardens with the right flooring and shade.</p><p>Where a lift is planned, we size the shaft and landings early so it does not eat into rooms later.</p>"
+      ],
+      [
+        "Rental Floors and First Homes",
+        "<p>For rental floors, residential interior design focuses on durable, neutral finishes and smart storage that suit most tenants. For young couples setting up a first home, we plan flexible furniture and a budget that can grow with them.</p><p>Starter homes benefit from furniture that can move to the next house, such as free-standing beds and modular sofas.</p>"
+      ]
+    ],
+    "features": [
+      "Comfort in Everyday Details",
+      "<p>Bedrooms away from the road and flight paths where possible, with heavy curtains and double glazing if needed. Kitchens with space for large cooking pots and bulk storage. Bathrooms with good slopes and exhaust. A place for shoes, bags and keys at the door. A small study corner for children. These small things shape how a home feels every day.</p><p>Terraces and balconies get weather-proof flooring and a tap, so plants and drying clothes are easy to manage.</p>"
+    ],
+    "process": [
+      "Building Your Home Interior",
+      "<p>The first meeting is at your home, with as many family members as possible. Measurements, photos and a list of must-haves go back to our residential interior design team, who return with floor plans, 3D views and costs for each room.</p><p>Once work starts, a supervisor runs the site and sends you progress photos, and we finish with a joint walk-through so nothing is missed.</p>"
+    ],
+    "whyHeading": "Why Families Pick Our Residential Interior Design",
+    "whyIntro": "<p>We take time to understand the household before designing. Grandparents, parents and children often need different things from the same home. Our drawings show every room, so each person can give feedback before work starts.</p>",
+    "whyText": [
+      "Experience with houses, villas and rental floors.",
+      "Spaces shaped around family routines and comfort.",
+      "Turnkey work, start to finish, with one team."
+    ],
+    "whyMore": [
+      [
+        "Quiet Bedrooms",
+        "Glazing and layout choices that cut noise."
+      ],
+      [
+        "Floors That Rent Well",
+        "Tough, neutral interiors for tenants."
+      ]
+    ],
+    "galleryText": "Homes for families like yours, finished in South Extension, Saket and Gurgaon.",
+    "closingHeading": "A Home That Works for Everyone",
+    "closing": "<p>Good homes balance privacy and togetherness. Careful residential interior design helps each family member feel at ease. It also leaves room for the family to grow.</p><p>Building or redoing a home in Rajokri? <a href=\"/rajokri/contact\">Ask 9th Corner to visit</a>.</p>"
+  },
+  "services-top-interior-design-firm": {
+    "introHeading": "A Firm Built on Process and Follow-Through",
+    "intro": "<p>Owners in Rajokri handle a wide mix of projects: family homes, rental floors, estates and highway businesses. A top interior design firm for this area needs the range to handle all of them and the discipline to deliver each one well. We focus on planning, site control and clear communication on every job.</p>",
+    "cards": [
+      [
+        "Residential Work",
+        "<p>From a single floor to a full estate, every room, from the modular kitchen to the master bath, is drawn as part of one connected plan. Detailed drawings guide every trade on site, so what you approve is what gets built.</p><p>Loose furniture, soft furnishings and artwork can be added so the home is ready on day one.</p>"
+      ],
+      [
+        "Commercial and Hospitality Work",
+        "<p>Showrooms, offices and guest houses near the airport need quick, careful execution. A top interior design firm plans these around your business calendar, keeps quality steady across large areas and coordinates with your brand team.</p><p>For guest houses, we can stage the work floor by floor so some rooms keep earning during the renovation.</p>"
+      ]
+    ],
+    "features": [
+      "Standards We Hold Ourselves To",
+      "<p>Drawings for every room before work begins. Samples approved in writing. A supervisor on site daily. Quality checks at set stages. A snag list closed before handover. A file with warranties, care guides and contact numbers for future service. These standards keep projects on track and clients confident.</p><p>We also keep a simple log of who visited the site and what was done each day, which you can ask to see at any time.</p>"
+    ],
+    "process": [
+      "Our Way of Delivering Projects",
+      "<p>Every project moves through the same checkpoints: an agreed brief, measured drawings, a design you can see in 3D, a priced material list, then site work and a formal handover. You approve each checkpoint before we move on, which is how a top interior design firm keeps costs and timelines honest.</p><p>If you want something changed midway, we give you the cost and time impact in writing first.</p>"
+    ],
+    "whyHeading": "Why Work With a Top Interior Design Firm Like Ours",
+    "whyIntro": "<p>We know you have choices. We aim to be the firm you would happily recommend to a neighbour once the work is done. Our pricing is clear, our drawings are detailed and our site team keeps a tidy, safe workplace.</p>",
+    "whyText": [
+      "A professional team across homes and businesses.",
+      "Plans tailored to each client's needs and budget.",
+      "Complete management through to turnkey delivery."
+    ],
+    "whyMore": [
+      [
+        "Written Approvals",
+        "Every key decision recorded and signed."
+      ],
+      [
+        "After-Handover Support",
+        "Help with service calls and small fixes."
+      ]
+    ],
+    "galleryText": "Work from our portfolio in Gurgaon, Saket and South Extension, a short drive from the village.",
+    "closingHeading": "Plan Well, Build Well, Finish Well",
+    "closing": "<p>A top interior design firm earns its name one project at a time. We would rather finish one project well than rush three, and that is how we work across Rajokri and the nearby areas.</p><p>Thinking about a project? <a href=\"/rajokri/contact\">Write to 9th Corner</a> with a few photos of your site.</p>"
+  }
+}

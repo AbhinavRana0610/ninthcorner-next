@@ -1,0 +1,28 @@
+{
+  "h1": "Top Interior Design Firm in Hauz Khas, Delhi",
+  "heroImage": "'/img/bbb4.avif'",
+  "intro": "<p>As a top interior design firm in Hauz Khas, Delhi, we specialize in creating innovative, elegant, and functional interiors for residential, commercial, and luxury projects. Every design is crafted to reflect your unique personality and brand, seamlessly combining aesthetics with modern practicality. With meticulous planning and creative vision, we bring your dream interiors to life in the heart of Delhi's most artistic district.</p>",
+  "philosophyHeading": "Comprehensive Design Solutions for Every Project",
+  "philosophy": "<p>\"From modern apartments and villas to luxury showrooms and corporate offices, we provide tailored design solutions that meet diverse requirements. Our team integrates contemporary trends with premium materials to deliver spaces that are visually stunning and highly functional.\"</p>",
+  "cards": [
+    [
+      "Innovative Concepts",
+      "As a top interior design firm, we develop avant-garde interior concepts that prioritize spatial flow and a unique visual narrative for every client."
+    ],
+    [
+      "Premium Selection",
+      "Curating a world-class selection of finishes, textiles, and bespoke furniture to ensure a flawless, high-end outcome."
+    ],
+    [
+      "Attention to Detail",
+      "Executing every project with surgical precision, ensuring that the smallest elements align with the grand architectural vision."
+    ]
+  ],
+  "reasons": [
+    "Experienced Team of Visionary Designers",
+    "Tailored Solutions Focused on Personal Lifestyles",
+    "End-to-End Project Management & Turnkey Delivery"
+  ],
+  "cta": "Ready to elevate your lifestyle? Partner with Hauz Khas's premier design firm to create a space that truly defines you.",
+  "faq": "<!-- FAQS:auto -->\n        <section class=\"faq-section\">\n            <h2>Frequently Asked Questions</h2>\n            <div class=\"faq-list\">\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">What makes a top interior design firm in Hauz Khas worth hiring?</h3>\n                    <p class=\"faq-a\">Strong design ideas, detailed drawings, reliable vendors and regular site supervision, so the finished space looks like the design you approved.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Do you work on both homes and commercial spaces?</h3>\n                    <p class=\"faq-a\">Yes. We design homes, offices, salons, cafés and showrooms, and each project gets a design built around its own use.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">How do you keep clients updated during the project?</h3>\n                    <p class=\"faq-a\">We share progress at each stage, review samples with you and keep one point of contact for questions.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Is a top interior design firm only for large budgets?</h3>\n                    <p class=\"faq-a\">No. Good planning helps any budget go further. We suggest where to spend and where to save so the result still feels complete.</p>\n                </div>\n            </div>\n        </section>\n        <!-- /FAQS:auto -->"
+}

@@ -1,0 +1,28 @@
+{
+  "h1": "Interior Designer for Office in Karnal, Haryana",
+  "heroImage": "'/img/e1.avif'",
+  "intro": "<p>As an interior designer for office environments in Karnal, Haryana, we create spaces that serve as strategic assets for your business. Our architectural approach enhances operational efficiency, physicalizes your brand values, and prioritizes employee well-being. From high-stakes corporate headquarters to vibrant co-working hubs, we create professional, visually commanding work environments that foster high-level output.</p>",
+  "philosophyHeading": "Smart and Functional Office Interiors",
+  "philosophy": "<p>\"Our designs center on human-centric layouts, ergonomic engineering, and adaptive lighting systems. We tailor every square foot to improve workflow, stimulate collaborative creativity, and leave a lasting impression on high-value clients and top-tier talent alike.\"</p>",
+  "cards": [
+    [
+      "Ergonomic Engineering",
+      "Curating furniture and spatial heights that reduce physical strain and mental fatigue, ensuring long-term focus and employee health."
+    ],
+    [
+      "Adaptive Lighting Systems",
+      "Integrating smart lighting that mimics natural circadian rhythms, boosting alertness during peak hours and promoting calm in lounge areas."
+    ],
+    [
+      "Brand-Immersive Design",
+      "Translating your corporate identity into the physical space through custom finishes, color psychology, and professional materiality."
+    ]
+  ],
+  "reasons": [
+    "Proven Specialists in Corporate and Commercial Office Architecture",
+    "Data-Driven Solutions for Your Specific Workflow and Growth Needs",
+    "Comprehensive Project Management from 3D Concept to Move-In Day"
+  ],
+  "cta": "Ready to transform your workspace into a productivity engine? Partner with Karnal's premier interior designer for office projects today.",
+  "faq": "<!-- FAQS:auto -->\n        <section class=\"faq-section\">\n            <h2>Frequently Asked Questions</h2>\n            <div class=\"faq-list\">\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Do you work as an interior designer for office spaces in Karnal?</h3>\n                    <p class=\"faq-a\">Yes. We design offices, clinics, showrooms with office areas and business centres in Karnal and nearby cities.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">What does an office layout include?</h3>\n                    <p class=\"faq-a\">Workstations, cabins, meeting rooms, reception, pantry, storage and washrooms, planned around your team size and how people work together.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Can you design an office inside a home?</h3>\n                    <p class=\"faq-a\">Yes. Many business owners in Karnal run an office from part of their house. We give it a separate entry or zone so work and home stay apart.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Why hire an interior designer for office space instead of a contractor alone?</h3>\n                    <p class=\"faq-a\">A designer plans light, comfort, privacy and future growth. A contractor builds what is drawn, so the planning decides how good the office will be.</p>\n                </div>\n            </div>\n        </section>\n        <!-- /FAQS:auto -->"
+}

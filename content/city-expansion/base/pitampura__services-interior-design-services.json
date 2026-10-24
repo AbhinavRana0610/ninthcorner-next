@@ -1,0 +1,28 @@
+{
+  "h1": "Interior Design Services in Pitampura, Delhi",
+  "heroImage": "'/img/cos5.avif'",
+  "intro": "<p>Our interior design services in Pitampura, Delhi cover residential, commercial, and luxury spaces with a focus on uncompromising quality. We provide complete solutions from initial conceptualization to final site execution, ensuring every project is visually stunning, highly functional, and deeply personalized. Our repertoire includes precision space planning, premium material selection, bespoke furniture, and architectural lighting design.</p>",
+  "philosophyHeading": "Tailored Designs for Every Space",
+  "philosophy": "<p>\"We take a holistic approach, merging artistic creativity with structural practicality. By deeply understanding your lifestyle or brand identity, we craft interiors that are not only aesthetically pleasing but also sustainable—enhancing long-term comfort, usability, and property value.\"</p>",
+  "cards": [
+    [
+      "End-to-End Execution",
+      "Turnkey interior design services where we manage every vendor and detail, taking the stress out of the renovation or construction process."
+    ],
+    [
+      "Bespoke Customization",
+      "Tailored solutions for luxury homes, high-performance offices, and retail spaces that reflect the unique character of our clients."
+    ],
+    [
+      "Visual Precision",
+      "Utilizing advanced 3D visualization and space-planning software to ensure you see and approve every detail before work begins on-site."
+    ]
+  ],
+  "reasons": [
+    "Elite Team of Professional Designers with Local Pitampura Expertise",
+    "Meticulous Attention to Detail & Use of High-Quality Finishes",
+    "Professional Project Management from Initial Concept to Completion"
+  ],
+  "cta": "Ready to transform your environment? Partner with Pitampura’s premier design firm to create a space that perfectly balances form and function.",
+  "faq": "<!-- FAQS:auto -->\n        <section class=\"faq-section\">\n            <h2>Frequently Asked Questions</h2>\n            <div class=\"faq-list\">\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">What interior design services are available in Pitampura?</h3>\n                    <p class=\"faq-a\">Space planning, concept design, 3D views, working drawings, material and furniture selection, lighting design and site supervision for homes and commercial spaces.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Can I visit your office to see materials?</h3>\n                    <p class=\"faq-a\">Yes. Our head office is at Netaji Subhash Place, Pitampura, and we review samples and drawings with clients there.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Do you offer design-only packages?</h3>\n                    <p class=\"faq-a\">Yes. You can choose design and drawings only, or design with supervision. We explain the scope of each before you decide.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Why choose local interior design services?</h3>\n                    <p class=\"faq-a\">A nearby team can visit the site often, respond quickly and solve problems on the spot, which keeps the project moving.</p>\n                </div>\n            </div>\n        </section>\n        <!-- /FAQS:auto -->"
+}

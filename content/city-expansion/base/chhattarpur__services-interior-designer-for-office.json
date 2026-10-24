@@ -1,0 +1,28 @@
+{
+  "h1": "Interior Designer for Office in Chhattarpur, Delhi",
+  "heroImage": "'/img/e1.avif'",
+  "intro": "<p>As an interior designer for office spaces in Chhattarpur, Delhi, we design offices that enhance efficiency, reflect your brand, and provide ultimate comfort. From corporate headquarters to collaborative co-working spaces, we create professional, functional, and visually appealing work environments that empower your team and support your business goals.</p>",
+  "philosophyHeading": "Smart and Functional Office Interiors",
+  "philosophy": "<p>\"Our designs focus on ergonomic layouts, modern furniture, smart lighting, and brand-aligned interiors. Each office is tailored to improve workflow, foster creativity, and impress clients and employees alike, ensuring your physical space becomes a strategic asset for growth.\"</p>",
+  "cards": [
+    [
+      "Productivity Layouts",
+      "Strategically optimized office layouts designed to minimize distractions and maximize daily operational efficiency."
+    ],
+    [
+      "Ergonomic Focus",
+      "Integrating ergonomic furniture and customized lighting solutions to ensure employee health, comfort, and sustained focus."
+    ],
+    [
+      "Brand Integration",
+      "Translating your company's values and brand identity into physical design elements that leave a lasting impression on clients."
+    ]
+  ],
+  "reasons": [
+    "Experienced in Corporate & Commercial Interiors",
+    "Customized Solutions for Modern Workspaces",
+    "Complete End-to-End Project Management"
+  ],
+  "cta": "Ready to transform your workspace into a hub of innovation? Partner with the leading interior designer for office projects in Chhattarpur, Delhi today.",
+  "faq": "<!-- FAQS:auto -->\n        <section class=\"faq-section\">\n            <h2>Frequently Asked Questions</h2>\n            <div class=\"faq-list\">\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">What does an interior designer for office projects in Chhattarpur do?</h3>\n                    <p class=\"faq-a\">We plan workstations, cabins, meeting rooms, reception, pantry and storage around how your team works. Lighting, acoustics, cabling and air-conditioning are planned with the layout, not added later.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Can you design a small office or a single floor?</h3>\n                    <p class=\"faq-a\">Yes. We design small offices and single floors as well as larger workspaces. In a small office, smart storage and multi-use meeting areas make the biggest difference.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Why hire a designer instead of buying ready furniture?</h3>\n                    <p class=\"faq-a\">An interior designer for office space plans movement, privacy, light and future growth, so the office stays comfortable and does not need to be redone when the team grows.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Can the office reflect our brand?</h3>\n                    <p class=\"faq-a\">Yes. Colours, reception design, wall graphics and materials can follow your brand, so clients and staff get a clear sense of the company when they walk in.</p>\n                </div>\n            </div>\n        </section>\n        <!-- /FAQS:auto -->"
+}

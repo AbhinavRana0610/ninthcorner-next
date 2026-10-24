@@ -1,0 +1,28 @@
+{
+  "h1": "Best Interior Designers in Hauz Khas, Delhi",
+  "heroImage": "'/img/bb1.avif'",
+  "intro": "<p>Recognized as the best interior designers in Hauz Khas, Delhi, we create spaces that leave a lasting impression. Every project is approached with a balance of creativity, precision, and surgical attention to detail. Whether it’s a cozy home, a modern corporate office, or a luxury boutique showroom, our designs seamlessly blend aesthetics, comfort, and functionality to redefine luxury living.</p>",
+  "philosophyHeading": "Personalized Designs for Every Client",
+  "philosophy": "<p>\"We focus on understanding your specific preferences, lifestyle, and brand identity to craft interiors that truly resonate. From conceptualization to final execution, our team ensures each space is customized, practical, and visually stunning, setting new standards for design excellence in Hauz Khas.\"</p>",
+  "cards": [
+    [
+      "Client-Focused Strategy",
+      "The best interior designers develop personalized design roadmaps that prioritize your vision while integrating our expert architectural insights."
+    ],
+    [
+      "Innovative Materiality",
+      "Leveraging high-end materials, intelligent lighting systems, and modern textures to create depth and character in every room."
+    ],
+    [
+      "Functional Elegance",
+      "Crafting stylish interiors that don't just look beautiful but are built to support your daily workflow or domestic lifestyle."
+    ]
+  ],
+  "reasons": [
+    "Vast Experience in Both Residential & Commercial Verticals",
+    "Creative Solutions Tailored to Your Brand & Personality",
+    "Seamless Execution with World-Class High-Quality Finishes"
+  ],
+  "cta": "Ready to transform your space into a masterpiece? Partner with the best design minds in Hauz Khas to bring your vision to life today.",
+  "faq": "<!-- FAQS:auto -->\n        <section class=\"faq-section\">\n            <h2>Frequently Asked Questions</h2>\n            <div class=\"faq-list\">\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">How do I find the best interior designers in Hauz Khas?</h3>\n                    <p class=\"faq-a\">Visit or review finished projects, check how detailed their drawings are, and ask who supervises work on site. Clear communication matters as much as good taste.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Do you design builder floors and apartments in South Delhi?</h3>\n                    <p class=\"faq-a\">Yes. We design builder floors and apartments in Hauz Khas, Green Park, Safdarjung Enclave and nearby areas, planning storage and light carefully because these homes often have tight layouts.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Can you work with furniture I already own?</h3>\n                    <p class=\"faq-a\">Yes. We review what you have, keep the pieces that work, and design new furniture and finishes around them.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">What sets the best interior designers apart?</h3>\n                    <p class=\"faq-a\">They listen first, design for how you live, and stay on site until the last detail is finished, so the result matches the drawings.</p>\n                </div>\n            </div>\n        </section>\n        <!-- /FAQS:auto -->"
+}

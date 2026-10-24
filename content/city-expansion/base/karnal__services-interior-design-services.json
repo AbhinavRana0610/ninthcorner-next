@@ -1,0 +1,28 @@
+{
+  "h1": "Interior Design Services in Karnal, Haryana",
+  "heroImage": "'/img/cos5.avif'",
+  "intro": "<p>Our interior design services in Karnal, Haryana encompass the full spectrum of residential, commercial, and luxury environments. We provide comprehensive, turnkey solutions—from initial conceptualization to final site execution—ensuring every project is visually stunning, technically sound, and deeply personalized. Our multidisciplinary approach includes precision space planning, bespoke furniture fabrication, and high-performance lighting design.</p>",
+  "philosophyHeading": "Tailored Designs for Every Space",
+  "philosophy": "<p>\"We merge architectural creativity with practical sustainability. By analyzing your lifestyle or brand requirements, we architect interiors that enhance comfort and value while standing as a testament to modern design excellence.\"</p>",
+  "cards": [
+    [
+      "End-to-End Execution",
+      "Complete interior design services that oversee everything from civil changes to the final placement of décor, ensuring a stress-free transition for the client."
+    ],
+    [
+      "3D Visualization",
+      "Utilizing high-fidelity photorealistic renderings and bubble diagrams to allow you to experience your space before construction begins."
+    ],
+    [
+      "Strategic Space Planning",
+      "Engineering layouts that optimize human circulation, maximize storage, and facilitate natural ventilation in the specific Haryana climate."
+    ]
+  ],
+  "reasons": [
+    "Professional Team with Global Design Sensibilities and Local Technical Knowledge",
+    "Meticulous Attention to Detail and Uncompromising Quality in High-End Finishes",
+    "Seamless Lifecycle Management from the First Sketch to the Final Key Handover"
+  ],
+  "cta": "Ready to transform your environment into a landmark of design? Partner with Karnal’s premier interior team to curate your space.",
+  "faq": "<!-- FAQS:auto -->\n        <section class=\"faq-section\">\n            <h2>Frequently Asked Questions</h2>\n            <div class=\"faq-list\">\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">What interior design services do you offer in Karnal?</h3>\n                    <p class=\"faq-a\">Space planning, concept design, 3D views, working drawings, material selection, custom furniture, lighting and site supervision for homes, offices, salons and showrooms.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Can you handle a project if I am not in Karnal often?</h3>\n                    <p class=\"faq-a\">Yes. We share drawings, samples and progress updates online and plan site visits at key stages, so you can follow the project from anywhere.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Do you help choose materials and furniture?</h3>\n                    <p class=\"faq-a\">Yes. We shortlist materials, finishes and furniture within your budget and explain the pros and cons of each option.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Why choose full interior design services for a new house?</h3>\n                    <p class=\"faq-a\">A new house has many decisions at once. One team planning and supervising the interiors keeps the style and quality the same in every room.</p>\n                </div>\n            </div>\n        </section>\n        <!-- /FAQS:auto -->"
+}

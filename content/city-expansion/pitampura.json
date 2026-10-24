@@ -1,0 +1,562 @@
+{
+  "_about": "Pitampura service pages rebuilt in the Delhi service-page layout (content/city-expansion/service-page.css) with extra local content. The page's own hero, intro, philosophy box, three feature cards, reason titles, CTA and FAQ are kept from the page; everything here is added. Applied by scripts/apply-city-expansion.mjs.",
+  "_gallery": {
+    "heading": "Our Completed Projects Near Pitampura",
+    "images": [
+      [
+        "/img/project/mr-arun-ashok-vihar/mr-arun-ashok-vihar/1.avif",
+        "Home interior in Ashok Vihar, Delhi by 9th Corner",
+        "Ashok Vihar Home"
+      ],
+      [
+        "/img/project/dr-ak-jain-model-town/dr-ak-jain-model-town/1.avif",
+        "Residence in Model Town, Delhi by 9th Corner",
+        "Model Town Residence"
+      ],
+      [
+        "/img/project/mr-raj-gupta-gujranwala-town/mr-raj-gupta-gujranwala-town/1.avif",
+        "House in Gujranwala Town, Delhi by 9th Corner",
+        "Gujranwala Town House"
+      ],
+      [
+        "/img/project/dr-jain-karol-bagh/dr-jain-karol-bagh/final-01.avif",
+        "Home design in Karol Bagh, Delhi by 9th Corner",
+        "Karol Bagh Home"
+      ],
+      [
+        "/img/project/mr-arun-ashok-vihar/mr-arun-ashok-vihar/3.avif",
+        "Living room in Ashok Vihar, Delhi by 9th Corner",
+        "Ashok Vihar Living Room"
+      ],
+      [
+        "/img/project/dr-ak-jain-model-town/dr-ak-jain-model-town/51.avif",
+        "Interior project in Model Town, Delhi by 9th Corner",
+        "Model Town Interior"
+      ],
+      [
+        "/img/project/mr-raj-gupta-gujranwala-town/mr-raj-gupta-gujranwala-town/106.avif",
+        "Interior work in Gujranwala Town, Delhi by 9th Corner",
+        "Gujranwala Town Interior"
+      ],
+      [
+        "/img/project/dr-jain-karol-bagh/dr-jain-karol-bagh/final-02.avif",
+        "Residential interior in Karol Bagh, Delhi by 9th Corner",
+        "Karol Bagh Residence"
+      ],
+      [
+        "/img/project/mr-arun-ashok-vihar/mr-arun-ashok-vihar/5.avif",
+        "Bedroom design in Ashok Vihar, Delhi by 9th Corner",
+        "Ashok Vihar Bedroom"
+      ],
+      [
+        "/img/project/dr-ak-jain-model-town/dr-ak-jain-model-town/52.avif",
+        "Home in Model Town, Delhi designed by 9th Corner",
+        "Model Town Home"
+      ]
+    ]
+  },
+  "services-Salon-interior-designer": {
+    "introHeading": "Salons for North-West Delhi's Busy Markets",
+    "intro": "<p>Pitampura's markets, from the local block shopping centres to the stretch around Madhuban Chowk, are full of salons competing for the same customers. Many clients also come in from Rohini, Shalimar Bagh and Kohat Enclave. As a salon interior designer, we help owners stand out with a space that looks fresh, works fast and fits the shop they actually have.</p>",
+    "cards": [
+      [
+        "First-Floor and Basement Salons",
+        "<p>A lot of salons here sit above or below the main shop level, reached by a stair. That makes the entrance and signage very important. We design a bright, welcoming stairwell, a clear sign at street level and a reception that customers see as soon as they reach the top.</p><p>Basements need extra care with damp, ventilation and lighting, so we plan dehumidifiers, exhaust and warm light to keep them pleasant.</p>"
+      ],
+      [
+        "Family Salons and Kids' Corners",
+        "<p>Families in Pitampura often visit together. A salon interior designer can add a small kids' corner with a fun chair and a mirror at their height, a separate men's section and a women's area with more privacy. Each zone shares the same look, but runs on its own.</p>"
+      ]
+    ],
+    "features": [
+      "Small Choices That Make a Big Difference",
+      "<p>Tool holders built into each station keep dryers off the counter. A colour-mixing nook with its own sink stops spills on the floor. Lockers for staff, a clean towel cabinet and a separate bin for used towels keep things hygienic. Footrests, cushioned stools and a neat magazine shelf help clients relax. None of these cost much, but together they change how a salon feels.</p>"
+    ],
+    "process": [
+      "Planning and Building Your Salon",
+      "<p>We meet you at the shop, check the floor plan, water and drain points and the power supply. Our salon interior designer team then comes back with a layout showing every chair and basin, plus 3D images of the look.</p><p>After you agree the budget, our team takes care of the water and power lines, ceiling, floor, furniture, mirrors and signboard, and tests every station before you open.</p>"
+    ],
+    "whyHeading": "What Our Salon Interior Designer Team Offers Pitampura Owners",
+    "whyIntro": "<p>Competition in this part of Delhi is tough, and rents are not low. We plan your salon so every square foot earns its keep.</p>",
+    "whyText": [
+      "Salon and spa layouts drawn around real daily work.",
+      "Your colours, logo and services woven into the design.",
+      "A smooth handover, ready for your first booking."
+    ],
+    "whyMore": [
+      [
+        "Upper-Floor Shops Made Inviting",
+        "Stairs, signage and reception that draw people up."
+      ],
+      [
+        "Hygiene Built In",
+        "Separate storage for clean and used towels and tools."
+      ]
+    ],
+    "galleryText": "Work from our portfolio in Ashok Vihar and Karol Bagh, close to Pitampura.",
+    "closingHeading": "A Salon Your Regulars Will Recommend",
+    "closing": "<p>Word of mouth still drives most salon business in North-West Delhi. A thoughtful salon interior designer helps create the kind of space people talk about.</p><p>Planning a salon in Pitampura? <a href=\"/pitampura/contact\">Ring 9th Corner</a> to book a shop visit.</p>"
+  },
+  "services-architecture-services": {
+    "introHeading": "Rebuilding Pitampura's Kothis and Plots",
+    "intro": "<p>Many of Pitampura's houses were built in the 1980s and 90s on plots of around 200 to 300 square yards. A large number are now being rebuilt as modern multi-floor homes with stilt parking. Our architecture services guide families through this change, from checking what the plot can legally hold to delivering a building that suits the next thirty years.</p>",
+    "cards": [
+      [
+        "Rebuilding Family Kothis",
+        "<p>A rebuild often means the family is splitting into separate units. We plan each floor as a complete home, with its own kitchen, living area and bedrooms, while keeping a shared entrance, lift and staircase that work for everyone. Elders often take the ground or first floor, so we plan step-free access and a lift from the start.</p><p>Front facades are designed to look good on the street without needing heavy maintenance.</p>"
+      ],
+      [
+        "Commercial Plots and NSP Buildings",
+        "<p>Around Netaji Subhash Place and the main roads, commercial plots carry shops, showrooms and offices. Our architecture services here cover efficient floor plates, lift and stair cores, fire safety, parking and service areas, all planned to suit tenants who may change over time.</p>"
+      ]
+    ],
+    "features": [
+      "Getting the Most From a Tight Plot",
+      "<p>On a 250-yard plot, every foot counts. We use a compact core, light wells or skylights where neighbours block windows, and balconies that add usable space. Water tanks, solar panels and AC units are placed on the roof with care so the terrace stays usable. Basement options are studied for storage, a gym or a home theatre where soil and rules allow.</p><p>Good drawings also help the contractor build faster and with less waste.</p>"
+    ],
+    "process": [
+      "How a Rebuild Moves Forward",
+      "<p>The first meeting usually happens around the dining table, with every family member who will share the building. We then measure the plot, check the neighbours' heights and draw two or three options, each with a rough cost and a 3D view.</p><p>After you choose, our architecture services move on to structural, electrical and plumbing drawings; we then visit the site at key stages and help with the interiors until move-in.</p>"
+    ],
+    "whyHeading": "How Our Architecture Services Help Pitampura Families",
+    "whyIntro": "<p>A rebuild is often the biggest decision a family makes together. We keep the process clear and fair, with every member's needs on the table from the first meeting.</p>",
+    "whyText": [
+      "Practical knowledge of local building norms and plot sizes.",
+      "Designs balancing family needs, structure and looks.",
+      "Support from the first sketch to the finished building."
+    ],
+    "whyMore": [
+      [
+        "Floors Planned for Each Family Unit",
+        "Separate homes under one shared roof."
+      ],
+      [
+        "Lift and Step-Free Access",
+        "Planned early for elders and visitors."
+      ]
+    ],
+    "galleryText": "Homes we have rebuilt and furnished in Model Town and Gujranwala Town.",
+    "closingHeading": "A Home Ready for the Next Generation",
+    "closing": "<p>A well-planned rebuild adds value, space and comfort for decades. Careful architecture services make sure the new building fits both the family and the plot.</p><p>Thinking of rebuilding in Pitampura? <a href=\"/pitampura/contact\">Book a plot study with 9th Corner</a>.</p>"
+  },
+  "services-best-interior-designers": {
+    "introHeading": "Choosing a Designer for Your Pitampura Home",
+    "intro": "<p>Pitampura families tend to do their homework. They ask relatives for names, visit finished homes and compare quotes in detail before choosing the best interior designers for the job. That careful approach makes sense, because a good designer can save money and stress, while a poor one can cost both.</p>",
+    "cards": [
+      [
+        "Kothis and Builder Floors",
+        "<p>For an independent floor or house, we design every room around the family's routine: a kitchen with space for daily cooking and festival feasts, a dining area that can seat visiting relatives, bedrooms with enough wardrobe space and a living room that works for both guests and TV evenings.</p><p>Puja rooms, study corners and shoe storage are planned, not squeezed in later.</p>"
+      ],
+      [
+        "DDA Flats and Apartments",
+        "<p>In DDA and society flats, space is limited and walls cannot always move. The best interior designers make these homes feel larger through smart storage, lighter colours, sliding doors and furniture made to fit each room exactly.</p><p>We also handle common upgrades like kitchen replacement, bathroom renovation and new electrical wiring.</p>"
+      ]
+    ],
+    "features": [
+      "How to Judge a Designer",
+      "<p>Look at their finished homes, not just their renders. Ask who will supervise your site and how often. Check what brands of plywood, laminate, hardware and paint are included in the quote. Ask how changes are handled once work begins. A good firm will answer clearly and put it in writing. We are happy to arrange visits to completed homes in nearby areas.</p>"
+    ],
+    "process": [
+      "Working Together, Step by Step",
+      "<p>We start at your home, measuring every room and listening to each family member. A layout, colour ideas and 3D views follow. Once you are happy, we fix materials and a written budget.</p><p>Our site supervisor manages carpenters, electricians and painters, and you get updates throughout. The best interior designers finish what they promise, and that is how we measure ourselves.</p>"
+    ],
+    "whyHeading": "What You Should Expect From the Best Interior Designers",
+    "whyIntro": "<p>Trust is earned through clear work. We put everything in writing, share regular site photos and keep our word on dates.</p>",
+    "whyText": [
+      "Many years of residential and commercial work in Delhi.",
+      "Ideas matched to your room sizes and daily needs.",
+      "Careful execution, from carcass to final polish."
+    ],
+    "whyMore": [
+      [
+        "Brand List in Every Quote",
+        "You know exactly which materials you are paying for."
+      ],
+      [
+        "Visits to Finished Homes",
+        "See our work before you decide."
+      ]
+    ],
+    "galleryText": "Homes finished by our team in Model Town and Ashok Vihar.",
+    "closingHeading": "Take Your Time, Then Choose Well",
+    "closing": "<p>Comparing the best interior designers carefully is worth it. Look for clear answers, real work and a team that listens.</p><p>Want to see if we are the right fit for your Pitampura home? <a href=\"/pitampura/contact\">Set up a meeting with 9th Corner</a>.</p>"
+  },
+  "services-best-salon-interior-designer": {
+    "introHeading": "Upscale Salons for North and West Delhi",
+    "intro": "<p>Pitampura and nearby Rohini, Shalimar Bagh and Ashok Vihar have a growing market for upscale salons, bridal studios and skin clinics. When owners here go looking for the best salon interior designer, they are often after a polished look that can compete with big brand chains, built within a local business budget.</p>",
+    "cards": [
+      [
+        "Bridal and Makeup Studios",
+        "<p>North Delhi weddings keep makeup artists busy for months. We design studios with several well-lit makeup stations, a spacious changing room, a seating area for the bride's family and a photo wall with soft, even light. Storage for outfits, jewellery and kits is secure and easy to reach.</p><p>Separate entry and waiting areas let bridal clients feel special even on busy days.</p><p>A small lounge for waiting family members, with tea service and phone charging, keeps the main floor calm.</p>"
+      ],
+      [
+        "Hair, Skin and Nail Lounges",
+        "<p>Modern salons often combine hair, skin and nail services under one roof. The best salon interior designer zones these clearly: a bright hair floor, quieter rooms for facials and treatments, and a nail bar with good ventilation and task lighting.</p>"
+      ]
+    ],
+    "features": [
+      "Designing for Daily Hygiene",
+      "<p>Clients today notice cleanliness more than ever. We use joint-free, easy-clean surfaces, sinks in treatment rooms, closed storage for tools and enough space for sterilisers. Floors are slip-resistant and easy to mop. Good air changes keep the salon smelling fresh. These steps reassure clients and help staff keep standards high without extra effort.</p><p>Waste bins with lids, a separate laundry corner and hands-free taps add to the clean feel.</p>"
+    ],
+    "process": [
+      "From Concept to Launch",
+      "<p>We discuss your services, pricing and brand, then visit the shop. As the best salon interior designer for your plans, we prepare layout options, 3D images and a clear budget, and point out where spending more will pay off.</p><p>Once approved, our team completes plumbing, electrical, ceiling, flooring, furniture and branding in time for your launch.</p><p>We also plan a small staff room, since happy stylists stay longer.</p>"
+    ],
+    "whyHeading": "Working With the Best Salon Interior Designer Team in Pitampura",
+    "whyIntro": "<p>We look at your salon as a business, not just a design project. Layout, lighting and finishes are judged by how they help you earn.</p>",
+    "whyText": [
+      "Hands-on work with salons, clinics and bridal studios.",
+      "Brand style and workflow planned together.",
+      "Complete delivery, from plans to the first client."
+    ],
+    "whyMore": [
+      [
+        "Bridal Studios That Impress",
+        "Lighting and space for long makeup sessions."
+      ],
+      [
+        "Clinic-Grade Cleanliness",
+        "Surfaces and storage that are easy to sanitise."
+      ]
+    ],
+    "galleryText": "Interiors by 9th Corner in Model Town and Gujranwala Town.",
+    "closingHeading": "A Salon That Feels a Step Above",
+    "closing": "<p>Clients in North-West Delhi have plenty of choice. With the best salon interior designer helping you, your salon can offer something that feels a step above the rest.</p><p>Opening a salon near Pitampura? <a href=\"/pitampura/contact\">Share your plans with 9th Corner</a>.</p>"
+  },
+  "services-farmhouse-interior-designer": {
+    "introHeading": "Farmhouses on the GT Karnal Road Belt",
+    "intro": "<p>Many Pitampura families own farmhouses in the North Delhi belt along GT Karnal Road, around Alipur, Bakoli and Narela. These properties are close enough for a Sunday visit and big enough for family functions. As a farmhouse interior designer, we help owners turn them into comfortable second homes rather than empty plots with a single room.</p>",
+    "cards": [
+      [
+        "Weekend Homes for Family Gatherings",
+        "<p>Most farmhouses here are used on weekends and festivals. We design a large living and dining space that can seat the extended family, a kitchen that can handle cooking for many, and a few bedrooms for those who stay overnight. Furniture is comfortable but sturdy, since it may be used by children, elders and guests all at once.</p><p>Lockable storage keeps valuables safe when the house is empty during the week.</p><p>A covered sit-out next to the kitchen lets the family eat outdoors even in the afternoon sun.</p>"
+      ],
+      [
+        "Function Lawns and Outdoor Rooms",
+        "<p>Birthdays, kitty parties and pre-wedding events often move to the farm. A farmhouse interior designer plans the lawn, gazebo, outdoor kitchen, toilets and parking so these events run smoothly, with enough power points and lighting for tents, music and catering.</p>"
+      ]
+    ],
+    "features": [
+      "Built for Part-Time Use",
+      "<p>A house that is shut most of the week needs good security, strong locks, simple alarms and lighting on timers. Finishes should resist dust and damp, since rooms may stay closed for days. Ceiling fans, cross-ventilation and shaded verandas help the house cool down quickly when the family arrives. Solar panels and inverter backup reduce dependence on the local supply.</p><p>Hand pumps, a water tank on a stand and a simple filter keep water available even when the supply is irregular.</p>"
+    ],
+    "process": [
+      "From Plot to Finished Farmhouse",
+      "<p>Our first trip to the farm is mostly about looking: where the borewell is, how the land drains, which trees give shade and what can be saved from any old building. With that in hand, the farmhouse interior designer on our team draws a site plan, the house layout and a few 3D views to settle the look.</p><p>Construction, interiors and outdoor work then run on one schedule, with a short report after every site visit so you are not driving out every few days.</p>"
+    ],
+    "whyHeading": "A Farmhouse Interior Designer Who Knows the North Delhi Belt",
+    "whyIntro": "<p>Farmhouse projects are usually managed from the city. We act as your eyes and hands on site, and call you only when a real decision is needed.</p>",
+    "whyText": [
+      "Experience with country homes and function lawns.",
+      "Spaces planned around family visits and events.",
+      "Management of construction, interiors and outdoors."
+    ],
+    "whyMore": [
+      [
+        "Secure When Empty",
+        "Locks, lights and storage for weekday absence."
+      ],
+      [
+        "Ready for Functions",
+        "Lawns and utilities planned for events."
+      ]
+    ],
+    "galleryText": "Our finishing standard, seen in city homes in Ashok Vihar and Model Town.",
+    "closingHeading": "A Weekend Retreat Close to Home",
+    "closing": "<p>A farmhouse should be a place your family wants to visit, not one that needs repairs every time you arrive. Planning it with an experienced farmhouse interior designer keeps upkeep low and weekends easy.</p><p>Own a farm on GT Karnal Road? <a href=\"/pitampura/contact\">Ask 9th Corner to visit the property</a>.</p>"
+  },
+  "services-interior-architect-for-showroom-design": {
+    "introHeading": "Showrooms Around Pitampura, NSP and Rohini",
+    "intro": "<p>The commercial hub at Netaji Subhash Place, the main roads of Pitampura and the markets of nearby Rohini are home to jewellery stores, garment showrooms, furniture galleries and electronics outlets. Shoppers here are value-conscious and compare carefully. An interior architect for showroom design helps a store build trust quickly and guide buyers to a decision.</p>",
+    "cards": [
+      [
+        "Jewellery and Fashion Showrooms",
+        "<p>Jewellery stores need secure, well-lit counters, comfortable seating for families and a calm, private feel for big purchases. Fashion stores need flexible racks, attractive window displays and roomy, well-lit trial rooms. We design both with strong security and clear sight lines for staff.</p><p>Lighting is tuned so gold, diamonds and fabrics show their true colour.</p>"
+      ],
+      [
+        "Furniture, Electronics and Home Stores",
+        "<p>Larger products need room settings and space to compare. An interior architect for showroom design creates zones by category, with demo areas for appliances, room-like displays for furniture and wide aisles where families can walk together and discuss.</p><p>Kids' play corners and a water dispenser near the seating help families stay longer while they compare options.</p>"
+      ]
+    ],
+    "features": [
+      "Designing for Value-Conscious Shoppers",
+      "<p>Shoppers in this market want to see options side by side and feel they are getting a fair deal. Clear pricing displays, well-organised shelves and helpful signage support that. A comfortable seating area near the counter gives families space to decide. Good lighting and a clean, cool store make customers stay longer, which often leads to bigger bills.</p><p>Back-of-house storage is planned so stock can be refilled quickly.</p>"
+    ],
+    "process": [
+      "Planning Your Showroom",
+      "<p>Before any drawing, we spend time in your current store or a competitor's, watching how people move and where they stop. Acting as your interior architect for showroom design, we then map out the zones, fixture types and lighting, and share a 3D walk-through you can show your partners.</p><p>Construction is planned to keep the store closed for as little time as possible, with fixtures built off-site where we can.</p>"
+    ],
+    "whyHeading": "Why Retailers Choose Our Interior Architect for Showroom Design",
+    "whyIntro": "<p>Rents near NSP and the main markets are high, so every square foot must sell. Our layouts are judged by how well they help you do that.</p>",
+    "whyText": [
+      "Experience with retail, display and commercial architecture.",
+      "Designs built around what you sell and who buys it.",
+      "Complete design and on-site execution."
+    ],
+    "whyMore": [
+      [
+        "Security Designed In",
+        "Safe counters, lockable displays and clear sight lines."
+      ],
+      [
+        "Shorter Closures",
+        "Fixtures built off-site to save shop time."
+      ]
+    ],
+    "galleryText": "Interiors we have handed over in Karol Bagh and Gujranwala Town.",
+    "closingHeading": "Help Shoppers Say Yes",
+    "closing": "<p>A good store makes buying feel easy and enjoyable. A skilled interior architect for showroom design shapes every step of that journey.</p><p>Planning a showroom in Pitampura or NSP? <a href=\"/pitampura/contact\">Contact 9th Corner</a> to discuss your store.</p>"
+  },
+  "services-interior-design-services": {
+    "introHeading": "Interior Projects for Pitampura Homes and Offices",
+    "intro": "<p>From DDA flats and family kothis to offices in NSP, our interior design services in Pitampura cover projects of all sizes. Some clients need a full home done before moving in; others want only a new kitchen or a refreshed living room. We adjust our scope to suit, without cutting corners on quality.</p>",
+    "cards": [
+      [
+        "Complete Home Interiors",
+        "<p>For a full home, we design living and dining areas, kitchens, bedrooms, bathrooms, puja rooms and balconies as one plan. Storage is a priority, since most families have more belongings than their old homes could hold. We also plan lighting, curtains and loose furniture so nothing looks half done when you move in.</p><p>Wiring and plumbing are checked and upgraded where needed.</p>"
+      ],
+      [
+        "Kitchen, Bathroom and Single-Room Makeovers",
+        "<p>Not every project is a full home. Our interior design services also cover smaller jobs such as a new modular kitchen, a bathroom renovation, a children's room or a home office. These are planned with the same care, and finished quickly to limit disruption.</p><p>Many families also ask us to redo the entrance: a new main door, a shoe cabinet and better lighting make a strong first impression.</p>"
+      ]
+    ],
+    "features": [
+      "What Is Included",
+      "<p>A full project with us covers measured plans, 3D images of the main rooms, a sample board of finishes, electrical and lighting layouts, joinery drawings for the carpenter, an itemised budget and day-to-day site supervision. At handover, you receive warranty cards and care advice for the materials used.</p><p>Prefer to hire your own contractor? We can provide the drawings alone, with a few site visits to check the work.</p>"
+    ],
+    "process": [
+      "How a Project Runs",
+      "<p>It starts with a home visit. We look around, note what bothers you about the space and what you want to keep. A written proposal for our interior design services follows, listing the scope, the stages and the fee.</p><p>When you agree, design work begins, and once drawings are signed off our supervisor takes the job on site. You get a short update every week and a final walk-through at the end.</p>"
+    ],
+    "whyHeading": "What Our Interior Design Services Offer Pitampura Homes",
+    "whyIntro": "<p>We know local homes well, from the layout of a DDA flat to the quirks of an older kothi. That saves time at every stage. We also know which local suppliers deliver on time.</p>",
+    "whyText": [
+      "A team familiar with homes and offices in this part of Delhi.",
+      "Good materials and careful finishing throughout.",
+      "Organised management from first idea to handover."
+    ],
+    "whyMore": [
+      [
+        "Small Jobs Welcome",
+        "Kitchens, bathrooms and single rooms handled with care."
+      ],
+      [
+        "Written Scope",
+        "Everything included is listed before work begins."
+      ]
+    ],
+    "galleryText": "Homes we have handed over in Gujranwala Town and Ashok Vihar.",
+    "closingHeading": "Interiors That Work for Your Family",
+    "closing": "<p>Good interior design services begin with listening. We plan around your family's needs and budget, and deliver a home that is easy to live in.</p><p>Planning work in Pitampura? <a href=\"/pitampura/contact\">Request a visit from 9th Corner</a>.</p>"
+  },
+  "services-interior-designer-for-office": {
+    "introHeading": "Offices in NSP and Across Pitampura",
+    "intro": "<p>Netaji Subhash Place is one of North-West Delhi's busiest office hubs, with towers full of CA firms, consultancies, IT companies, coaching centres and trading offices. Pitampura's main roads add many more small offices. As an interior designer for office projects, we create workspaces that impress clients, keep teams comfortable and make the most of costly floor space.</p>",
+    "cards": [
+      [
+        "CA Firms, Consultancies and Trading Offices",
+        "<p>Professional firms need private cabins for partners, a work area for staff, a conference room and plenty of secure storage for files. We plan these with good sound control so client conversations stay private, and a reception that gives a calm, professional first impression.</p><p>Document storage is planned to meet the needs of growing record volumes.</p><p>A small pantry with a sink and a water cooler is often the most used room in a CA firm during tax season.</p>"
+      ],
+      [
+        "IT Teams and Coaching Centres",
+        "<p>Tech teams need open desks, meeting rooms, strong networking and backup power. Coaching centres need well-lit classrooms, good acoustics and waiting areas for parents. An interior designer for office and training spaces plans both with durability, safety and easy maintenance in mind.</p><p>Fire exits, extinguishers and clear corridors are planned to meet the rules for training spaces.</p>"
+      ]
+    ],
+    "features": [
+      "Making Small Floors Work Harder",
+      "<p>Office rents in NSP are high, so space must be used well. We plan compact cabins with glass fronts to share light, multi-use meeting rooms, storage built into walls and furniture sized to the room. Good lighting, comfortable chairs and steady cooling keep staff productive through long days. Cable management keeps desks neat and safe.</p>"
+    ],
+    "process": [
+      "Setting Up Your Workspace",
+      "<p>Tell us how many people sit in the office, how many visitors come in a day and where you expect to be in three years. With those numbers, our interior designer for office projects works out the desk count, cabin sizes and storage, then presents the plan in 3D with a line-by-line quote.</p><p>The fit-out is timed to your lease and move-in date, with branding and signage done last.</p>"
+    ],
+    "whyHeading": "How Our Interior Designer for Office Projects Helps Pitampura Businesses",
+    "whyIntro": "<p>Many offices in NSP are in older towers with fixed services. We work around these limits and coordinate with building management for approvals and work hours. Material lifts and parking for deliveries are booked in advance.</p>",
+    "whyText": [
+      "Experience with professional firms, tech teams and institutes.",
+      "Layouts matched to how your business works today and tomorrow.",
+      "Turnkey delivery, from blueprint to handover."
+    ],
+    "whyMore": [
+      [
+        "Building Rules Handled",
+        "Approvals and work timings sorted with management."
+      ],
+      [
+        "Space That Pays for Itself",
+        "Compact, efficient layouts for high-rent floors."
+      ]
+    ],
+    "galleryText": "Recent interiors from our portfolio in Model Town and Karol Bagh.",
+    "closingHeading": "Work Better in a Well-Planned Office",
+    "closing": "<p>A thoughtful workspace helps your team do their best work and your clients feel confident. A capable interior designer for office spaces makes that happen.</p><p>Setting up an office in NSP or Pitampura? <a href=\"/pitampura/contact\">Speak with 9th Corner</a>.</p>"
+  },
+  "services-luxury-home-interior-designs": {
+    "introHeading": "Luxury Homes in Pitampura and North Delhi",
+    "intro": "<p>Pitampura and the nearby colonies of Kohat Enclave, Shalimar Bagh and Model Town have many large family homes where owners want high-end finishes and a refined look. Our luxury home interior designs bring that standard to North Delhi kothis and new rebuilt floors, with a focus on quality, comfort and lasting value.</p>",
+    "cards": [
+      [
+        "Formal Living and Entertaining",
+        "<p>North Delhi families love to host. We design drawing rooms with rich materials and statement lighting, dining areas that can seat a large group, and bar or lounge spaces for evening gatherings. Feature walls in stone, veneer or textured finishes add depth without clutter.</p><p>Wall space for family photographs and artwork is planned with matching lights.</p><p>A powder room near the drawing room, finished to the same standard, saves guests from walking through private areas.</p>"
+      ],
+      [
+        "Master Suites and Private Spaces",
+        "<p>Bedrooms in our luxury home interior designs are planned as private retreats, with walk-in wardrobes, dressing tables, reading corners and bathrooms finished in stone and quality fittings. Children's rooms and guest rooms get the same attention to detail, sized and styled for their users.</p><p>Walk-in wardrobes get lighting inside each section, a mirror wall and drawers for watches and jewellery.</p>"
+      ]
+    ],
+    "features": [
+      "Luxury in the Details",
+      "<p>Book-matched marble, hand-polished veneers and solid wood. Soft-close drawers and heavy, smooth hardware. Concealed AC vents and lighting in clean false ceilings. Smart controls for lights, curtains and cameras. Wall panelling that hides doors and storage. These details make a home feel calm and refined every day, not only when guests visit.</p><p>Even the switch plates and door stops are chosen to match the main finishes.</p>"
+    ],
+    "process": [
+      "How We Create a Luxury Home",
+      "<p>We like to see how you live before we draw anything: the pieces you treasure, the rooms you use most, the way you host. From there, our luxury home interior designs take shape through drawings, real stone and wood samples on your table, and 3D images of each room.</p><p>Craftsmen work under close watch on site, and we inspect every surface with you before handover.</p>"
+    ],
+    "whyHeading": "What Families Value in Our Luxury Home Interior Designs",
+    "whyIntro": "<p>Luxury projects need patience, precision and discretion. We take the time to get each detail right and keep your home and plans private. Senior designers stay with your project from start to finish.</p>",
+    "whyText": [
+      "Experience with high-end homes across North Delhi.",
+      "Designs shaped by your lifestyle and preferences.",
+      "Full service with close project management."
+    ],
+    "whyMore": [
+      [
+        "Physical Samples for Every Finish",
+        "Touch and see before you choose."
+      ],
+      [
+        "Smart Controls Built In",
+        "One app for lights, blinds and cameras."
+      ]
+    ],
+    "galleryText": "High-end homes from our portfolio in Model Town and Karol Bagh.",
+    "closingHeading": "Refined Living, Every Day",
+    "closing": "<p>Luxury is not about showing off; it is about living well. Our luxury home interior designs focus on comfort and quality that last for years.</p><p>Considering a high-end home in Pitampura or Kohat Enclave? <a href=\"/pitampura/contact\">Meet 9th Corner in private</a>.</p>"
+  },
+  "services-modern-interior-design": {
+    "introHeading": "Modern Makeovers for Pitampura Homes",
+    "intro": "<p>Many Pitampura homes still have heavy wooden almirahs, dark panelling and busy ceilings from the 1990s. Owners rebuilding or renovating often want a lighter, cleaner feel. Modern interior design offers that: simple lines, practical storage, good lighting and a calm palette that suits both young couples and older parents.</p>",
+    "cards": [
+      [
+        "Updating Older Homes",
+        "<p>We replace bulky wardrobes with sleek built-ins, open up dark corridors, swap heavy grills for clean frames and simplify ceilings. Floors can be refreshed with large tiles or wooden finishes. The result keeps the home's solid structure while giving it a fresh, current look.</p><p>Old wooden furniture with sentimental value can be refinished to suit the new style.</p><p>Grills on windows and balconies can be replaced with slim, safe frames that let in more light.</p>"
+      ],
+      [
+        "New Rebuilt Floors",
+        "<p>For new floors, modern interior design starts from scratch: open living and dining spaces, a handle-free kitchen, bedrooms with built-in storage and bathrooms with clean, frameless fittings. A neutral base with a few bold accents keeps the look fresh for years.</p><p>Lighting is planned in layers from the start, with dimmers in living rooms and warm light in bedrooms.</p>"
+      ]
+    ],
+    "features": [
+      "Modern, but Made for Family Life",
+      "<p>A modern home should still suit a joint family. We plan enough seating for visitors, a proper puja space with a clean design, kitchen storage for daily cooking and wardrobes that hold more than they seem to. Matte finishes and easy-care surfaces cope with daily use. Warm wood tones and soft lighting keep the home welcoming.</p>"
+    ],
+    "process": [
+      "From Old to New",
+      "<p>We usually begin with what you want to remove: the heavy panelling, the cluttered ceiling, the almirah that blocks the window. Once that list is clear, our modern interior design team proposes a simpler plan, a short list of materials and 3D views the whole family can look at together.</p><p>Work on site is supervised daily, and every line and joint is checked before handover.</p>"
+    ],
+    "whyHeading": "Modern Interior Design That Suits Every Generation",
+    "whyIntro": "<p>Moving from a traditional to a modern look can be a big change for a family. We help everyone agree on a style that feels right for all generations. Parents and children both see the 3D views before anything is built.</p>",
+    "whyText": [
+      "A clear grasp of current design and city living.",
+      "Modern solutions across homes, offices and shops.",
+      "Turnkey handling with careful finishing."
+    ],
+    "whyMore": [
+      [
+        "Old Furniture Reused",
+        "Pieces you love refinished to fit the new look."
+      ],
+      [
+        "Style Every Generation Likes",
+        "Clean design that still feels warm and familiar."
+      ]
+    ],
+    "galleryText": "Homes we have refreshed in Ashok Vihar and Gujranwala Town.",
+    "closingHeading": "A Fresh Start for Your Home",
+    "closing": "<p>A lighter, simpler home can change how your family feels every day. Thoughtful modern interior design makes that change smooth and lasting.</p><p>Ready to modernise your Pitampura home? <a href=\"/pitampura/contact\">Call 9th Corner</a> to begin.</p>"
+  },
+  "services-residential-interior-design": {
+    "introHeading": "Homes for Pitampura's Joint and Nuclear Families",
+    "intro": "<p>Pitampura is a settled, family-oriented neighbourhood. Many homes hold three generations, while others are being rebuilt so brothers or sons can each have their own floor. Our residential interior design work responds to these changes, planning homes that give everyone their own space while keeping the family close.</p>",
+    "cards": [
+      [
+        "Independent Kothis and Rebuilt Floors",
+        "<p>When a kothi is rebuilt into separate floors, each one needs a full home: kitchen, living area, bedrooms and bathrooms. Each floor is planned for its own household, while the entrance, staircase and lift lobby share one design so the building still looks like one home.</p><p>Terraces can become gardens, gyms or party spaces with the right planning.</p><p>Where a floor will be rented out, we suggest tougher finishes that keep it looking good between tenants.</p>"
+      ],
+      [
+        "DDA and Society Flats",
+        "<p>In DDA SFS flats and society apartments, residential interior design must work within fixed walls and limited space. We use custom-fit storage, foldable furniture, mirrors and light colours to make rooms feel larger, and upgrade kitchens and bathrooms for daily ease.</p><p>Loft storage above doors and corridors is useful for suitcases and seasonal items.</p>"
+      ]
+    ],
+    "features": [
+      "Comfort for Every Age",
+      "<p>Children need study spaces and room to play. Working adults need a quiet corner for calls. Elders need safe bathrooms with grab bars, non-slip floors and good lighting at night. A home that considers each of these feels easier for everyone. We also plan enough plug points, storage for seasonal clothes and a place for festival decorations.</p><p>Balconies get a drying rack, a tap and a light, which makes daily chores easier.</p>"
+    ],
+    "process": [
+      "How We Plan Your Home",
+      "<p>We prefer to meet the whole family at home, often on a weekend, so everyone can say what they need. Our residential interior design team then returns with plans for each room, 3D views and a budget split room by room, so it is easy to see where money goes.</p><p>A supervisor manages the site, sends updates and does a final walk-through with you before you move in.</p>"
+    ],
+    "whyHeading": "Why Pitampura Families Trust Our Residential Interior Design",
+    "whyIntro": "<p>Every family is different. We take time to listen to each member before suggesting a plan, and we respect your budget at every step. Our quotes show options at different price points, so you can choose.</p>",
+    "whyText": [
+      "Experience with flats, kothis and rebuilt floors.",
+      "Designs shaped by your family's daily habits.",
+      "Hassle-free management from 3D views to handover."
+    ],
+    "whyMore": [
+      [
+        "Safe Homes for Elders",
+        "Grab bars, non-slip floors and night lighting."
+      ],
+      [
+        "Separate Floors, Shared Style",
+        "Each unit complete, the building unified."
+      ]
+    ],
+    "galleryText": "Family homes from our portfolio in Gujranwala Town and Model Town.",
+    "closingHeading": "A Home Where Everyone Belongs",
+    "closing": "<p>The best homes give each person space and still bring the family together. Careful residential interior design makes that balance possible.</p><p>Planning a home in Pitampura? <a href=\"/pitampura/contact\">Invite 9th Corner over for a chat</a>.</p>"
+  },
+  "services-top-interior-design-firm": {
+    "introHeading": "A Reliable Partner for North-West Delhi Projects",
+    "intro": "<p>Clients in Pitampura look for a top interior design firm that can deliver on time, within budget and without constant follow-up. Projects here range from DDA flats and rebuilt kothis to NSP offices and showrooms. What they share is a need for clear planning, skilled site work and honest communication.</p>",
+    "cards": [
+      [
+        "Homes and Family Floors",
+        "<p>For homes, the kitchen, wardrobes, bathrooms and living spaces are drawn together, and every trade on site works from the same set of drawings. Family needs, from elders' safety to children's study spaces, are built into the design from the start.</p><p>We also help with furniture, furnishings and décor for a ready-to-live home.</p><p>For rebuilt kothis, we coordinate with the civil contractor so interiors start the day the structure is ready.</p>"
+      ],
+      [
+        "Offices, Showrooms and Clinics",
+        "<p>Commercial projects need speed and care. A top interior design firm schedules work around your business, coordinates with building management and keeps quality consistent across the whole space.</p><p>We work after hours in occupied buildings when management requires it.</p>"
+      ]
+    ],
+    "features": [
+      "How We Keep Projects on Track",
+      "<p>Nothing is built until the drawings are complete and you have approved the materials in writing. A trained site engineer is present every working day. Work is inspected after carpentry, again after electrical work and once more after painting. You receive photos every week, and our team only leaves once every pending point on the final checklist is fixed.</p><p>We also share a list of brands and warranties at the end.</p><p>Before work begins, neighbours are informed about the schedule, and the common stair is protected with sheets so it stays clean.</p>"
+    ],
+    "process": [
+      "From Brief to Handover",
+      "<p>Our process has five clear stages: brief, design, approvals, site work and handover. As a top interior design firm, we close each stage with your sign-off, so nothing important is left open.</p><p>Requests for changes are welcome, but each one comes with its effect on cost and time spelled out before work continues.</p>"
+    ],
+    "whyHeading": "What Makes Us a Top Interior Design Firm for Pitampura",
+    "whyIntro": "<p>We believe good projects come from good habits. Clear plans, regular updates and fair pricing are part of every job we take on. When something goes wrong, we own it and fix it. Our quotes are itemised, so you can compare them fairly.</p>",
+    "whyText": [
+      "A trained team for homes, offices and retail spaces.",
+      "Solutions sized to your space, budget and needs.",
+      "Close follow-up until the keys are handed over."
+    ],
+    "whyMore": [
+      [
+        "Trained Site Engineers",
+        "Daily supervision by people who know the work."
+      ],
+      [
+        "Weekly Photo Reports",
+        "Progress you can see without visiting."
+      ]
+    ],
+    "galleryText": "Completed work by our team in Karol Bagh and Ashok Vihar.",
+    "closingHeading": "Choose a Firm That Delivers",
+    "closing": "<p>A top interior design firm is measured by how well it finishes. We aim to deliver every project in Pitampura with the same care from start to end.</p><p>Have a project to discuss? <a href=\"/pitampura/contact\">Connect with 9th Corner</a>.</p>"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "h1": "Modern Interior Design in Pitampura, Delhi",
+  "heroImage": "'/img/e2.avif'",
+  "intro": "<p>Our modern interior design services in Pitampura, Delhi prioritize the art of simplicity, elegance, and high-performance functionality. We craft interiors characterized by clean architectural lines, sophisticated neutral palettes, and avant-garde contemporary furniture—creating spaces that feel expansive, organized, and visually serene even in the heart of North Delhi’s urban landscape.</p>",
+  "philosophyHeading": "Balancing Style with Practicality",
+  "philosophy": "<p>\"We design homes, corporate offices, and retail spaces that fuse high-end aesthetic appeal with effortless everyday usability. From intelligent spatial flow and ergonomic furniture to automated lighting and curated décor, every element is precision-engineered to create a cohesive, modern environment tailored specifically to your needs.\"</p>",
+  "cards": [
+    [
+      "Minimalist Mastery",
+      "Creating layouts that achieve maximum impact through intentional negative space and a \"less is more\" architectural approach."
+    ],
+    [
+      "Material Innovation",
+      "Expert application of industrial-sleek materials—glass, polished concrete, and brushed metals—integrated with warm natural textures for a balanced feel."
+    ],
+    [
+      "Ergonomic Intelligence",
+      "Modern interior design with the human body in mind, ensuring that every modern piece of furniture and fixture supports health, comfort, and productivity."
+    ]
+  ],
+  "reasons": [
+    "Masters of Contemporary Design Principles and Urban Minimalism",
+    "Customized Solutions Across Residential, Office, and Retail Sectors",
+    "Professional End-to-End Project Handling with Turnkey Precision"
+  ],
+  "cta": "Ready to inhabit the future? Partner with Pitampura’s premier modern design specialists to build a space that transcends time.",
+  "faq": "<!-- FAQS:auto -->\n        <section class=\"faq-section\">\n            <h2>Frequently Asked Questions</h2>\n            <div class=\"faq-list\">\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">What is modern interior design for a Pitampura home?</h3>\n                    <p class=\"faq-a\">Clean lines, an open layout, neutral colours and practical furniture. It suits builder floors, where it makes rooms feel more spacious.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Can a modern home include a puja room?</h3>\n                    <p class=\"faq-a\">Yes. A puja room can be designed in a simple, modern style with good lighting and storage, so it fits the rest of the home.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Is modern design good for offices too?</h3>\n                    <p class=\"faq-a\">Yes. Simple layouts, good lighting and durable modern finishes work well for offices, clinics and showrooms.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">How do you add warmth to modern interior design?</h3>\n                    <p class=\"faq-a\">Wood, fabric, warm lighting and a few personal pieces keep a modern home from feeling cold.</p>\n                </div>\n            </div>\n        </section>\n        <!-- /FAQS:auto -->"
+}

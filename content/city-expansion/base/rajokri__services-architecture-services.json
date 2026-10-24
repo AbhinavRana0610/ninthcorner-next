@@ -1,0 +1,28 @@
+{
+  "h1": "Architecture Services in Rajokri, Delhi",
+  "heroImage": "'/img/p1.avif'",
+  "intro": "<p>Our architecture services in Rajokri, Delhi provide residential, commercial, and institutional designs that are profoundly functional, sustainable, and visually striking. We integrate modern structural techniques, smart urban planning, and eco-friendly solutions to deliver projects that not only meet current needs but stand the test of time as landmarks of excellence.</p>",
+  "philosophyHeading": "Comprehensive Architectural Design",
+  "philosophy": "<p>\"We offer end-to-end services including master planning, high-fidelity 3D visualization, structural engineering, and rigorous project management. Our goal is to bridge the gap between imagination and reality, creating spaces that are practical, beautiful, and perfectly aligned with your long-term vision.\"</p>",
+  "cards": [
+    [
+      "Multi-Sector Expertise",
+      "Our architecture services design diverse structures across residential, commercial, and institutional sectors with a focus on structural harmony."
+    ],
+    [
+      "Advanced Visualization",
+      "Utilizing 3D modeling and immersive walkthroughs to ensure every design detail is perfected before construction begins."
+    ],
+    [
+      "Sustainable Innovation",
+      "Integrating green building materials and energy-efficient systems to create environmentally responsible and cost-effective designs."
+    ]
+  ],
+  "reasons": [
+    "Experienced Architects for Complex & Large-Scale Projects",
+    "Tailored Solutions for Structural & Aesthetic Excellence",
+    "Complete Management from Concept to Turnkey Handover"
+  ],
+  "cta": "Ready to build the future? Partner with Rajokri's leading architectural firm to bring your next landmark project to life.",
+  "faq": "<!-- FAQS:auto -->\n        <section class=\"faq-section\">\n            <h2>Frequently Asked Questions</h2>\n            <div class=\"faq-list\">\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">What architecture services do you provide in Rajokri?</h3>\n                    <p class=\"faq-a\">Planning, elevations, working drawings and consultant coordination for farmhouses, independent houses, commercial buildings and event spaces.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Can you design a farmhouse from the ground up?</h3>\n                    <p class=\"faq-a\">Yes. We plan the main house, guest areas, lawns, driveways and service blocks so the whole property works together.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Do you plan for privacy on large plots?</h3>\n                    <p class=\"faq-a\">Yes. Building placement, boundary design and landscaping are planned to keep private areas away from roads and neighbours.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Why choose architecture services and interiors together?</h3>\n                    <p class=\"faq-a\">Designing both at once means windows, ceilings, lighting and furniture are planned as one, with fewer changes during construction.</p>\n                </div>\n            </div>\n        </section>\n        <!-- /FAQS:auto -->"
+}

@@ -1,0 +1,28 @@
+{
+  "h1": "Architecture Services in Chhattarpur, Delhi",
+  "heroImage": "'/img/p1.avif'",
+  "intro": "<p>Our architecture services in Chhattarpur, Delhi provide residential, commercial, and institutional designs that are functional, sustainable, and visually appealing. We integrate modern techniques, smart planning, and eco-friendly solutions to deliver projects that stand the test of time. We believe in building structures that are as durable as they are beautiful.</p>",
+  "philosophyHeading": "Comprehensive Architectural Design",
+  "philosophy": "<p>\"We offer detailed planning, immersive 3D visualization, precise structural design, and expert project management. Our goal is to ensure precision and quality throughout the entire building process, creating spaces that are practical, beautiful, and perfectly aligned with your unique vision.\"</p>",
+  "cards": [
+    [
+      "Multi-Sector Expertise",
+      "Specialized architecture services for high-end residential homes, expansive commercial hubs, and modern institutional buildings."
+    ],
+    [
+      "3D Modeling",
+      "Advanced 3D modeling and photorealistic visualization that allow you to explore every angle of your building before the first stone is laid."
+    ],
+    [
+      "Sustainable Innovation",
+      "Implementing eco-friendly materials and energy-efficient designs to create sustainable structures that minimize environmental impact."
+    ]
+  ],
+  "reasons": [
+    "Experienced Architects for Diverse Building Projects",
+    "Tailored Solutions for Aesthetic and Structural Needs",
+    "Complete Project Management from Concept to Completion"
+  ],
+  "cta": "Building the future of Chhattarpur. Partner with our architectural team to turn your structural blueprints into a lasting landmark.",
+  "faq": "<!-- FAQS:auto -->\n        <section class=\"faq-section\">\n            <h2>Frequently Asked Questions</h2>\n            <div class=\"faq-list\">\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">What do your architecture services in Chhattarpur include?</h3>\n                    <p class=\"faq-a\">They cover site study, planning, elevations, working drawings and coordination with structural and MEP consultants. For farmhouses and independent homes, we also plan landscape, driveways and outdoor areas along with the building.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Do you design farmhouses and large plots in Chhattarpur?</h3>\n                    <p class=\"faq-a\">Yes. Farmhouses are a large part of the area, and we plan them so that the main house, guest rooms, lawns and service areas work together and stay comfortable through Delhi summers.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Can architecture and interior design be handled by one team?</h3>\n                    <p class=\"faq-a\">Yes. When the same team handles architecture services and interiors, window positions, ceiling heights, lighting points and furniture are planned together, which avoids changes and breakage later.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">How does a project start?</h3>\n                    <p class=\"faq-a\">It starts with a meeting and a site visit. We understand the brief, the plot and the budget, then share a concept layout before moving to detailed drawings.</p>\n                </div>\n            </div>\n        </section>\n        <!-- /FAQS:auto -->"
+}

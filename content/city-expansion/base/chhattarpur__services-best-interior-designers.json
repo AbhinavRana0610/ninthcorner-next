@@ -1,0 +1,28 @@
+{
+  "h1": "Best Interior Designers in Chhattarpur, Delhi",
+  "heroImage": "'/img/bb1.avif'",
+  "intro": "<p>Recognized as the best interior designers in Chhattarpur, Delhi, we specialize in creating spaces that leave a lasting impression. Every project is approached with creativity, precision, and an eye for detail. Whether it’s a cozy home, a modern office, or a luxury showroom, our designs seamlessly blend aesthetics, comfort, and functionality.</p>",
+  "philosophyHeading": "Personalized Designs for Every Client",
+  "philosophy": "<p>\"We focus on understanding your preferences, lifestyle, and brand identity to craft interiors that truly resonate with you. From conceptualization to execution, our team ensures each space is customized, practical, and visually appealing, setting new standards for design excellence in Chhattarpur.\"</p>",
+  "cards": [
+    [
+      "Client-Focused",
+      "Delivering personalized and client-focused designs that reflect your unique vision and lifestyle needs."
+    ],
+    [
+      "Innovative Design",
+      "Innovative use of space, lighting, and premium materials to create atmosphere and depth in every room."
+    ],
+    [
+      "Stylish & Functional",
+      "Creating stylish yet highly functional interiors that balance modern elegance with day-to-day practicality."
+    ]
+  ],
+  "reasons": [
+    "Extensive Residential & Commercial Experience",
+    "Creative Solutions Tailored to You",
+    "Seamless Execution & High-Quality Finishes"
+  ],
+  "cta": "Experience the perfect blend of luxury and utility. Partner with the best interior designers in Chhattarpur, Delhi, to bring your vision to life.",
+  "faq": "<!-- FAQS:auto -->\n        <section class=\"faq-section\">\n            <h2>Frequently Asked Questions</h2>\n            <div class=\"faq-list\">\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">How do I choose the best interior designers in Chhattarpur?</h3>\n                    <p class=\"faq-a\">Look at completed projects, not only renders. Ask how the team handles drawings, material selection and site supervision, and whether one person stays responsible for your project from concept to handover.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">What kind of projects do you handle in Chhattarpur?</h3>\n                    <p class=\"faq-a\">We design farmhouses, independent homes, apartments, offices, salons and showrooms. Each project gets its own layout, material palette and lighting plan rather than a fixed package.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Will I see the design before work starts?</h3>\n                    <p class=\"faq-a\">Yes. You see layouts, mood boards and 3D views first. Work on site starts only after you approve the design and the materials.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">What makes 9th Corner one of the best interior designers for South Delhi homes?</h3>\n                    <p class=\"faq-a\">We stay involved from the first sketch to the final installation, so what you approve on paper is what gets built on site.</p>\n                </div>\n            </div>\n        </section>\n        <!-- /FAQS:auto -->"
+}

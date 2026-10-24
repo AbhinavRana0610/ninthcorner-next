@@ -1,0 +1,28 @@
+{
+  "h1": "Interior Designer for Office in Hauz Khas, Delhi",
+  "heroImage": "'/img/e1.avif'",
+  "intro": "<p>As an interior designer for office spaces in Hauz Khas, Delhi, we design offices that enhance operational efficiency, embody your brand values, and prioritize employee comfort. From high-stakes corporate headquarters to creative co-working spaces, we create professional, functional, and visually compelling work environments that foster collaboration and excellence.</p>",
+  "philosophyHeading": "Smart and Functional Office Interiors",
+  "philosophy": "<p>\"Our approach focuses on high-performance ergonomic layouts, modern modular furniture, and smart lighting systems. Each office we design is a tailored ecosystem built to improve workflow, nurture creativity, and leave a lasting professional impression on both clients and employees.\"</p>",
+  "cards": [
+    [
+      "Productivity Layouts",
+      "Strategic spatial planning that balances open collaboration areas with \"deep work\" zones to minimize distractions and optimize output."
+    ],
+    [
+      "Ergonomic Wellness",
+      "Integrating adjustable furniture and circadian lighting systems that reduce physical strain and keep teams energized throughout the workday."
+    ],
+    [
+      "Brand Identity Design",
+      "Infusing your office with bespoke architectural elements and color palettes that physically manifest your brand’s mission and culture."
+    ]
+  ],
+  "reasons": [
+    "Specialized in High-Performance Corporate & Commercial Interiors",
+    "Customized Solutions for Hybrid & Modern Workspace Needs",
+    "End-to-End Project Management from Blueprints to Handover"
+  ],
+  "cta": "Ready to redefine your work culture? Partner with Hauz Khas's leading interior designer for office projects to build a workspace that works for you.",
+  "faq": "<!-- FAQS:auto -->\n        <section class=\"faq-section\">\n            <h2>Frequently Asked Questions</h2>\n            <div class=\"faq-list\">\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Why hire an interior designer for office space in Hauz Khas?</h3>\n                    <p class=\"faq-a\">Many Hauz Khas offices are in converted buildings or upper floors with odd layouts. A designer makes the most of the space while keeping it comfortable for the team.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Can you design creative studios and agencies?</h3>\n                    <p class=\"faq-a\">Yes. Studios need open work areas, quiet corners, display walls and good natural light, and we plan the space around how your team collaborates.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">How do you handle wiring and networking?</h3>\n                    <p class=\"faq-a\">Power, data and lighting points are planned with the furniture layout, so cables stay hidden and workstations can be moved later if needed.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">What does an interior designer for office projects deliver?</h3>\n                    <p class=\"faq-a\">Layouts, 3D views, furniture and finish selections, drawings for contractors and site supervision until the office is ready to use.</p>\n                </div>\n            </div>\n        </section>\n        <!-- /FAQS:auto -->"
+}

@@ -1,0 +1,28 @@
+{
+  "h1": "Interior Designer for Office in Pitampura, Delhi",
+  "heroImage": "'/img/e1.avif'",
+  "intro": "<p>As an interior designer for office projects in Pitampura, Delhi, we design high-performance offices that enhance operational efficiency, reflect your unique brand identity, and prioritize employee comfort. From corporate headquarters to agile co-working hubs, we create professional, functional, and visually compelling work environments that drive business growth.</p>",
+  "philosophyHeading": "Smart and Functional Office Interiors",
+  "philosophy": "<p>\"Our design methodology focuses on ergonomic layouts, modern architectural furniture, and smart human-centric lighting. Every square foot is tailored to optimize workflow, foster deep creativity, and leave a powerful impression on both clients and talent alike.\"</p>",
+  "cards": [
+    [
+      "Productivity Optimization",
+      "An interior designer for office teams plans space to minimize noise pollution and distraction, facilitating both collaborative energy and focused deep work."
+    ],
+    [
+      "Ergonomic Excellence",
+      "Curating furniture and standing-desk solutions that support posture and health, reducing workplace fatigue and increasing long-term output."
+    ],
+    [
+      "Brand-Focused Identity",
+      "Integrating your company’s core values and color psychology into the physical décor to strengthen brand culture and client trust."
+    ]
+  ],
+  "reasons": [
+    "Proven Expertise in Corporate & High-Traffic Commercial Architecture",
+    "Customized Solutions Scaled for Startups and Global Enterprises",
+    "Complete Turnkey Project Management from Blueprint to Handover"
+  ],
+  "cta": "Ready to transform your workspace into a talent magnet? Partner with Pitampura’s leading office design specialists to redefine your work culture.",
+  "faq": "<!-- FAQS:auto -->\n        <section class=\"faq-section\">\n            <h2>Frequently Asked Questions</h2>\n            <div class=\"faq-list\">\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Do you work as an interior designer for office spaces in Pitampura?</h3>\n                    <p class=\"faq-a\">Yes. We design offices in Netaji Subhash Place, Pitampura and nearby business districts, from small suites to full floors.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">How do you plan a small office suite?</h3>\n                    <p class=\"faq-a\">We use compact workstations, a shared meeting space, wall storage and glass partitions to keep the office open and bright.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Can you redesign an office without stopping work?</h3>\n                    <p class=\"faq-a\">Yes. Work can be scheduled in phases or after hours so your team keeps working during the change.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">What does an interior designer for office projects provide?</h3>\n                    <p class=\"faq-a\">Layouts, 3D views, furniture and finish selections, drawings for contractors and supervision until the office is ready.</p>\n                </div>\n            </div>\n        </section>\n        <!-- /FAQS:auto -->"
+}

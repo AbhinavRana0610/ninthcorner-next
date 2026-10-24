@@ -1,0 +1,28 @@
+{
+  "h1": "Architecture Services in Karnal, Haryana",
+  "heroImage": "'/img/p1.avif'",
+  "intro": "<p>Our architecture services in Karnal, Haryana, specialize in high-performance residential, commercial, and institutional designs. We bridge the gap between aesthetic ambition and structural feasibility, integrating modern engineering techniques with eco-friendly solutions to deliver projects that redefine the regional skyline and stand the test of time.</p>",
+  "philosophyHeading": "Comprehensive Architectural Design",
+  "philosophy": "<p>\"From master planning and structural engineering to photorealistic 3D visualization, we ensure precision at every stage. Our mission is to architect spaces that are not only beautiful but also culturally relevant, sustainable, and perfectly aligned with your long-term vision.\"</p>",
+  "cards": [
+    [
+      "Multi-Sector Mastery",
+      "Architectural leadership across luxury villas, corporate high-rises, and institutional complexes, ensuring full compliance with local Haryana building bylaws."
+    ],
+    [
+      "Advanced 3D BIM",
+      "Our architecture services use Building Information Modeling (BIM) to provide precise 3D visualizations, allowing for early-stage error detection and better spatial understanding."
+    ],
+    [
+      "Sustainable Innovation",
+      "Focusing on passive cooling, rainwater harvesting, and locally-sourced materials to reduce environmental impact and operational costs."
+    ]
+  ],
+  "reasons": [
+    "Elite Team of Architects for Diverse Residential & Commercial Ventures",
+    "Tailored Engineering Solutions for Unique Functional Requirements",
+    "End-to-End Management from Preliminary Sketches to Final Occupancy"
+  ],
+  "cta": "Ready to architect your future? Partner with Karnal’s premier architectural firm to bring your vision to life.",
+  "faq": "<!-- FAQS:auto -->\n        <section class=\"faq-section\">\n            <h2>Frequently Asked Questions</h2>\n            <div class=\"faq-list\">\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">What architecture services do you offer in Karnal?</h3>\n                    <p class=\"faq-a\">Planning, elevations, working drawings and consultant coordination for independent houses, kothis, commercial buildings and farmhouses.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Can you design a large independent house or kothi?</h3>\n                    <p class=\"faq-a\">Yes. We plan family areas, guest rooms, puja room, courtyards, terraces and parking so the house works for joint families and visiting relatives.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Do you plan for local weather?</h3>\n                    <p class=\"faq-a\">Yes. Orientation, shading, cross-ventilation and insulation are planned to handle hot summers and cold winters in Haryana.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Why choose architecture services and interiors from one firm?</h3>\n                    <p class=\"faq-a\">The building and the interiors are designed together, so room sizes, windows, lighting and furniture fit each other and changes during construction are fewer.</p>\n                </div>\n            </div>\n        </section>\n        <!-- /FAQS:auto -->"
+}

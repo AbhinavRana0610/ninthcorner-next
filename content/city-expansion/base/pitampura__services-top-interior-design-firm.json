@@ -1,0 +1,28 @@
+{
+  "h1": "Top Interior Design Firm in Pitampura, Delhi",
+  "heroImage": "'/img/bbb4.avif'",
+  "intro": "<p>As the top interior design firm in Pitampura, Delhi, we specialize in creating innovative, elegant, and functional interiors for residential, commercial, and luxury projects. Every design is crafted to reflect your personality, brand, and lifestyle, seamlessly combining aesthetics with practicality. With meticulous planning and expert execution, we bring your dream interiors to life.</p>",
+  "philosophyHeading": "Comprehensive Design Solutions for Every Project",
+  "philosophy": "<p>\"From modern apartments and luxury villas to corporate offices and boutique showrooms, we provide tailored solutions that meet diverse requirements. Our team integrates contemporary trends, premium materials, and smart layouts to deliver spaces that are visually stunning and highly functional.\"</p>",
+  "cards": [
+    [
+      "Innovative Concepts",
+      "As a top interior design firm, we develop unique design narratives that prioritize spatial flow and modern aesthetics tailored to North Delhi urban living."
+    ],
+    [
+      "Premium Selection",
+      "Curating high-end finishes, bespoke furniture, and architectural lighting that define the \"Luxury Standard\" in Pitampura."
+    ],
+    [
+      "Flawless Execution",
+      "Meticulous project management ensuring that the final physical space matches the photorealistic 3D visualization perfectly."
+    ]
+  ],
+  "reasons": [
+    "Elite Team of Experienced & Professional Designers",
+    "Tailored Solutions Scaled for Every Project Size",
+    "Hassle-Free End-to-End Management & Turnkey Delivery"
+  ],
+  "cta": "Ready to elevate your property? Partner with the leading design firm in Pitampura to create a space that inspires.",
+  "faq": "<!-- FAQS:auto -->\n        <section class=\"faq-section\">\n            <h2>Frequently Asked Questions</h2>\n            <div class=\"faq-list\">\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">What makes a top interior design firm in Pitampura?</h3>\n                    <p class=\"faq-a\">Good design, honest advice, detailed drawings and a team that is close by and visits the site regularly.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Do you work across North and West Delhi?</h3>\n                    <p class=\"faq-a\">Yes. From our Pitampura office we work in Rohini, Shalimar Bagh, Model Town, Punjabi Bagh and the wider Delhi NCR.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Can I see your past projects?</h3>\n                    <p class=\"faq-a\">Yes. We share photos and details of completed homes, offices and salons, and you can see them in our gallery.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Why choose a top interior design firm over individual vendors?</h3>\n                    <p class=\"faq-a\">One firm coordinates design, materials and vendors, so you don't have to manage many people and the result stays consistent.</p>\n                </div>\n            </div>\n        </section>\n        <!-- /FAQS:auto -->"
+}

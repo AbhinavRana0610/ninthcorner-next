@@ -1,0 +1,28 @@
+{
+  "h1": "Architecture Services in Hauz Khas, Delhi",
+  "heroImage": "'/img/p1.avif'",
+  "intro": "<p>Our architecture services in Hauz Khas, Delhi provide specialized residential, commercial, and institutional designs that are profoundly functional and visually stunning. We integrate advanced modern construction techniques, smart spatial planning, and eco-friendly solutions to deliver structural projects that harmonize with Delhi's unique urban fabric and stand the test of time.</p>",
+  "philosophyHeading": "Comprehensive Architectural Design",
+  "philosophy": "<p>\"We offer a master-suite of services including site planning, photorealistic 3D visualization, structural engineering, and end-to-end project management. Our mission is to bridge the gap between architectural art and practical engineering, ensuring your vision is executed with technical precision.\"</p>",
+  "cards": [
+    [
+      "Multi-Sector Expertise",
+      "Architectural leadership across high-end luxury residences, modern corporate hubs, and state-of-the-art institutional buildings."
+    ],
+    [
+      "Advanced 3D Modeling",
+      "Utilizing high-fidelity BIM and 3D visualization software to allow clients to experience volume, light, and materiality before breaking ground."
+    ],
+    [
+      "Sustainable Innovation",
+      "Integrating passive cooling, renewable energy solutions, and sustainable material sourcing to create carbon-efficient modern structures."
+    ]
+  ],
+  "reasons": [
+    "Experienced Architects for Complex Urban & Greenfield Projects",
+    "Tailored Structural Solutions for Aesthetic & Functional Demands",
+    "Complete Project Management from Concept to Turnkey Completion"
+  ],
+  "cta": "Ready to build the future? Partner with Hauz Khas's premier firm for architecture services to design a structure that defines its environment.",
+  "faq": "<!-- FAQS:auto -->\n        <section class=\"faq-section\">\n            <h2>Frequently Asked Questions</h2>\n            <div class=\"faq-list\">\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">What do your architecture services in Hauz Khas cover?</h3>\n                    <p class=\"faq-a\">We handle planning, elevations, working drawings and coordination with structural and services consultants for builder floors, independent houses and commercial buildings.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Can you redevelop an old house into builder floors?</h3>\n                    <p class=\"faq-a\">Yes. Many South Delhi plots are being rebuilt as floors. We plan each floor so it gets good light, ventilation, parking and privacy within the permitted building envelope.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Do you help with building plan approvals?</h3>\n                    <p class=\"faq-a\">We prepare the drawings needed for approvals and coordinate with your consultant or liaison agent on the submission process.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Why combine architecture services with interior design?</h3>\n                    <p class=\"faq-a\">Planning the building and the interiors together fixes window sizes, ceiling heights, electrical points and furniture early, which avoids expensive changes once construction starts.</p>\n                </div>\n            </div>\n        </section>\n        <!-- /FAQS:auto -->"
+}

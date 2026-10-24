@@ -1,0 +1,28 @@
+{
+  "h1": "Modern Interior Design in Karnal, Haryana",
+  "heroImage": "'/img/e2.avif'",
+  "intro": "<p>Our modern interior design services in Karnal focus on the intersection of simplicity and luxury. We specialize in crafting environments defined by clean lines, neutral sophisticated palettes, and contemporary furniture. Our goal is to create spaces that breathe—feeling organized, spacious, and visually serene.</p>",
+  "philosophyHeading": "Balancing Style with Practicality",
+  "philosophy": "<p>\"We design residential and commercial spaces that merge avant-garde aesthetics with daily utility. Every element—from open-plan layouts to recessed architectural lighting—is curated to create a cohesive, modern environment tailored specifically to the North Indian lifestyle.\"</p>",
+  "cards": [
+    [
+      "Minimalist Mastery",
+      "Creating high-impact layouts using a 'less is more' approach, emphasizing quality materials over clutter to achieve a feeling of calm luxury."
+    ],
+    [
+      "Material Innovation",
+      "Integrating industrial and natural elements—metal, glass, and raw wood—to provide texture and depth to modern, monochromatic schemes."
+    ],
+    [
+      "Ergonomic Flow",
+      "Modern interior design that supports natural human movement, ensuring that beauty never compromises the comfort of your living or work experience."
+    ]
+  ],
+  "reasons": [
+    "Specialists in International Contemporary Design Principles",
+    "Customized Solutions for Luxury Homes and Corporate Hubs",
+    "Seamless End-to-End Project Handling and On-Site Management"
+  ],
+  "cta": "Ready to embrace the modern standard? Partner with Karnal’s premier contemporary designers today.",
+  "faq": "<!-- FAQS:auto -->\n        <section class=\"faq-section\">\n            <h2>Frequently Asked Questions</h2>\n            <div class=\"faq-list\">\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">What is modern interior design for a home in Karnal?</h3>\n                    <p class=\"faq-a\">Clean lines, open layouts, a calm colour palette and practical furniture. It suits new independent houses that want a fresh, uncluttered look.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Can modern design suit a joint family home?</h3>\n                    <p class=\"faq-a\">Yes. Modern layouts can include more storage, flexible seating and separate private areas, so they work well for large families.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Is a modern home more expensive to build?</h3>\n                    <p class=\"faq-a\">Not necessarily. Simple forms and fewer decorative details can even reduce cost. The budget depends mostly on materials and fittings.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">How long does modern interior design last before it looks dated?</h3>\n                    <p class=\"faq-a\">Because it relies on simple forms and good materials rather than trends, a well-done modern interior stays fresh for many years.</p>\n                </div>\n            </div>\n        </section>\n        <!-- /FAQS:auto -->"
+}

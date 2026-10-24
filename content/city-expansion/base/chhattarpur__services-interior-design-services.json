@@ -1,0 +1,28 @@
+{
+  "h1": "Interior Design Services in Chhattarpur, Delhi",
+  "heroImage": "'/img/cos5.avif'",
+  "intro": "<p>Our interior design services in Chhattarpur, Delhi cover residential, commercial, and luxury spaces. We provide complete solutions from conceptualization to execution, ensuring every project is visually stunning, functional, and personalized. Our expertise includes space planning, material selection, furniture design, lighting design, and meticulous project management.</p>",
+  "philosophyHeading": "Tailored Designs for Every Space",
+  "philosophy": "<p>\"We take a holistic approach, combining creativity with practicality. By understanding your lifestyle or brand requirements, we craft interiors that are not only aesthetically pleasing but also functional and sustainable, enhancing comfort, usability, and value for our clients in Chhattarpur.\"</p>",
+  "cards": [
+    [
+      "End-to-End Delivery",
+      "Complete interior design services, handling everything from the initial sketch to the final handover."
+    ],
+    [
+      "Versatile Expertise",
+      "Providing highly customized solutions for diverse environments, including family homes, corporate offices, and retail hubs."
+    ],
+    [
+      "3D Visualization",
+      "Advanced space planning and 3D visualization to help you experience your new interior before construction begins."
+    ]
+  ],
+  "reasons": [
+    "Experienced and Professional Interior Design Team",
+    "Attention to Detail and High-Quality Finishes",
+    "Seamless Management from Concept to Completion"
+  ],
+  "cta": "Ready to elevate your space? Partner with Chhattarpur’s leading design team for a seamless, professional, and inspired transformation.",
+  "faq": "<!-- FAQS:auto -->\n        <section class=\"faq-section\">\n            <h2>Frequently Asked Questions</h2>\n            <div class=\"faq-list\">\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Which interior design services do you offer in Chhattarpur?</h3>\n                    <p class=\"faq-a\">We offer space planning, concept design, 3D views, working drawings, material and furniture selection, lighting design and site supervision for homes, farmhouses and commercial spaces.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Can I take only the design and use my own contractor?</h3>\n                    <p class=\"faq-a\">Yes. You can take design and drawings only, or design with site supervision. We explain what each option includes before you decide.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">How are your design fees worked out?</h3>\n                    <p class=\"faq-a\">Fees depend on the size of the space, the scope of work and the level of detail. We share a clear proposal after the first meeting and site visit.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Why choose a full-service team for a farmhouse or large home?</h3>\n                    <p class=\"faq-a\">Large homes have many rooms, services and vendors. Full interior design services keep drawings, materials and site work under one team, so quality stays the same across the house.</p>\n                </div>\n            </div>\n        </section>\n        <!-- /FAQS:auto -->"
+}

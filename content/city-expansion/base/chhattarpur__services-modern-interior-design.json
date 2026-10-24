@@ -1,0 +1,28 @@
+{
+  "h1": "Modern Interior Design in Chhattarpur, Delhi",
+  "heroImage": "'/img/e2.avif'",
+  "intro": "<p>Our modern interior design services in Chhattarpur, Delhi focus on simplicity, elegance, and functionality. We craft interiors with clean lines, neutral palettes, and contemporary furniture, creating spaces that feel spacious, organized, and visually appealing. Whether it is a luxury villa or a compact apartment, we bring a fresh, modern perspective to every project.</p>",
+  "philosophyHeading": "Balancing Style with Practicality",
+  "philosophy": "<p>\"We design homes, offices, and commercial spaces that combine aesthetic appeal with everyday functionality. Every element, from layout and furniture to lighting and décor, is curated to create a cohesive, stylish, and modern environment tailored specifically to your lifestyle and needs.\"</p>",
+  "cards": [
+    [
+      "Minimalist Layouts",
+      "Strategic floor plans that provide maximum impact and openness while eliminating unnecessary clutter."
+    ],
+    [
+      "Innovative Materials",
+      "Expert application of contemporary materials and smart lighting to add texture, warmth, and modern character."
+    ],
+    [
+      "Ergonomic Design",
+      "Modern interior design that prioritizes human-centric, ergonomic furniture and layouts that enhance comfort without sacrificing style."
+    ]
+  ],
+  "reasons": [
+    "Contemporary Design Principles Experts",
+    "Customized Modern Solutions for Every Project",
+    "Comprehensive End-to-End Project Handling"
+  ],
+  "cta": "Elevate your environment with a modern touch. Partner with Chhattarpur's premier designers to create a space that is both forward-thinking and timeless.",
+  "faq": "<!-- FAQS:auto -->\n        <section class=\"faq-section\">\n            <h2>Frequently Asked Questions</h2>\n            <div class=\"faq-list\">\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">What is modern interior design?</h3>\n                    <p class=\"faq-a\">It uses clean lines, open layouts, a calm colour palette and furniture with simple forms. The focus is on light, space and practical storage rather than heavy decoration.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Can a farmhouse in Chhattarpur have a modern interior?</h3>\n                    <p class=\"faq-a\">Yes. A farmhouse can mix modern furniture and lighting with natural stone, wood and large windows, so it feels current while staying connected to the outdoors.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Is modern interior design easy to maintain?</h3>\n                    <p class=\"faq-a\">Usually yes. Fewer mouldings, flat surfaces and concealed storage make cleaning easier. We also choose finishes that suit Delhi's dust and heat.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Do you use modern design for offices as well?</h3>\n                    <p class=\"faq-a\">Yes. Offices, salons and showrooms also benefit from simple layouts, good lighting and durable modern finishes.</p>\n                </div>\n            </div>\n        </section>\n        <!-- /FAQS:auto -->"
+}

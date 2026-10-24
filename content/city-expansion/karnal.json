@@ -1,0 +1,562 @@
+{
+  "_about": "Karnal service pages rebuilt in the Delhi service-page layout (content/city-expansion/service-page.css) with extra local content. The page's own hero, intro, philosophy box, three feature cards, reason titles, CTA and FAQ are kept from the page; everything here is added. Applied by scripts/apply-city-expansion.mjs.",
+  "_gallery": {
+    "heading": "Our Completed Projects in Haryana",
+    "images": [
+      [
+        "/img/project/mr-vijay-singh-sonipat/mr-vijay-singh-sonipat/2.avif",
+        "Residence in Sonipat, Haryana by 9th Corner",
+        "Sonipat Residence"
+      ],
+      [
+        "/img/project/mr-umesh-jain-bhivani/mr-umesh-jain-bhivani/1.avif",
+        "Home in Bhiwani, Haryana by 9th Corner",
+        "Bhiwani Home"
+      ],
+      [
+        "/img/project/mr-virend-singh-gurgaon/mr-virend-singh-gurgaon/1.avif",
+        "House in Gurgaon, Haryana by 9th Corner",
+        "Gurgaon House"
+      ],
+      [
+        "/img/project/mr-vijay-singh-sonipat/mr-vijay-singh-sonipat/212.avif",
+        "Interior design in Sonipat, Haryana by 9th Corner",
+        "Sonipat Interior"
+      ],
+      [
+        "/img/project/mr-umesh-jain-bhivani/mr-umesh-jain-bhivani/103.avif",
+        "Interior project in Bhiwani, Haryana by 9th Corner",
+        "Bhiwani Interior"
+      ],
+      [
+        "/img/project/mr-vijay-singh-sonipat/mr-vijay-singh-sonipat/506.avif",
+        "Living space in Sonipat, Haryana by 9th Corner",
+        "Sonipat Living Space"
+      ],
+      [
+        "/img/project/mr-umesh-jain-bhivani/mr-umesh-jain-bhivani/v1.avif",
+        "Residence design in Bhiwani, Haryana by 9th Corner",
+        "Bhiwani Residence"
+      ],
+      [
+        "/img/project/mr-virend-singh-gurgaon/mr-virend-singh-gurgaon/2.avif",
+        "Home project in Gurgaon, Haryana by 9th Corner",
+        "Gurgaon Home"
+      ],
+      [
+        "/img/project/mr-vijay-singh-sonipat/mr-vijay-singh-sonipat/509.avif",
+        "Home interior in Sonipat, Haryana by 9th Corner",
+        "Sonipat Home Interior"
+      ],
+      [
+        "/img/project/mr-umesh-jain-bhivani/mr-umesh-jain-bhivani/72.avif",
+        "House interior in Bhiwani, Haryana by 9th Corner",
+        "Bhiwani House Interior"
+      ]
+    ]
+  },
+  "services-Salon-interior-designer": {
+    "introHeading": "Salons for Karnal's Growing Style Market",
+    "intro": "<p>Karnal has changed a lot in the last decade. Young professionals, college students and well-travelled families now expect the kind of salon they see in Chandigarh or Delhi. As a salon interior designer, we help local owners deliver that big-city feel in Karnal's sectors and market roads, at a cost that makes sense for a smaller city.</p>",
+    "cards": [
+      [
+        "Salons in Sector Markets and Main Roads",
+        "<p>Shops in the HSVP sector markets and along the main city roads are often wider than Delhi shops, with good frontage. We use that width for a strong glass front, a visible reception and a long run of stations under good light. Parking is easier here, so the entrance can be planned for clients arriving by car.</p><p>Inside, a warm, simple palette keeps the look current without dating quickly.</p>"
+      ],
+      [
+        "Wedding Makeup and Unisex Studios",
+        "<p>Weddings in Karnal and the nearby villages are large and frequent. A salon interior designer can plan a dedicated bridal room with a lit mirror, a comfortable chair, space for the bride's sisters and friends, and a clean backdrop for photos. Men's grooming, including beard styling and groom packages, gets its own corner.</p>"
+      ]
+    ],
+    "features": [
+      "Built for Haryana's Seasons",
+      "<p>Karnal summers are hot and dusty, and winters are cold and foggy. We plan good cooling, a sealed entrance that keeps dust out, and warm lighting and heating that make clients comfortable on a January morning. Hot water for wash basins is sized for winter use. Floors are easy to clean after a muddy monsoon day.</p><p>Inverter backup for lights and key tools keeps the salon running during power cuts.</p>"
+    ],
+    "process": [
+      "How We Build Your Salon",
+      "<p>We come to Karnal to see the shop, measure it and check water, drainage and power. Back in the studio, the salon interior designer on your project draws the station plan and 3D views, and prices every item clearly.</p><p>After approval, skilled local workers build it under our supervisor, and designers from Delhi inspect the finishes before the opening.</p>"
+    ],
+    "whyHeading": "Bringing a Delhi Salon Interior Designer to Karnal",
+    "whyIntro": "<p>Being based in Delhi gives us access to a wide range of materials, fittings and ideas. We bring these to Karnal while keeping your budget grounded in local costs.</p>",
+    "whyText": [
+      "Salon floors, spas and wellness rooms planned in detail.",
+      "Brand look and daily routine shaped together.",
+      "From blueprint to opening day, one team in charge."
+    ],
+    "whyMore": [
+      [
+        "Ready for Summer and Winter",
+        "Cooling, heating and hot water planned properly."
+      ],
+      [
+        "Big-City Look, Local Budget",
+        "Smart choices that keep costs in check."
+      ]
+    ],
+    "galleryText": "Interiors from our Haryana portfolio in Sonipat and Bhiwani.",
+    "closingHeading": "Set the Standard in Karnal",
+    "closing": "<p>Clients in Karnal now compare local salons with what they see on trips to Delhi and Chandigarh. A capable salon interior designer helps you match that standard close to home.</p><p>Planning a salon in Karnal? <a href=\"/karnal/contact\">Call 9th Corner</a> to discuss your shop.</p>"
+  },
+  "services-architecture-services": {
+    "introHeading": "Homes and Buildings for Karnal's Larger Plots",
+    "intro": "<p>Plots in Karnal are generally bigger than in Delhi, whether in the HSVP sectors, older colonies like Model Town or on agricultural land at the edge of the city. That extra space allows better homes, but only with good planning. Our architecture services help families and businesses use their land well, with buildings that suit the climate and last for generations.</p>",
+    "cards": [
+      [
+        "Kothis in the Sectors",
+        "<p>Many Karnal families build large kothis for joint living, with drawing rooms for guests, a big kitchen, several bedrooms and a terrace for winter sun. We plan the house so each generation has its own space, with a central courtyard or double-height lounge that brings everyone together.</p><p>Car porches, servant rooms and lawns are part of the same design, not afterthoughts.</p><p>Basements for storage or a home theatre are studied where soil and water levels allow.</p>"
+      ],
+      [
+        "Farmhouses and Commercial Buildings",
+        "<p>On the outskirts and along GT Road, clients build farmhouses, showrooms, warehouses and offices. Our architecture services cover site planning, structure, services and facades for each type, with access for trucks where needed and parking for customers.</p><p>Warehouses get high ceilings, wide doors and loading bays planned for trucks.</p>"
+      ]
+    ],
+    "features": [
+      "Designing for Heat, Fog and Rain",
+      "<p>Karnal has very hot summers and cold, damp winters. We orient homes to get winter sun and block harsh western light in summer. Thick walls, insulated roofs and shaded windows reduce cooling costs. Verandas and courtyards give pleasant outdoor space for much of the year. Proper plinth heights and drains protect against monsoon water.</p><p>Rainwater harvesting and solar panels are included where the site allows.</p><p>Boundary walls and gates are designed along with the house.</p>"
+    ],
+    "process": [
+      "How We Work on Karnal Projects",
+      "<p>We start with a visit to the plot, a survey and a long discussion with the family about how they want to live. Concept plans and 3D models follow, then full drawings for structure, plumbing and electrical work.</p><p>During construction, our architecture services include planned site visits from Delhi at key stages, regular photo reports and close coordination with your local contractor.</p>"
+    ],
+    "whyHeading": "What Our Architecture Services Offer Karnal Clients",
+    "whyIntro": "<p>Working with an architect from Delhi should not slow your project down. We plan visits in advance, respond quickly on calls and keep drawings clear enough for local teams to follow. Any site question gets an answer the same day.</p>",
+    "whyText": [
+      "Experience with homes, farmhouses and commercial buildings.",
+      "Designs that meet your functional needs and local conditions.",
+      "Support from early sketches to the day you move in."
+    ],
+    "whyMore": [
+      [
+        "Clear Drawings for Local Builders",
+        "Easy for your contractor to follow."
+      ],
+      [
+        "Climate-Aware Homes",
+        "Comfortable in May heat and January fog."
+      ]
+    ],
+    "galleryText": "Homes from our Haryana work in Sonipat and Bhiwani.",
+    "closingHeading": "Build Once, Build Right",
+    "closing": "<p>A house in Karnal is usually built to last for generations. Thoughtful architecture services make sure it stays comfortable, strong and easy to maintain over all those years.</p><p>Have a plot in Karnal? <a href=\"/karnal/contact\">Discuss it with 9th Corner</a>.</p>"
+  },
+  "services-best-interior-designers": {
+    "introHeading": "Finding Good Interior Design in Karnal",
+    "intro": "<p>For a long time, Karnal families relied on local carpenters and contractors for interiors. Now, more homeowners want a professional design team. If you are searching for the best interior designers to work on your Karnal home, look for a firm that can bring fresh ideas and still deliver smoothly in a city a few hours from Delhi.</p>",
+    "cards": [
+      [
+        "Large Family Kothis",
+        "<p>Karnal homes are often spacious, with big drawing rooms, several bedrooms and wide verandas. We plan each room to feel comfortable rather than empty, with furniture to scale, warm lighting and storage that fits the family's needs. A strong entrance, a well-planned kitchen and good bathrooms make the biggest difference to daily life.</p><p>Puja rooms and guest rooms are designed with the same care as the main spaces.</p>"
+      ],
+      [
+        "Shops, Clinics and Offices",
+        "<p>Business owners in Karnal also want spaces that look modern and professional. The best interior designers for commercial work plan for customer flow, display, staff areas and branding, and keep the space easy to clean and maintain.</p>"
+      ]
+    ],
+    "features": [
+      "What Good Design Adds",
+      "<p>A professional designer looks at the whole home, not one room at a time. That means matching colours and materials across spaces, planning electrical points before walls are finished, and sizing furniture before it is ordered. These steps avoid costly mistakes and give a finished, connected look that is hard to get by working room by room with different contractors.</p><p>It also means one person you can call with questions, instead of five different workers.</p>"
+    ],
+    "process": [
+      "How We Work With Karnal Families",
+      "<p>We visit the home, measure each room and spend time with the family. We return with layouts, colour ideas and 3D views, and adjust them with you until everyone agrees. Once the design and budget are final, our supervisor manages local craftsmen on site.</p><p>Designers from our Delhi studio travel up at key stages to inspect the work. That kind of steady oversight is what the best interior designers bring to a project.</p>"
+    ],
+    "whyHeading": "Why Karnal Homeowners Rank Us Among the Best Interior Designers",
+    "whyIntro": "<p>We combine Delhi design experience with respect for the way Karnal families live. The result feels current but still comfortable for every generation.</p>",
+    "whyText": [
+      "Work across homes, shops, clinics and offices.",
+      "Ideas built around your rooms and your routine.",
+      "Careful delivery with quality fittings and finishes."
+    ],
+    "whyMore": [
+      [
+        "Whole-Home Planning",
+        "One look across every room."
+      ],
+      [
+        "Senior Visits at Key Stages",
+        "Quality checked by experienced designers."
+      ]
+    ],
+    "galleryText": "Homes our team has completed in Bhiwani and Gurgaon.",
+    "closingHeading": "Professional Design, Close to Home",
+    "closing": "<p>You do not need to move to a metro to get a well-designed home. With the best interior designers on your side, your Karnal home can match anything you have seen in Delhi.</p><p>Ready to begin? <a href=\"/karnal/contact\">Contact 9th Corner</a> to set up a home visit.</p>"
+  },
+  "services-best-salon-interior-designer": {
+    "introHeading": "Premium Salons for Karnal and GT Road",
+    "intro": "<p>Karnal's premium salon market is growing, driven by students, young couples and families who travel often. For owners hunting for the best salon interior designer, the goal is usually a space that feels special the moment clients walk in, and that runs smoothly on a crowded Sunday or during the wedding season.</p>",
+    "cards": [
+      [
+        "Upscale Unisex Salons",
+        "<p>For a high-end unisex salon, we plan separate men's and women's areas with a shared reception and colour bar. Stations are spacious, with good chairs and mirror lighting. Reclining wash chairs in a dimly lit corner and a closed room for facials make the visit feel special.</p><p>Retail shelves near the reception help sell hair and skin products.</p>"
+      ],
+      [
+        "Bridal Studios and Makeup Lounges",
+        "<p>Wedding demand in the Karnal region is strong. The best salon interior designer plans bridal studios with several makeup stations, bright, even light for photos, a large changing room, seating for family and safe storage for outfits and jewellery.</p><p>A separate entry for brides avoids walking through a busy salon in full makeup.</p>"
+      ]
+    ],
+    "features": [
+      "Comfort Through the Year",
+      "<p>Heat in summer and fog in winter both affect how clients feel. We plan efficient cooling, warm air in winter, hot water ready for wash basins and good ventilation that keeps the air fresh without letting in dust. Soft music, warm lighting and a tidy, clutter-free reception complete the experience.</p><p>We also leave space near the door for a small waiting bench, since walk-in traffic peaks on weekends.</p>"
+    ],
+    "process": [
+      "From Plan to Opening",
+      "<p>A first call helps us understand your services and the clients you want to win. We then visit the shop in Karnal and, acting as the best salon interior designer for a local budget, return with a station layout, 3D views and a cost sheet that shows clearly which items add the most value.</p><p>Site work is run by our supervisor, and finishes are inspected by senior designers before you open.</p>"
+    ],
+    "whyHeading": "Why Owners Pick Us as the Best Salon Interior Designer in Karnal",
+    "whyIntro": "<p>We know the big salon brands well, and we help local owners create a space that can compete with them in look and comfort.</p>",
+    "whyText": [
+      "Salon and spa design with a premium finish.",
+      "Brand image and daily operations planned as one.",
+      "End-to-end delivery up to your launch day."
+    ],
+    "whyMore": [
+      [
+        "Wedding-Ready Studios",
+        "Room and light for bridal bookings."
+      ],
+      [
+        "Comfort in Every Season",
+        "Cooling, heating and hot water sized right."
+      ]
+    ],
+    "galleryText": "Interiors by our team in Sonipat and Gurgaon, Haryana.",
+    "closingHeading": "A Premium Salon Without a Metro Address",
+    "closing": "<p>Clients do not need to drive to Delhi or Chandigarh for a premium experience. With the best salon interior designer, your Karnal salon can deliver it right here.</p><p>Planning a premium salon? <a href=\"/karnal/contact\">Send 9th Corner your shop details</a>.</p>"
+  },
+  "services-farmhouse-interior-designer": {
+    "introHeading": "Farmhouses Across the Karnal Countryside",
+    "intro": "<p>Karnal is surrounded by fertile farmland, and many families here own farmhouses that are used every day, not just on weekends. Some are working farms with a family home; others are retreats or venues for functions. As a farmhouse interior designer, we shape every plan around daily use on the farm, from the tube-well shed to the guest bedroom.</p>",
+    "cards": [
+      [
+        "Working Farm Homes",
+        "<p>On a working farm, the house must handle muddy boots, tractors in the yard and long days outdoors. We plan a mud room or wash area at the entry, sturdy floors that clean easily, a large kitchen for family and farm workers, and storage for seeds, tools and grain kept separate from living areas.</p><p>Bedrooms and the family lounge stay quiet and comfortable, away from farm activity.</p><p>A covered parking shed for tractors and cars keeps machinery out of the sun and rain.</p>"
+      ],
+      [
+        "Retreats and Function Farmhouses",
+        "<p>For farmhouses used for gatherings, a farmhouse interior designer plans large lawns, a covered hall for winter events, a catering kitchen, guest toilets and parking for many cars. Power and lighting are planned for tents, stages and music, so events do not depend on hired generators alone.</p>"
+      ]
+    ],
+    "features": [
+      "Materials for Rural Life",
+      "<p>Natural stone, terracotta tiles, exposed brick and solid wood suit the countryside and age well. Ceilings with fans and good cross-ventilation keep rooms cool in summer, while fireplaces or heaters warm them on foggy winter nights. Mosquito mesh, strong doors and outdoor lighting add comfort and security. We also plan water storage and solar power to cope with supply gaps.</p>"
+    ],
+    "process": [
+      "How We Manage a Farmhouse Project",
+      "<p>We visit the farm, walk the land and listen to how the family wants to use it. The farmhouse interior designer leading your project prepares a site plan, house layout and 3D views, with a budget broken into clear stages.</p><p>Local contractors and craftsmen work under our supervisor, and our senior team checks progress during planned visits from Delhi.</p>"
+    ],
+    "whyHeading": "A Farmhouse Interior Designer Who Understands Rural Life",
+    "whyIntro": "<p>Rural projects come with practical challenges: water, power, access roads and skilled labour. We plan for these from day one, so the build keeps moving. Our supervisor stays in touch with you by phone every day.</p>",
+    "whyText": [
+      "Experience with farm homes and countryside retreats.",
+      "Interiors built around your family's real routine.",
+      "Hands-on management until a stress-free handover."
+    ],
+    "whyMore": [
+      [
+        "Homes for Working Farms",
+        "Mud rooms, storage and tough floors."
+      ],
+      [
+        "Self-Reliant Utilities",
+        "Water storage and solar planned in."
+      ]
+    ],
+    "galleryText": "City and town homes from our Haryana portfolio in Sonipat and Gurgaon.",
+    "closingHeading": "A Farmhouse That Fits Your Life",
+    "closing": "<p>Whether it is a working farm or a weekend retreat, your farmhouse should be easy to live in. An experienced farmhouse interior designer makes sure every part of it earns its place.</p><p>Own a farm near Karnal? <a href=\"/karnal/contact\">Invite 9th Corner to visit</a>.</p>"
+  },
+  "services-interior-architect-for-showroom-design": {
+    "introHeading": "Showrooms Along GT Road and in Karnal City",
+    "intro": "<p>GT Road through Karnal carries heavy traffic between Delhi, Chandigarh and Punjab. Car showrooms, furniture stores, tractor dealers and large retail outlets line the highway, while city markets hold jewellery, clothing and electronics shops. An interior architect for showroom design helps each of these turn passing traffic and local footfall into sales.</p>",
+    "cards": [
+      [
+        "Highway Showrooms",
+        "<p>Car, tractor and two-wheeler dealers on GT Road need wide display floors, strong lighting, customer lounges and service reception areas. We plan the facade and signage to be visible from fast-moving traffic, with easy access from the service lane and enough parking.</p><p>Durable floors handle vehicles, dust and heavy cleaning.</p><p>Workshop entrances are kept separate, so customers never walk past oil and tools.</p>"
+      ],
+      [
+        "City Retail and Jewellery Stores",
+        "<p>In Karnal's markets, stores need to feel trustworthy and inviting. An interior architect for showroom design plans secure counters, flattering lighting for jewellery and fabrics, family seating near the counter and well-lit trial rooms.</p><p>Jewellery stores get a private room for bridal sets and high-value purchases.</p>"
+      ]
+    ],
+    "features": [
+      "Making Space Sell",
+      "<p>Customers should see a hero product the moment they enter and then be drawn naturally to the back. Lighting is layered to highlight hero products. Storage is hidden but close at hand. In larger showrooms, zones for different product lines help customers find what they want. Seating, water and a clean washroom encourage longer visits and bigger purchases.</p><p>CCTV, alarm points and strong rooms are planned with your security agency from day one.</p>"
+    ],
+    "process": [
+      "Planning Your Showroom",
+      "<p>We start by understanding what you sell, how stock arrives and who your buyers are. On a visit to the site in Karnal, we check frontage, ceiling height and power. Working as your interior architect for showroom design, we then share a zoning plan and a 3D walk-through of the store.</p><p>Display units can be made in Delhi and fitted quickly, so the store is closed for less time.</p><p>Signage and window graphics are timed to finish on the same day as the fit-out.</p>"
+    ],
+    "whyHeading": "What You Gain From Our Interior Architect for Showroom Design",
+    "whyIntro": "<p>Large showrooms are major investments. We design for strong sales today and easy changes tomorrow, as brands and product lines evolve. Fixtures are modular, so they can move when your range changes.</p>",
+    "whyText": [
+      "Experience with highway showrooms and city retail.",
+      "Designs matched to luxury and volume brands alike.",
+      "From drawings to handover, one accountable team."
+    ],
+    "whyMore": [
+      [
+        "Seen From the Highway",
+        "Facade and lighting for fast traffic."
+      ],
+      [
+        "Fixtures Made in Delhi",
+        "Faster installation, shorter closures."
+      ]
+    ],
+    "galleryText": "Interior work from our portfolio in Gurgaon and Sonipat.",
+    "closingHeading": "Stand Out on GT Road",
+    "closing": "<p>Thousands of vehicles cross Karnal on GT Road every day. A skilled interior architect for showroom design gives your store the presence to bring some of them inside.</p><p>Planning a showroom in Karnal? <a href=\"/karnal/contact\">Share your plans with 9th Corner</a>.</p>"
+  },
+  "services-interior-design-services": {
+    "introHeading": "Interior Design for Karnal Homes, Shops and Clinics",
+    "intro": "<p>Our interior design services in Karnal cover new kothis, renovated family homes, apartments in the newer townships and a range of shops, clinics and offices. Many clients come to us after a first-hand look at Delhi homes and want the same quality in Karnal. We bring that standard while working with local craftsmen and suppliers.</p>",
+    "cards": [
+      [
+        "New Homes and Kothis",
+        "<p>For a new home, we plan every room from the start: kitchen, wardrobes, beds, display units, ceilings, lights and soft furnishings. Electrical and plumbing layouts are fixed before plastering, so there is no breaking of walls later.</p><p>We also help choose tiles, sanitary ware and paint to match the overall look.</p>"
+      ],
+      [
+        "Renovations and Commercial Spaces",
+        "<p>Older homes in Karnal often need new kitchens, bathrooms, wiring and storage. Our interior design services handle these upgrades without disturbing the whole house. For shops, clinics and offices, we plan layouts, furniture, lighting and branding to suit the business.</p><p>Clinics get washable wall finishes, a calm waiting area and storage for records.</p><p>Shops get display walls and a counter that faces the entrance.</p>"
+      ]
+    ],
+    "features": [
+      "Sourcing the Right Materials",
+      "<p>Karnal's nearness to Panipat, a major centre for home textiles, makes it easy to source quality curtains, rugs and upholstery. We combine these with fittings, laminates and hardware from trusted brands, and with skilled local carpenters for custom furniture. This mix keeps costs reasonable while giving a polished, long-lasting result.</p><p>Where a client prefers their own carpenter, we provide detailed drawings and check the work on our visits.</p>"
+    ],
+    "process": [
+      "How a Project Moves Ahead",
+      "<p>It begins with a visit to your home or site in Karnal. After that, you receive a written proposal for our interior design services with the scope, a time plan and our fee.</p><p>When you confirm, we draw the layouts, prepare 3D views and list the materials. A local supervisor then runs the work, and our senior designers come up from Delhi to check quality at fixed points.</p>"
+    ],
+    "whyHeading": "What Our Interior Design Services Bring to Karnal",
+    "whyIntro": "<p>We believe good design should not be limited to big cities. Our goal is to give Karnal clients the same thinking and finish they would get in Delhi.</p>",
+    "whyText": [
+      "A design team with city experience and local know-how.",
+      "Close attention to quality finishes in every room.",
+      "Full management from first sketch to final key handover."
+    ],
+    "whyMore": [
+      [
+        "Panipat Textiles at Hand",
+        "Quality furnishings sourced nearby."
+      ],
+      [
+        "Services Planned Before Plaster",
+        "No broken walls later."
+      ]
+    ],
+    "galleryText": "Homes we have completed in Haryana, including Bhiwani and Gurgaon.",
+    "closingHeading": "City-Standard Interiors in Karnal",
+    "closing": "<p>A well-designed home adds comfort and lasting value. Our interior design services bring that within reach for Karnal families and businesses.</p><p>Planning work in Karnal? <a href=\"/karnal/contact\">Ask 9th Corner for a proposal</a>.</p>"
+  },
+  "services-interior-designer-for-office": {
+    "introHeading": "Workspaces for Karnal's Businesses and Institutions",
+    "intro": "<p>Karnal is home to rice mills and exporters, agri-business firms, banks, hospitals, coaching institutes and a growing number of service companies. Their offices range from a cabin above a shop to a full corporate floor. As an interior designer for office spaces, we plan each one to look professional, work efficiently and stay comfortable through Haryana's hot summers and cold winters.</p>",
+    "cards": [
+      [
+        "Corporate and Export Offices",
+        "<p>Exporters and larger companies often host buyers and partners. We design a reception that sets a confident tone, a conference room for presentations and video calls, cabins for senior staff and an open work area. Sample display shelves can be built in for product-based businesses.</p><p>A good pantry and a clean washroom are worth the space.</p><p>Rice exporters often need a lab or sample room with good light for checking grain quality.</p>"
+      ],
+      [
+        "Clinics, Banks and Institutes",
+        "<p>Service offices need clear public areas and private back offices. An interior designer for office and institutional spaces plans waiting areas, counters, consultation rooms and classrooms with durable materials, good lighting and easy cleaning.</p><p>Coaching rooms get good acoustics and boards that are visible from every seat.</p>"
+      ]
+    ],
+    "features": [
+      "Comfort and Efficiency",
+      "<p>Ergonomic chairs and desks reduce fatigue. Glare-free lighting helps with screen work. Efficient cooling in summer and heating in winter keep staff comfortable without huge bills. Power backup, structured cabling and secure storage keep the office running smoothly. Each choice is made with daily use and running costs in mind.</p><p>We also plan a small server or records room that stays locked and cool, with a fire extinguisher close by.</p>"
+    ],
+    "process": [
+      "Setting Up Your Office",
+      "<p>We start with headcount, the number of visitors you expect and the equipment you use. After visiting the space in Karnal, our interior designer for office projects prepares a floor plan and 3D views, along with an itemised quote.</p><p>Once you approve, the fit-out is managed locally by our supervisor, with design checks by our senior team at the important stages.</p><p>Furniture is chosen to be repaired easily in Karnal.</p>"
+    ],
+    "whyHeading": "Why Companies Choose Our Interior Designer for Office Spaces",
+    "whyIntro": "<p>We design offices to support the way your business works, not just to look good in photos. Budgets are kept realistic for a Karnal office.</p>",
+    "whyText": [
+      "Offices for exporters, clinics, banks and institutes.",
+      "Solutions fitted to your workflow and growth plans.",
+      "Complete fit-out from 3D concept to move-in day."
+    ],
+    "whyMore": [
+      [
+        "Buyer-Ready Conference Rooms",
+        "Spaces that impress visiting partners."
+      ],
+      [
+        "Lower Running Costs",
+        "Efficient lighting, cooling and heating."
+      ]
+    ],
+    "galleryText": "Projects completed by 9th Corner in Gurgaon and Bhiwani.",
+    "closingHeading": "An Office That Supports Your Growth",
+    "closing": "<p>A good office helps teams work better and clients trust you more. A thoughtful interior designer for office spaces builds that into every corner.</p><p>Opening or upgrading an office in Karnal? <a href=\"/karnal/contact\">Reach 9th Corner</a>.</p>"
+  },
+  "services-luxury-home-interior-designs": {
+    "introHeading": "Luxury Living in Karnal",
+    "intro": "<p>Karnal's well-established families, business owners and returning NRIs are building some of the finest homes in the region. They want the comfort and finish of a Delhi or international home, on Karnal's larger plots. Our luxury home interior designs bring together rich materials, generous spaces and careful detailing, made to suit the way these families live and entertain.</p>",
+    "cards": [
+      [
+        "Grand Drawing and Dining Rooms",
+        "<p>Hospitality is central to life in Haryana, and the drawing room is where it shows. We design spacious living areas with statement ceilings, rich wall finishes and lighting that changes from bright daytime to warm evening. Dining rooms are sized for large family meals, with a glass cabinet for the good china and a tea counter close by.</p><p>Entrances get double-height foyers, stone floors and a strong front door.</p>"
+      ],
+      [
+        "Private Suites and Leisure Spaces",
+        "<p>Our luxury home interior designs give each bedroom the feel of a private suite, with a dressing area, ample wardrobes and a bathroom in stone and premium fittings. Many homes also add a home theatre, gym, prayer room or indoor games room, each planned with the same quality.</p><p>For NRI families, we also plan homes that can be locked up safely for months and opened quickly on return.</p>"
+      ]
+    ],
+    "features": [
+      "Materials and Comfort",
+      "<p>Imported and Indian marble, quality veneers, solid wood, brass and glass are chosen for beauty and durability. Underfloor heating or efficient heaters make winter mornings comfortable, while good insulation and shading keep summers bearable. Smart controls for lighting, curtains and security tie the home together. Every detail, from door handles to light switches, is chosen to feel solid.</p>"
+    ],
+    "process": [
+      "How We Deliver Luxury in Karnal",
+      "<p>The first visit is about listening: how you entertain, which rooms you use most, what you loved in homes you have visited. Our luxury home interior designs are then drawn up with material samples you can hold and 3D views of each space.</p><p>Craftsmen work under daily supervision, and senior designers travel to the site to inspect every finish.</p>"
+    ],
+    "whyHeading": "The Care Behind Our Luxury Home Interior Designs",
+    "whyIntro": "<p>Luxury homes need careful planning and patient execution. We take the time to get it right, and keep you involved at every key decision. Updates come by video call when you cannot be on site.</p>",
+    "whyText": [
+      "Experience with premium homes across North India.",
+      "Spaces planned around how your family lives and hosts.",
+      "Full service with senior supervision throughout."
+    ],
+    "whyMore": [
+      [
+        "Warm Winters, Cool Summers",
+        "Heating and insulation planned in."
+      ],
+      [
+        "Global Ideas, Local Craft",
+        "International style built by skilled hands."
+      ]
+    ],
+    "galleryText": "Premium homes from our portfolio in Gurgaon and Sonipat.",
+    "closingHeading": "A Home Worthy of Your Family",
+    "closing": "<p>A luxury home in Karnal should be a source of pride for years. Our luxury home interior designs aim for exactly that: beautiful, comfortable and built to last.</p><p>Thinking of building a premium home in Karnal? <a href=\"/karnal/contact\">Arrange a meeting with 9th Corner</a>.</p>"
+  },
+  "services-modern-interior-design": {
+    "introHeading": "Modern Homes for a Changing Karnal",
+    "intro": "<p>Younger Karnal families, and those returning from Delhi, Chandigarh or abroad, want lighter, more practical homes than the heavily decorated houses they grew up in. Modern interior design gives them clean lines, good storage, plenty of light and furniture that is easy to live with, without losing the warmth of a family home.</p>",
+    "cards": [
+      [
+        "Modern Kothis",
+        "<p>In large Karnal homes, a modern approach means one open family area, a sleek kitchen with an island, built-in wardrobes instead of separate almirahs and bathrooms with frameless glass and wall-hung fittings. Big windows bring in light, while a few rich materials keep the space warm.</p><p>A modern puja room can still feel sacred, with stone, wood and soft light.</p><p>Outdoor lawns and car porches follow the same clean lines, with simple planters and wall lights.</p>"
+      ],
+      [
+        "Apartments and Smaller Homes",
+        "<p>In flats in the newer residential projects, modern interior design helps rooms feel larger. Light colours, slim furniture, sliding doors and wall-mounted storage free up floor space, while mirrors and good lighting add depth.</p><p>Bunk beds, fold-down desks and tall wardrobes help small bedrooms work hard.</p><p>Dining tables with built-in benches seat more people in less space.</p>"
+      ]
+    ],
+    "features": [
+      "Warmth in a Modern Home",
+      "<p>Modern does not have to mean cold. We use wood, textured fabrics, rugs and warm lighting to make rooms inviting, especially in Karnal's long winters. Matte finishes hide dust and fingerprints. Hidden storage keeps surfaces clear, while a few personal items, family photos or art, keep the home personal.</p><p>A modern look does not need costly imports. Good proportions, tidy storage and the right lighting matter more than brand names.</p><p>Cold floors are a winter complaint, so we suggest rugs, wooden flooring in bedrooms or warm tiles where the budget allows.</p>"
+    ],
+    "process": [
+      "Creating Your Modern Home",
+      "<p>We like to start with pictures. Share a few images of homes you admire, and we will visit your house in Karnal to see what is possible. Our modern interior design proposal then comes back as a plan, a short list of finishes and 3D views of the main rooms.</p><p>Local craftsmen build to our drawings, our supervisor watches the details daily, and every edge is checked before handover.</p>"
+    ],
+    "whyHeading": "Modern Interior Design With Karnal Warmth",
+    "whyIntro": "<p>Clean, simple spaces demand precise work. We supervise closely so the final finish matches the design. Hinges, edges and gaps are checked on every cabinet before handover.</p>",
+    "whyText": [
+      "Current, international design ideas.",
+      "Modern solutions for luxury homes and offices.",
+      "Smooth project handling with on-site management."
+    ],
+    "whyMore": [
+      [
+        "Cosy in Winter",
+        "Warm materials and lighting for foggy months."
+      ],
+      [
+        "Easy to Maintain",
+        "Low-sheen finishes that do not show dust."
+      ]
+    ],
+    "galleryText": "Homes from our portfolio in Bhiwani and Sonipat.",
+    "closingHeading": "A Lighter, Simpler Home",
+    "closing": "<p>A well-designed modern home makes daily life easier and feels fresh for years. Modern interior design, done with care, brings that to Karnal families.</p><p>Thinking of a modern home in Karnal? <a href=\"/karnal/contact\">Write to 9th Corner</a>.</p>"
+  },
+  "services-residential-interior-design": {
+    "introHeading": "Family Homes Across Karnal",
+    "intro": "<p>Homes in Karnal are often shared by large families, with grandparents, parents and children under one roof. Plots are bigger than in Delhi, so there is room for spacious living, but also a need for good planning so every corner is used well. Our residential interior design work brings comfort, storage and a fresh look to Karnal homes of every size.</p>",
+    "cards": [
+      [
+        "Large Joint Family Homes",
+        "<p>For joint families, the heart of the plan is one large family room near the kitchen, with private bedrooms and sitting areas for each branch of the family. Kitchens are large and practical, with space for several people to cook together and storage for bulk grains and supplies.</p><p>Guest rooms and a proper drawing room are planned for the many visitors Karnal homes receive.</p><p>A ground-floor bedroom with an attached bathroom is often the most useful room for elderly parents.</p>"
+      ],
+      [
+        "Apartments and Nuclear Family Homes",
+        "<p>In the newer apartments and smaller homes, residential interior design focuses on smart storage, flexible furniture and good lighting. Rooms are planned so they can change as children grow or parents move in.</p><p>Built-in study desks and bookshelves give school-going children a quiet place to work.</p>"
+      ]
+    ],
+    "features": [
+      "Comfort Through the Seasons",
+      "<p>Karnal homes need to stay cool in May and warm in January. We plan ceiling fans, efficient AC units, heaters and insulated curtains, and place beds and seating away from cold walls. Bathrooms get geysers sized for winter use. Terraces and verandas are designed for sitting in the winter sun, a favourite family habit.</p><p>Dust from the fields and roads is part of life here, so we prefer floors and shutters that can be wiped clean in minutes.</p>"
+    ],
+    "process": [
+      "How We Design Your Home",
+      "<p>Our designers drive up to Karnal for the first meeting, usually on a day when most of the family is home. We measure, take photos and list what each person wants changed. Back in Delhi, the residential interior design work takes shape as floor plans, 3D views and costs for every room.</p><p>Once you sign off, a site supervisor based in Karnal runs the work day to day, and the design team returns at set stages to inspect.</p>"
+    ],
+    "whyHeading": "Residential Interior Design Planned for Every Generation",
+    "whyIntro": "<p>We understand that a Karnal home is often shared by several generations. We plan for each of them, so the home works for everyone.</p>",
+    "whyText": [
+      "Experience with homes across Delhi NCR and Haryana.",
+      "Designs shaped around your family's way of life.",
+      "One team accountable from first drawing to last fitting."
+    ],
+    "whyMore": [
+      [
+        "Space for Every Generation",
+        "Shared rooms and private corners."
+      ],
+      [
+        "Ready for Winter",
+        "Heating, geysers and sunny sit-outs."
+      ]
+    ],
+    "galleryText": "Homes from our Haryana portfolio, in Bhiwani and Sonipat.",
+    "closingHeading": "A Home Your Whole Family Loves",
+    "closing": "<p>A good family home brings people together and gives each person room to breathe. Thoughtful residential interior design gets that balance right in houses of every size.</p><p>Building or renovating in Karnal? <a href=\"/karnal/contact\">Request a home visit from 9th Corner</a>.</p>"
+  },
+  "services-top-interior-design-firm": {
+    "introHeading": "A Design Firm You Can Rely On in Karnal",
+    "intro": "<p>Hiring a top interior design firm from Delhi for a Karnal project raises fair questions. Who will supervise the site? How often will the designers visit? Will the work match the drawings? We answer these clearly before we start, and build our process around reliable delivery outside the metro.</p>",
+    "cards": [
+      [
+        "Homes and Kothis",
+        "<p>Homes are drawn as one plan, from the entrance and drawing room to bedrooms, kitchen and bathrooms. Detailed drawings guide local craftsmen, and our supervisor makes sure they are followed.</p><p>Furniture, curtains and décor can be included for a complete, ready-to-live home.</p><p>We also coordinate with your civil contractor so interiors start as soon as the structure is ready.</p>"
+      ],
+      [
+        "Commercial and Institutional Projects",
+        "<p>Showrooms, offices, clinics and institutes need dependable timelines. As a top interior design firm, we schedule work around your opening hours, combine materials from Delhi with local supply, and hold the same standard across every floor.</p><p>Institutes and hospitals get finishes that are easy to sanitise and repair.</p>"
+      ]
+    ],
+    "features": [
+      "How We Deliver Outside Delhi",
+      "<p>A supervisor stays on site every working day. Senior designers travel to Karnal at each key stage. You get photos every week. Samples are approved by you before materials are ordered. Work is checked after carpentry, after electrical work and after painting, and every pending point on the final list is fixed before we leave.</p><p>This keeps projects steady even when the design studio is a few hours away.</p>"
+    ],
+    "process": [
+      "Our Project Stages",
+      "<p>We split the job into clear phases: understanding the brief, drawing the design, settling materials and money, building on site and handing over. Being a top interior design firm means each phase ends with your written approval before the next one starts.</p><p>Changes are always possible; we simply tell you what they will cost and how long they add before going ahead.</p>"
+    ],
+    "whyHeading": "Why Clients in Karnal Trust Our Top Interior Design Firm",
+    "whyIntro": "<p>We know a project outside Delhi needs extra organisation. We plan ahead, communicate often and keep our promises on dates and quality. A single project manager is your contact throughout.</p>",
+    "whyText": [
+      "A specialised team with experience across Haryana.",
+      "Plans fitted to your functional and design needs.",
+      "Managed delivery from start to final handover."
+    ],
+    "whyMore": [
+      [
+        "Full-Time Site Supervisor",
+        "Someone on site every working day."
+      ],
+      [
+        "Senior Visits at Each Stage",
+        "Quality checked by experienced designers."
+      ]
+    ],
+    "galleryText": "Recent work from our Haryana portfolio in Bhiwani and Gurgaon.",
+    "closingHeading": "Delhi Expertise, Karnal Delivery",
+    "closing": "<p>Distance should not mean compromise. As a top interior design firm working across Haryana, we bring the same care to Karnal as to any Delhi project, with the same people answerable from start to finish.</p><p>Have a project in Karnal? <a href=\"/karnal/contact\">Talk to 9th Corner</a> today.</p>"
+  }
+}

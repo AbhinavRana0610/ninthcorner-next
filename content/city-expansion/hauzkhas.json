@@ -1,0 +1,552 @@
+{
+  "_about": "Hauz Khas service pages rebuilt in the Delhi service-page layout (content/city-expansion/service-page.css) with extra local content. The page's own hero, intro, philosophy box, three feature cards, reason titles, CTA and FAQ are kept from the page; everything here is added. Applied by scripts/apply-city-expansion.mjs.",
+  "_gallery": {
+    "heading": "Our Completed Projects Near Hauz Khas",
+    "images": [
+      [
+        "/img/project/mr-rao-green-park/mr-rao-green-park/2.avif",
+        "Residential interior project in Green Park, Delhi by 9th Corner",
+        "Residential Interior in Green Park"
+      ],
+      [
+        "/img/project/mr-sachin-saket/mr-sachin-saket/1.avif",
+        "Apartment interior in Saket, Delhi by 9th Corner",
+        "Apartment Interior in Saket"
+      ],
+      [
+        "/img/project/mr-rao-green-park/mr-rao-green-park/21.avif",
+        "Home interior design in Green Park, Delhi by 9th Corner",
+        "Home Interior in Green Park"
+      ],
+      [
+        "/img/project/mr-alok-verma-south-x/mr-alok-verma-south-x/1.avif",
+        "Residential interior project in South Extension, Delhi by 9th Corner",
+        "Residential Interior in South Extension"
+      ],
+      [
+        "/img/project/mr-sachin-saket/mr-sachin-saket/19.avif",
+        "Living space interior in Saket, Delhi by 9th Corner",
+        "Living Space in Saket"
+      ],
+      [
+        "/img/project/mr-rao-green-park/mr-rao-green-park/22.avif",
+        "Interior project by 9th Corner in Green Park, Delhi",
+        "Green Park Project"
+      ],
+      [
+        "/img/project/mr-alok-verma-south-x/mr-alok-verma-south-x/74.avif",
+        "Home interior by 9th Corner in South Extension, Delhi",
+        "South Extension Home"
+      ],
+      [
+        "/img/project/mr-sachin-saket/mr-sachin-saket/26.avif",
+        "Interior design by 9th Corner in Saket, Delhi",
+        "Saket Home Interior"
+      ]
+    ]
+  },
+  "services-Salon-interior-designer": {
+    "introHeading": "Salon Interiors for Hauz Khas and South Delhi",
+    "intro": "<p>Hauz Khas draws a young, style-conscious crowd, and a salon here is judged the moment someone walks in. As a salon interior designer, we look at the whole visit: where clients wait, how a stylist moves between chair and wash basin. It has to work on a busy Saturday, not only on opening day.</p>",
+    "cards": [
+      [
+        "Hair and Unisex Salons",
+        "<p>Most salons around Hauz Khas Village and Green Park market run on tight floor plates, often up a narrow staircase. We fit cutting stations, a colour bar and a small retail shelf without blocking the walkway. Each station gets its own sockets, a drawer for tools and a mirror light that shows true skin tone.</p>"
+      ],
+      [
+        "Spas, Nail and Beauty Studios",
+        "<p>Treatment rooms need the opposite of a busy salon floor: quiet, warm and private. A salon interior designer also has to think about fresh air here, because nail and hair products leave strong smells in a closed room.</p>"
+      ]
+    ],
+    "features": [
+      "What a Good Salon Layout Gets Right",
+      "<p>Clients should never squeeze past a stylist at work. Staff need a back area to mix colour, store towels and take a break out of sight. Floors must handle water and dye, so we use tiles or vinyl that clean easily.</p>"
+    ],
+    "process": [
+      "How We Take a Salon From Plan to Opening",
+      "<p>We begin with your services, number of chairs and daily footfall. From this our salon interior designer team draws a layout, then 3D views so you can check both the look and the flow of clients. After you approve, we list materials, fittings and a budget.</p><p>On site we handle plumbing, electricals, false ceiling, furniture and branding, timed so you can open on a fixed date.</p>"
+    ],
+    "whyHeading": "Why Pick Us as Your Salon Interior Designer?",
+    "whyIntro": "<p>A salon in a busy market cannot stay shut for months. We plan the work in clear stages, keep the site tidy for neighbouring shops.</p>",
+    "whyText": [
+      "Layouts that suit chairs, basins and treatment rooms alike.",
+      "Your colours, logo and mood carried into every corner.",
+      "One team from the first drawing to the ribbon cutting."
+    ],
+    "whyMore": [
+      [
+        "Plumbing and Power Planned First",
+        "Basins, dryers and lights work without leaks or tripping."
+      ],
+      [
+        "Easy-Clean Finishes",
+        "Surfaces that cope with dye, water and daily mopping."
+      ]
+    ],
+    "galleryText": "Some of the homes we have completed in Green Park, Saket and South Extension, each a short ride from Hauz Khas.",
+    "closingHeading": "A Salon Clients Want to Come Back To",
+    "closing": "<p>People return to a salon for the stylist, but the space decides how long they stay. A thoughtful salon interior designer makes the stylist's job easier and the client's visit calmer.</p><p>Opening or redoing a salon in Hauz Khas? <a href=\"/hauzkhas/contact\">Speak to 9th Corner</a> and tell us about your chairs, services and budget.</p>"
+  },
+  "services-architecture-services": {
+    "introHeading": "Architecture for Plots and Rebuilds in Hauz Khas",
+    "intro": "<p>Many plots in Hauz Khas, Hauz Khas Enclave and SDA still carry houses built in the 1970s and 80s. Families now want to rebuild them with stilt parking and several floors, or rework one floor for the next generation. Our architecture services cover that whole path, from the first feasibility check to a building you can move into.</p>",
+    "cards": [
+      [
+        "Rebuilding Old Family Houses",
+        "<p>A rebuild on a South Delhi plot starts with what the rules allow: setbacks, height, number of floors and parking. We check these first, then plan floors that one family can use today or that can be split between siblings later.</p><p>Tight plots with neighbours on three sides need light wells, a well-placed staircase core and windows set with care, so every floor still gets light and air.</p>"
+      ],
+      [
+        "Commercial and Mixed-Use Buildings",
+        "<p>Near Aurobindo Marg and the main market, one building may hold shops below and offices or homes above. Our architecture services plan separate entries, fire exits, lift cores and services so each use works without getting in the other's way.</p>"
+      ]
+    ],
+    "features": [
+      "What Our Drawings Cover",
+      "<p>A clear set of drawings saves money on site. We prepare working plans, sections and elevations, a brief for the structural engineer, and electrical and plumbing layouts. Door and window schedules, staircase details and façade materials are fixed on paper before the contractor starts, so there are fewer changes and fewer surprises later.</p>"
+    ],
+    "process": [
+      "From Site Survey to Possession",
+      "<p>Our architecture services begin with a site survey and a talk about how you want to live or work in the building. Concept plans and 3D massing come next, then detailed drawings for approval.</p><p>Once construction starts, we visit at key stages, check work against the drawings and help with the interior fit-out so the building is ready to use on handover.</p>"
+    ],
+    "whyHeading": "Why Choose Our Architecture Services?",
+    "whyIntro": "<p>Building in a dense, settled colony means dealing with neighbours, narrow access roads and strict municipal norms. We plan around these early, which keeps approvals and site work moving.</p>",
+    "whyText": [
+      "Work on both city plots and larger open sites.",
+      "Plans shaped by what you need and what the plot allows.",
+      "One team that stays involved until you get the keys."
+    ],
+    "whyMore": [
+      [
+        "Clear Drawings for Contractors",
+        "Fewer site questions and fewer costly changes."
+      ],
+      [
+        "Interiors Planned With the Structure",
+        "Wiring, plumbing and furniture thought out together."
+      ]
+    ],
+    "galleryText": "Projects we have delivered in Green Park, Saket and South Extension, all close to Hauz Khas.",
+    "closingHeading": "A Building That Works for Decades",
+    "closing": "<p>A house or office is a long-term asset. Good architecture services plan for growing families, extra floors and future repairs, not only for how the building looks on day one.</p><p>Have a plot or an old house in Hauz Khas? <a href=\"/hauzkhas/contact\">Contact 9th Corner</a> with the plot size and your plans, and we can start with a simple feasibility check.</p>"
+  },
+  "services-best-interior-designers": {
+    "introHeading": "Finding the Right Designer in Hauz Khas",
+    "intro": "<p>Search for the best interior designers in South Delhi and you will find many names. What matters is who listens, who shows real work and who stays on site when things go wrong. In Hauz Khas, where homes range from old kothis to new builder floors, the right designer also has to understand older buildings.</p>",
+    "cards": [
+      [
+        "Homes That Fit Your Family",
+        "<p>We start with how you live. Who works from home, where the elders sit in the evening, how much storage the kitchen really needs. The layout follows from these answers, not from a catalogue.</p><p>In older houses we often fix leaking bathrooms, weak wiring and uneven floors before the design work begins, because good interiors need a sound base.</p>"
+      ],
+      [
+        "Shops, Cafés and Offices",
+        "<p>Commercial clients in Hauz Khas Village and the nearby markets need spaces that bring customers in and are easy to run. The best interior designers think about footfall, display, staff movement and upkeep as much as colour and décor.</p>"
+      ]
+    ],
+    "features": [
+      "What Sets a Good Designer Apart",
+      "<p>Clear drawings, honest budgets and fixed timelines. A designer who explains why a choice is made, not just what it costs. Samples you can touch before ordering, and 3D views that match the finished room. Above all, someone who picks up the phone when the carpenter has a question.</p>"
+    ],
+    "process": [
+      "How We Work With You",
+      "<p>We visit, measure and listen first. Then we share a layout and mood boards, followed by 3D views of each room. When you are happy, we agree on materials and a budget in writing.</p><p>Our site team handles civil work, carpentry, lighting and finishing, and we walk through every room with you before handover. That is how the best interior designers earn repeat clients.</p>"
+    ],
+    "whyHeading": "Comparing the Best Interior Designers? Here Is Why Clients Pick Us",
+    "whyIntro": "<p>Hiring a designer is a big decision, so we keep the process open. You see drawings, quotes and progress at every step, and you are welcome on site any time.</p>",
+    "whyText": [
+      "Homes, shops and offices across South Delhi.",
+      "Ideas drawn from your habits, not from trends alone.",
+      "Careful finishing that still looks good years later."
+    ],
+    "whyMore": [
+      [
+        "Written Scope and Budget",
+        "Everything agreed on paper before work starts."
+      ],
+      [
+        "Regular Site Updates",
+        "Photos and progress notes at each stage."
+      ]
+    ],
+    "galleryText": "Recent homes by our team in Green Park, Saket and South Extension.",
+    "closingHeading": "Choose a Designer You Can Trust on Site",
+    "closing": "<p>The best interior designers are judged by finished rooms and satisfied clients, not by sample photos. Ask to see work, ask how problems are handled, and compare what each quote includes.</p><p>Planning work in Hauz Khas? <a href=\"/hauzkhas/contact\">Meet the 9th Corner team</a> for a first chat about your space.</p>"
+  },
+  "services-best-salon-interior-designer": {
+    "introHeading": "Salon Design for a Crowded Market",
+    "intro": "<p>Hauz Khas and Green Park have salons on almost every block, from neighbourhood parlours to premium hair studios. To stand out, the space itself has to sell the experience. Owners looking for the best salon interior designer usually want two things: a look that matches their brand and a floor that lets staff work fast.</p>",
+    "cards": [
+      [
+        "Premium Hair Studios",
+        "<p>High-end studios need fewer, larger stations with room around the chair, daylight-balanced lighting and a calm wash area with reclining basins. We use rich but practical materials such as stone-look tiles, wood laminates and brass or black metal accents.</p><p>A small private room for bridal or VIP clients is often worth the space it takes.</p>"
+      ],
+      [
+        "Family and Neighbourhood Salons",
+        "<p>A local salon serves men, women and children through the day. Here the best salon interior designer plans for volume: more chairs, a quick-service corner, clear signage and a waiting area that does not spill into the entrance.</p>"
+      ]
+    ],
+    "features": [
+      "Details That Clients Notice",
+      "<p>Mirror lights that flatter skin. Chairs that adjust smoothly. Dry floors near the basins. A neat reception counter with space for products. Cooling that copes even with dryers running. Small things like hooks for bags and a phone shelf at each station make the visit easier.</p><p>Storage is the other big one. Product stock, clean towels, used towels and cleaning supplies each need their own place, or they end up on the counter.</p>"
+    ],
+    "process": [
+      "Our Salon Project Steps",
+      "<p>To work as the best salon interior designer for your brand, we first study your service menu, staff count and target clients, then draw a layout and 3D views. Once the design is fixed, we prepare a cost sheet for civil work, plumbing, electricals, furniture, lighting and signage.</p><p>Execution runs in stages so the salon opens on a set date, with every station checked before handover.</p>"
+    ],
+    "whyHeading": "What You Get From the Best Salon Interior Designer",
+    "whyIntro": "<p>Every closed day costs a salon money. We keep the schedule tight, order long-lead items early and coordinate with your branding agency so the opening is not delayed. We also share a simple care guide for the finishes we use.</p>",
+    "whyText": [
+      "Salon and spa layouts planned around real work.",
+      "Branding and workflow handled together.",
+      "One team from design to the first client."
+    ],
+    "whyMore": [
+      [
+        "Opening Date Fixed Early",
+        "Work planned backwards from the day you open."
+      ],
+      [
+        "Low-Maintenance Materials",
+        "Finishes that stay fresh after daily cleaning."
+      ]
+    ],
+    "galleryText": "Completed interiors by 9th Corner in Saket, Green Park and South Extension, near Hauz Khas.",
+    "closingHeading": "Design That Brings Clients Back",
+    "closing": "<p>A salon lives on repeat visits. The best salon interior designer creates a place that feels special for clients and practical for staff, day after day.</p><p>Planning a salon in Hauz Khas or Green Park? <a href=\"/hauzkhas/contact\">Talk to 9th Corner</a> about your space and budget.</p>"
+  },
+  "services-farmhouse-interior-designer": {
+    "introHeading": "Farmhouse Interiors for Hauz Khas Families",
+    "intro": "<p>Many families in Hauz Khas and nearby colonies own a farmhouse in Chhattarpur, Sainik Farms or along the Mehrauli-Gurgaon belt. As a farmhouse interior designer, we help turn these properties into places people actually use, for weekend lunches, family functions or a quieter life away from the city.</p>",
+    "cards": [
+      [
+        "The Main House",
+        "<p>Farmhouse homes are larger and more open than city flats. We plan wide living areas that can host a big family lunch, bedrooms with their own sit-outs and a kitchen with room for a cook and family members together.</p><p>Thick walls, deep verandas and cross-ventilation help keep rooms cool in summer without running every AC all day.</p>"
+      ],
+      [
+        "Lawns, Pools and Party Areas",
+        "<p>Outdoor space is the reason most people buy a farmhouse. A farmhouse interior designer has to plan the lawn, pool deck, gazebo and outdoor kitchen as carefully as the rooms, with lights, power points and toilets placed for large gatherings.</p>"
+      ]
+    ],
+    "features": [
+      "Materials That Suit Farm Living",
+      "<p>Stone, exposed brick, terracotta, solid wood and lime plaster age well and hide dust. Large windows bring in the greenery, while mosquito mesh and deep shades keep insects and glare out. We also plan for security, backup power and water storage, which matter more on a farm than in a city home.</p>"
+    ],
+    "process": [
+      "How a Farmhouse Project Runs",
+      "<p>We visit the property, study the land, trees and existing structures, and talk about how often you will use it. Our farmhouse interior designer team then shares layouts and 3D views of indoor and outdoor areas.</p><p>Once approved, we manage civil work, carpentry, landscape coordination and finishing, with regular updates so you need not be on site every day.</p>"
+    ],
+    "whyHeading": "Why Work With Us as Your Farmhouse Interior Designer?",
+    "whyIntro": "<p>Farmhouse projects are often managed from a distance. We keep you informed with photos and site reports, and only call you out when a decision really needs you there.</p>",
+    "whyText": [
+      "Experience with large plots, lawns and outdoor rooms.",
+      "Spaces planned for how often and how you use them.",
+      "Site, carpentry and finishing handled by one team."
+    ],
+    "whyMore": [
+      [
+        "Indoor and Outdoor Planned Together",
+        "One look from the gate to the bedroom."
+      ],
+      [
+        "Built for Low Upkeep",
+        "Materials that cope with dust, rain and heat."
+      ]
+    ],
+    "galleryText": "City homes we have finished in Green Park, Saket and South Extension, showing the detail we bring to every project.",
+    "closingHeading": "A Farmhouse You Will Want to Visit Every Weekend",
+    "closing": "<p>A good farmhouse feels relaxed on a quiet Sunday but still works when two hundred guests arrive. The right farmhouse interior designer plans for both.</p><p>Live in Hauz Khas and own a farmhouse near Delhi? <a href=\"/hauzkhas/contact\">Contact 9th Corner</a> to plan a visit to the property.</p>"
+  },
+  "services-interior-architect-for-showroom-design": {
+    "introHeading": "Showrooms for Hauz Khas and South Delhi Brands",
+    "intro": "<p>Hauz Khas Village, the main market and Aurobindo Marg are home to design stores, fashion labels and furniture galleries. Shoppers here compare a lot before they buy. An interior architect for showroom design shapes the space so the product looks its best and the path through the store feels natural.</p>",
+    "cards": [
+      [
+        "Fashion and Lifestyle Stores",
+        "<p>Clothing and lifestyle brands need flexible display: rails that move, shelves that change with the season and trial rooms that are bright and private. We keep the window display strong, because many customers decide from the street.</p><p>Billing counters sit where staff can see the floor without blocking the exit.</p><p>Trial rooms deserve real attention: a hook, a seat, a full-length mirror and lighting that matches the shop floor.</p>"
+      ],
+      [
+        "Furniture, Décor and Lighting Galleries",
+        "<p>Large products need room to breathe. An interior architect for showroom design creates small room settings so buyers can picture a sofa or dining table at home, with lighting that shows real colour and texture.</p>"
+      ]
+    ],
+    "features": [
+      "What Makes a Showroom Sell",
+      "<p>A clear entry, a focal display within the first few steps and a loop that takes customers past every section. Lighting in layers, with general light, accent spots and backlit panels. Hard-wearing floors, hidden storage for stock and enough sockets for screens and demos. The brand's colours and materials should show up in every fixture.</p><p>Security matters too. We plan CCTV points, lockable display cases and a clear view from the counter to the door.</p>"
+    ],
+    "process": [
+      "Our Showroom Design Process",
+      "<p>We start with your products, price range and the customers you want to attract. As an interior architect for showroom design, we then prepare zoning plans, fixture designs and 3D walk-throughs.</p><p>After approval, we manage civil work, false ceilings, electricals, fixtures and signage, and coordinate with your visual merchandising team before launch. Fixtures are made off-site where possible, so the shop stays shut for the shortest time.</p>"
+    ],
+    "whyHeading": "Why Choose Us as Your Interior Architect for Showroom Design?",
+    "whyIntro": "<p>Showrooms in busy markets often have fixed working hours and limited loading access. We plan deliveries and noisy work around these, so neighbouring shops are not disturbed and your launch stays on track.</p>",
+    "whyText": [
+      "Commercial projects of different sizes and budgets.",
+      "Designs built around your brand and sales targets.",
+      "Planning, site work and fixtures under one roof."
+    ],
+    "whyMore": [
+      [
+        "Flexible Display Systems",
+        "Fixtures that change easily with new collections."
+      ],
+      [
+        "Lighting That Shows True Colour",
+        "Products look the same in store as at home."
+      ]
+    ],
+    "galleryText": "Interior work we have completed in Green Park, Saket and South Extension.",
+    "closingHeading": "A Showroom That Tells Your Story",
+    "closing": "<p>Customers remember how a store made them feel. Working with an interior architect for showroom design helps turn floor space into sales.</p><p>Opening or refreshing a showroom in Hauz Khas? <a href=\"/hauzkhas/contact\">Get in touch with 9th Corner</a>.</p>"
+  },
+  "services-interior-design-services": {
+    "introHeading": "Complete Interiors for Hauz Khas Homes and Businesses",
+    "intro": "<p>Our interior design services in Hauz Khas cover everything from a single room makeover to a full house or office fit-out. Some clients come with a clear idea and need help to build it. Others only know that the space does not work. Either way, we start with a visit and an honest look at what is possible.</p>",
+    "cards": [
+      [
+        "Homes and Apartments",
+        "<p>We design living rooms, kitchens, bedrooms, kids' rooms and home offices, along with storage, lighting and soft furnishings. In DDA flats and builder floors around Hauz Khas, better storage is often the biggest change a family notices.</p><p>For rented homes, we suggest pieces that can move with you, such as free-standing wardrobes and plug-in lights.</p>"
+      ],
+      [
+        "Offices, Clinics and Shops",
+        "<p>Small businesses in South Delhi need interiors that look professional and stay within budget. Our interior design services for workplaces include layout, furniture, cabling, lighting and branding, planned so the space can grow with the business.</p><p>Clinics need washable surfaces and a calm waiting area; shops need display walls and a counter that faces the door.</p>"
+      ]
+    ],
+    "features": [
+      "What Our Service Includes",
+      "<p>Space planning and furniture layouts. 3D views of each room. Material and colour selection with real samples. Electrical, lighting and plumbing plans. Custom furniture drawings for the carpenter. Site supervision and quality checks. You can take the full package or only the design drawings, depending on your needs.</p><p>Not sure how much to spend? We can show two or three options for the same room, so you can see what changes as the budget moves up or down.</p>"
+    ],
+    "process": [
+      "Step by Step, From Brief to Handover",
+      "<p>After the first meeting, we share a scope and a fee proposal. Our interior design services then move through layout, 3D design, material selection and a final budget.</p><p>During execution, our supervisor manages civil, electrical, carpentry, painting and installation work, and you get regular updates until the final handover.</p>"
+    ],
+    "whyHeading": "Why Choose Our Interior Design Services?",
+    "whyIntro": "<p>We keep the process simple and open: one point of contact, clear costs and a schedule you can hold us to. We also explain each line of the quote, so you know what you are paying for.</p>",
+    "whyText": [
+      "Designers and site staff who have handled many kinds of spaces.",
+      "Finishing checked room by room, not left to chance.",
+      "Planning and execution managed by the same team."
+    ],
+    "whyMore": [
+      [
+        "Design-Only or Turnkey",
+        "Pick the level of support you need."
+      ],
+      [
+        "Real Samples Before Ordering",
+        "See and touch materials before you decide."
+      ]
+    ],
+    "galleryText": "A look at homes we have completed in Saket, Green Park and South Extension.",
+    "closingHeading": "Good Interiors Start With the Right Questions",
+    "closing": "<p>The best results come when the designer understands your habits, budget and timeline from the start. A short first meeting is often enough to tell you what is realistic. That is how our interior design services stay focused on what you need.</p><p>Want to start a project in Hauz Khas? <a href=\"/hauzkhas/contact\">Book a visit with 9th Corner</a>.</p>"
+  },
+  "services-interior-designer-for-office": {
+    "introHeading": "Workspaces for Hauz Khas Startups and Studios",
+    "intro": "<p>From architecture studios and agencies in Hauz Khas Village to clinics and consultancies around Green Park, offices here need to do a lot with limited space. As an interior designer for office projects, we plan for focus, meetings, storage and a reception that makes a good first impression.</p>",
+    "cards": [
+      [
+        "Small Offices and Studios",
+        "<p>Many offices here sit in converted homes or upper floors of market buildings. We work with existing walls where we can, add glass partitions to share light and plan desks so nobody sits with their back to a door.</p><p>Acoustic panels and soft furnishings stop calls from carrying across a small room.</p><p>Phone booths and a small huddle room give people somewhere to take calls without leaving the floor.</p>"
+      ],
+      [
+        "Larger Corporate Floors",
+        "<p>For bigger teams, an interior designer for office floors has to balance open desks, cabins, meeting rooms, a pantry and quiet zones. We plan cabling, server space and power backup early, so the office runs smoothly from the first day.</p>"
+      ]
+    ],
+    "features": [
+      "What a Productive Office Needs",
+      "<p>Good daylight and glare-free task lighting. Chairs and desk heights that suit long hours. Enough meeting space, from two-person booths to a board room. Storage for files and personal items. A pantry people actually use. Branding at the reception and key walls so clients know where they are.</p><p>Cooling is often the biggest complaint in small offices. We place AC units and return air so no desk sits under a cold draft or in a warm corner.</p>"
+    ],
+    "process": [
+      "From Brief to Move-In",
+      "<p>We study your team size, growth plans and working style. Our interior designer for office projects then prepares the layout, furniture plan and 3D views for approval.</p><p>The site team handles partitions, false ceilings, electrical and data cabling, HVAC coordination, furniture and finishing, planned so your team can move in on the agreed date.</p>"
+    ],
+    "whyHeading": "Why Choose Us as Your Interior Designer for Office Spaces?",
+    "whyIntro": "<p>Office projects often run while the business is still working. Where needed, we schedule noisy work after hours and keep the site sealed off from staff areas. Furniture deliveries can be timed for weekends when that helps.</p>",
+    "whyText": [
+      "Offices, clinics and studios of many sizes.",
+      "Layouts that work for hybrid teams and daily meetings.",
+      "One team from drawing board to move-in day."
+    ],
+    "whyMore": [
+      [
+        "Cabling and Power Planned Early",
+        "No messy wires or tripping circuits later."
+      ],
+      [
+        "Room to Grow",
+        "Layouts that can take more desks without a rebuild."
+      ]
+    ],
+    "galleryText": "Interior projects by 9th Corner in Green Park, Saket and South Extension, near Hauz Khas.",
+    "closingHeading": "An Office Your Team Enjoys Coming To",
+    "closing": "<p>People do better work in a space that is comfortable and well planned. A good interior designer for office spaces keeps that in mind at every step. Small choices, like where the printer sits or how loud the pantry is, add up over a year.</p><p>Setting up or redoing an office in Hauz Khas? <a href=\"/hauzkhas/contact\">Contact 9th Corner</a> today.</p>"
+  },
+  "services-luxury-home-interior-designs": {
+    "introHeading": "Luxury Living in Hauz Khas Enclave and Beyond",
+    "intro": "<p>Some of South Delhi's finest independent houses sit in Hauz Khas Enclave, Safdarjung Development Area and Green Park. Our luxury home interior designs for these homes focus on quality you can feel: solid materials, careful detailing and rooms planned around the way the family entertains and relaxes.</p>",
+    "cards": [
+      [
+        "Living and Entertaining Spaces",
+        "<p>Formal living rooms, family lounges, dining areas and bar counters are where guests see a luxury home. We plan seating for different group sizes, a statement ceiling or wall, and lighting scenes that change from a dinner party to a quiet evening.</p><p>Art, sculpture and heirlooms get their own place, with lighting to match.</p><p>Many clients also want a home theatre or a bar that can close off when not in use. We design these as part of the main plan, not as an add-on.</p>"
+      ],
+      [
+        "Private Rooms and Suites",
+        "<p>Master suites with walk-in wardrobes, spa-style bathrooms and reading corners are at the heart of many luxury home interior designs. Children's rooms and guest suites get the same care, with storage and finishes chosen to last.</p>"
+      ]
+    ],
+    "features": [
+      "The Details Behind a Luxury Home",
+      "<p>Natural stone with matched veins. Veneers and solid wood finished by hand. Hardware that feels heavy and smooth. Smart lighting, curtains and climate control on one app. Hidden doors, concealed AC grilles and clean ceilings. Luxury is often about what you do not see, as much as what you do.</p><p>We also plan for service: access panels for AC and plumbing, room for staff to work unseen, and storage for linen and crockery near where it is used.</p>"
+    ],
+    "process": [
+      "How We Deliver a Luxury Home",
+      "<p>We begin with long conversations about your lifestyle, collections and wish list. Our luxury home interior designs are then presented through detailed drawings, material boards and 3D views of each room.</p><p>On site, our team works with skilled craftsmen and brand partners, and we check every finish before handover.</p>"
+    ],
+    "whyHeading": "Why Choose Our Luxury Home Interior Designs?",
+    "whyIntro": "<p>A luxury project needs patience and discretion. We respect your privacy, keep the site clean and secure, and plan work so your daily life is disturbed as little as possible. Our team also works within society rules on timings and noise.</p>",
+    "whyText": [
+      "Experience with large independent houses and villas.",
+      "Every room shaped around your family's routine.",
+      "Turnkey delivery, from first sketch to final styling."
+    ],
+    "whyMore": [
+      [
+        "Help With Sourcing",
+        "We guide you to trusted suppliers of stone, wood and fittings."
+      ],
+      [
+        "Careful Site Management",
+        "Clean, secure sites with daily supervision."
+      ]
+    ],
+    "galleryText": "High-end homes we have completed in South Extension, Green Park and Saket.",
+    "closingHeading": "A Home That Feels Special Every Day",
+    "closing": "<p>True luxury is comfort that lasts. Our luxury home interior designs aim for rooms that feel just as good in ten years as they do on the first day.</p><p>Planning a luxury home in Hauz Khas or nearby? <a href=\"/hauzkhas/contact\">Talk to 9th Corner</a> for a private consultation.</p>"
+  },
+  "services-modern-interior-design": {
+    "introHeading": "Modern Living for Hauz Khas Homes and Workspaces",
+    "intro": "<p>Hauz Khas has a real mix of buildings. There are old kothis in Hauz Khas Enclave, builder floors along the inner lanes and DDA flats towards Green Park and SDA. With modern interior design, we open up dark passages, fix awkward room shapes and plan storage around how your family actually uses the house.</p>",
+    "cards": [
+      [
+        "Homes, Floors and Flats",
+        "<p>A typical builder floor here has one long living and dining room, with bedrooms off a narrow corridor. We first work out where the daylight comes from and keep that side free of tall units. Built-in seating, a slim TV wall and sliding doors in place of swing doors can free up a lot of floor.</p><p>In older homes, we keep what is worth keeping, like a stone floor or an old railing, and design around it.</p>"
+      ],
+      [
+        "Cafés, Studios and Shops",
+        "<p>Hauz Khas Village and the main market have many small commercial spaces that need to work hard. A café must seat enough people without feeling packed.</p><p>We plan around the business first: covers, service routes, display walls and lighting that looks right in photos. Modern interior design suits them well, as a plain backdrop lets the food, art or product stand out.</p>"
+      ]
+    ],
+    "features": [
+      "What Makes a Space Feel Modern",
+      "<p>Modern interior design has less to do with costly furniture and more to do with restraint. Fewer materials, used well. Lighting in layers: a soft ceiling wash, task lights over counters and a lamp or two for the evening. Colour comes from art, rugs or one feature wall, set against a quiet base of off-white, grey or beige.</p>"
+    ],
+    "process": [
+      "From First Visit to Handover",
+      "<p>We start every modern interior design project with a site visit and full measurements, because older Delhi homes rarely match their drawings. A 2D layout and 3D views follow, so you see each room before work begins. Once you approve, we fix the material list and budget with you.</p><p>Our team then runs civil work, carpentry, electricals, false ceilings and painting, and checks each room before handover.</p>"
+    ],
+    "whyHeading": "Why Choose Us for Modern Interior Design?",
+    "whyIntro": "<p>Renovating in a settled neighbourhood like Hauz Khas has its own challenges: society rules, narrow lanes for material delivery and neighbours who expect quiet hours. We plan for these from day one.</p>",
+    "whyText": [
+      "Current materials and finishes, chosen to last beyond the trend.",
+      "Plans drawn for your exact floor, be it a flat or a café.",
+      "You deal with one team for drawings, site work and finishing."
+    ],
+    "whyMore": [
+      [
+        "Costs Agreed Before Work Starts",
+        "A clear estimate and material list before anything is ordered."
+      ],
+      [
+        "One Project Manager Throughout",
+        "One person to call, from the first visit to handover."
+      ]
+    ],
+    "closingHeading": "A Modern Home That Still Feels Like Yours",
+    "closing": "<p>Good modern interior design should not look like a showroom. It should make mornings easier, give everything a place and still feel personal.</p><p>Planning a new home, a renovation or a commercial space in Hauz Khas? <a href=\"/hauzkhas/contact\">Talk to 9th Corner</a>.</p>",
+    "galleryText": "Homes we have finished in Green Park, Saket and South Extension, close to Hauz Khas."
+  },
+  "services-residential-interior-design": {
+    "introHeading": "Homes for Every Stage of Life",
+    "intro": "<p>Hauz Khas has young couples in rented builder floors, families in DDA flats and older parents in large kothis. Our residential interior design work adapts to each of them. A first home needs smart storage on a tight budget; a family home needs space for children and guests; an older couple may need safer bathrooms and easier access.</p>",
+    "cards": [
+      [
+        "Flats and Builder Floors",
+        "<p>Builder floors usually come with bare walls and basic fittings. We add wardrobes, a modular kitchen, false ceilings, lighting and furniture that suit the size of each room.</p><p>In older DDA flats, we often take down a wall, fix the plumbing and move the kitchen to make the home feel bigger.</p>"
+      ],
+      [
+        "Independent Houses",
+        "<p>Larger homes allow more freedom: a family lounge, a puja room, a home office, a terrace garden. Residential interior design for a full house also means planning stairs, lifts and outdoor areas so every floor feels connected.</p><p>For homes shared by two or three generations, we plan separate zones that still meet at the dining table.</p>"
+      ]
+    ],
+    "features": [
+      "What Makes a Home Comfortable",
+      "<p>Enough storage that clutter has somewhere to go. Kitchens planned for Indian cooking, with a chimney, utility area and space for big vessels. Bathrooms with good drainage and anti-skid floors. Bedrooms that stay dark and quiet. Light and air in every room, and finishes that are easy to clean.</p><p>Small homes need extra care: beds with storage, fold-down tables and wall-mounted units free up floor space without making rooms feel crowded.</p>"
+    ],
+    "process": [
+      "How a Home Project Comes Together",
+      "<p>We visit your home, measure every room and talk to each family member. Our residential interior design team then prepares layouts and 3D views and agrees a budget with you.</p><p>Carpentry, electrical, plumbing, painting and furnishing are carried out under our supervision, with a final walk-through before you move in. If you are living in the house, we finish one area at a time so the family always has a working kitchen and bathroom.</p>"
+    ],
+    "whyHeading": "Why Choose Us for Residential Interior Design?",
+    "whyIntro": "<p>Many clients live at home while the work goes on. We plan the job room by room, keep dust under control and finish on schedule.</p>",
+    "whyText": [
+      "Designers who know South Delhi homes, old and new.",
+      "Comfort and daily routine guide every choice.",
+      "One team from the first 3D view to the last coat of paint."
+    ],
+    "whyMore": [
+      [
+        "Budget-Friendly Options",
+        "Smart choices that look good and save money."
+      ],
+      [
+        "Safe for Elders and Kids",
+        "Rounded edges, grab bars and anti-skid floors."
+      ]
+    ],
+    "galleryText": "Family homes we have completed in Green Park, Saket and South Extension, near Hauz Khas.",
+    "closingHeading": "A Home That Grows With You",
+    "closing": "<p>Families change: children grow up, parents move in, work moves home. Good residential interior design plans for these changes from the start.</p><p>Planning a new home or renovation in Hauz Khas? <a href=\"/hauzkhas/contact\">Contact 9th Corner</a> to book a site visit.</p>"
+  },
+  "services-top-interior-design-firm": {
+    "introHeading": "What a Top Firm Brings to Your Project",
+    "intro": "<p>Choosing a top interior design firm in Hauz Khas is less about big claims and more about a steady process. You want a team that plans properly, keeps costs clear and finishes what it starts. That is the standard we set for every home, office and shop we take on.</p>",
+    "cards": [
+      [
+        "Residential Projects",
+        "<p>From a two-bedroom DDA flat to a four-floor family house, we design kitchens, wardrobes, living areas, bathrooms and lighting as one plan. Each room is drawn in detail so the carpenter and electrician know exactly what to build.</p><p>We help with furniture, curtains and décor too, so the home feels finished.</p><p>Older houses often need waterproofing, rewiring or new plumbing first. We check this early and include it in the plan.</p>"
+      ],
+      [
+        "Commercial Projects",
+        "<p>Cafés, studios, clinics and offices need fast, careful execution. A top interior design firm plans the work around your opening date, permits and budget, and keeps the brand look consistent across every surface.</p><p>We also coordinate with landlords and building managers on approvals and work hours.</p>"
+      ]
+    ],
+    "features": [
+      "How We Keep Quality High",
+      "<p>Detailed drawings for every room. Material samples approved by you before purchase. A site supervisor who checks work daily. Quality checks at key stages: before plastering, after electrical work, before painting and at handover. Snag lists closed before we leave the site.</p><p>Every client gets a project file with drawings, approved samples, the budget and a list of warranties for appliances and fittings.</p>"
+    ],
+    "process": [
+      "Our Project Stages",
+      "<p>Brief and site visit, layout and concept, 3D views, material selection, budget approval, execution and handover. At a top interior design firm, each stage ends with a clear output that you sign off before the next one begins.</p><p>This keeps decisions organised and avoids costly changes on site.</p>"
+    ],
+    "whyHeading": "Why Choose Us as Your Top Interior Design Firm?",
+    "whyIntro": "<p>Clients in South Delhi have many options. We earn their trust through clear communication, steady site work and honest advice, even when that means suggesting a simpler option. If something goes wrong on site, we tell you, and we fix it.</p>",
+    "whyText": [
+      "A design team with experience across homes and businesses.",
+      "Solutions sized for your space, budget and timeline.",
+      "Planning, site work and handover managed in one place."
+    ],
+    "whyMore": [
+      [
+        "Sign-Off at Every Stage",
+        "Nothing moves ahead without your approval."
+      ],
+      [
+        "Snag-Free Handover",
+        "Every issue closed before we leave."
+      ]
+    ],
+    "galleryText": "Completed projects by our team in Saket, South Extension and Green Park.",
+    "closingHeading": "Work With a Team That Finishes Well",
+    "closing": "<p>A project is only as good as its last week on site. As a top interior design firm, we put the same care into finishing as we do into the first design. Clients notice the last details most: straight grout lines, smooth drawers, clean switch plates.</p><p>Looking for a design partner in Hauz Khas? <a href=\"/hauzkhas/contact\">Reach out to 9th Corner</a>.</p>"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "h1": "Interior Designer for Office in Rajokri, Delhi",
+  "heroImage": "'/img/e1.avif'",
+  "intro": "<p>As an interior designer for office spaces in Rajokri, Delhi, we design offices that enhance efficiency, reflect your unique brand identity, and prioritize employee comfort. From high-stakes corporate headquarters to creative co-working spaces, we build professional, functional, and visually striking work environments. Our goal is to create a space where your team feels motivated and your brand values are evident in every detail.</p>",
+  "philosophyHeading": "Smart and Functional Office Interiors",
+  "philosophy": "<p>\"Our designs focus on the core pillars of the modern workplace: ergonomic planning, innovative furniture, smart lighting, and brand-aligned aesthetics. Each office is meticulously tailored to streamline workflow, foster collaboration, and impress every client who walks through your doors.\"</p>",
+  "cards": [
+    [
+      "Optimized Layouts",
+      "Strategic floor planning designed to reduce clutter and noise while maximizing space for both deep concentration and team synergy."
+    ],
+    [
+      "Ergonomic Focus",
+      "Integrating high-performance seating, adjustable workstations, and fatigue-reducing lighting to protect your team’s health and focus."
+    ],
+    [
+      "Brand Integration",
+      "Translating your company’s vision into physical space through custom color palettes, signage, and bespoke architectural features."
+    ]
+  ],
+  "reasons": [
+    "Experienced in High-Scale Corporate Projects",
+    "Customized Solutions for Evolving Business Needs",
+    "Comprehensive Management from Concept to Turnkey Delivery"
+  ],
+  "cta": "Ready to build a workspace that works as hard as you do? Partner with Rajokri's premier interior designer for office spaces and transform your corporate environment today.",
+  "faq": "<!-- FAQS:auto -->\n        <section class=\"faq-section\">\n            <h2>Frequently Asked Questions</h2>\n            <div class=\"faq-list\">\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Do you work as an interior designer for office projects in Rajokri?</h3>\n                    <p class=\"faq-a\">Yes. We design offices in Rajokri, Mahipalpur, Aerocity and Gurgaon, including corporate offices and offices inside farmhouses.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Can you design an office for a logistics or travel business?</h3>\n                    <p class=\"faq-a\">Yes. Many businesses near the airport need front offices, meeting rooms and back-office areas, which we plan around their daily workflow.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">How do you make an office comfortable for long hours?</h3>\n                    <p class=\"faq-a\">Ergonomic furniture, natural light, good air-conditioning and quiet zones make a big difference to how a team feels at work.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">What does an interior designer for office work deliver?</h3>\n                    <p class=\"faq-a\">Layouts, 3D views, furniture and finish selections, contractor drawings and supervision until the office is ready to use.</p>\n                </div>\n            </div>\n        </section>\n        <!-- /FAQS:auto -->"
+}

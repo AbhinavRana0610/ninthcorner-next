@@ -1,0 +1,28 @@
+{
+  "h1": "Interior Design Services in Hauz Khas, Delhi",
+  "heroImage": "'/img/cos5.avif'",
+  "intro": "<p>Our interior design services in Hauz Khas, Delhi cover residential, commercial, and luxury spaces. We provide complete solutions from conceptualization to execution, ensuring every project is visually stunning, functional, and deeply personalized. Our services include strategic space planning, premium material selection, bespoke furniture design, architectural lighting, and end-to-end project management.</p>",
+  "philosophyHeading": "Tailored Designs for Every Space",
+  "philosophy": "<p>\"We take a holistic approach, combining creative vision with technical practicality. By understanding your lifestyle or brand requirements, we craft interiors that are not only aesthetically pleasing but also sustainable, enhancing comfort, usability, and the long-term value of your property.\"</p>",
+  "cards": [
+    [
+      "End-to-End Execution",
+      "Our interior design services handle everything from initial sketches to final site cleanup, ensuring a stress-free transformation for our clients."
+    ],
+    [
+      "Customized Solutions",
+      "Bespoke interior roadmaps for modern apartments, corporate offices, and luxury retail boutiques in Hauz Khas."
+    ],
+    [
+      "3D Visualization",
+      "Advanced architectural rendering and space planning that allows you to walk through your dream space before construction begins."
+    ]
+  ],
+  "reasons": [
+    "Experienced & Professional Multi-Disciplinary Design Team",
+    "Rigorous Attention to Detail & High-Quality Craftsmanship",
+    "Seamless Management from Initial Concept to Turnkey Completion"
+  ],
+  "cta": "Ready to bring your vision to life? Partner with the leading interior specialists in Hauz Khas to create a space that inspires and performs.",
+  "faq": "<!-- FAQS:auto -->\n        <section class=\"faq-section\">\n            <h2>Frequently Asked Questions</h2>\n            <div class=\"faq-list\">\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">What interior design services do you provide in Hauz Khas?</h3>\n                    <p class=\"faq-a\">Space planning, concept design, 3D views, working drawings, material selection, custom furniture, lighting and site supervision for homes, cafés, salons and offices.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Do you design cafés and restaurants?</h3>\n                    <p class=\"faq-a\">Yes. Hospitality spaces need seating plans, kitchen coordination, lighting moods and durable finishes, and we plan these together with your operations team.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Can I start with a consultation only?</h3>\n                    <p class=\"faq-a\">Yes. A consultation helps you understand layout options and a rough scope before you commit to a full project.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Why choose complete interior design services for a builder floor?</h3>\n                    <p class=\"faq-a\">A builder floor has kitchens, wardrobes, bathrooms and ceilings all at once. One team handling design and supervision keeps the finish consistent.</p>\n                </div>\n            </div>\n        </section>\n        <!-- /FAQS:auto -->"
+}

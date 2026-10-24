@@ -1,0 +1,552 @@
+{
+  "_about": "Chhattarpur service pages rebuilt in the Delhi service-page layout (content/city-expansion/service-page.css) with extra local content. The page's own hero, intro, philosophy box, three feature cards, reason titles, CTA and FAQ are kept from the page; everything here is added. Applied by scripts/apply-city-expansion.mjs.",
+  "_gallery": {
+    "heading": "Our Completed Projects Near Chhattarpur",
+    "images": [
+      [
+        "/img/project/mr-sachin-saket/mr-sachin-saket/2.avif",
+        "Home interior project in Saket, Delhi by 9th Corner",
+        "Saket Home Interior"
+      ],
+      [
+        "/img/project/mr-virend-singh-gurgaon/mr-virend-singh-gurgaon/final-a.avif",
+        "Residence designed by 9th Corner in Gurgaon",
+        "Gurgaon Residence"
+      ],
+      [
+        "/img/project/mr-rao-green-park/mr-rao-green-park/23.avif",
+        "Interior design project in Green Park, Delhi by 9th Corner",
+        "Green Park Interior"
+      ],
+      [
+        "/img/project/mr-sachin-saket/mr-sachin-saket/27.avif",
+        "Living area interior in Saket, Delhi by 9th Corner",
+        "Saket Living Area"
+      ],
+      [
+        "/img/project/mr-virend-singh-gurgaon/mr-virend-singh-gurgaon/final-b.avif",
+        "Home project in Gurgaon by 9th Corner",
+        "Gurgaon Home Project"
+      ],
+      [
+        "/img/project/mr-rao-green-park/mr-rao-green-park/24.avif",
+        "Residential interior in Green Park, Delhi by 9th Corner",
+        "Green Park Residence"
+      ],
+      [
+        "/img/project/mr-sachin-saket/mr-sachin-saket/28.avif",
+        "Apartment design in Saket, Delhi by 9th Corner",
+        "Saket Apartment"
+      ],
+      [
+        "/img/project/mr-virend-singh-gurgaon/mr-virend-singh-gurgaon/final-c.avif",
+        "Interior and architecture project in Gurgaon by 9th Corner",
+        "Gurgaon Project"
+      ]
+    ]
+  },
+  "services-Salon-interior-designer": {
+    "introHeading": "Salon Design for Chhattarpur's Main Roads and Markets",
+    "intro": "<p>Salons in Chhattarpur serve two very different crowds. Families from Chhattarpur Enclave and the nearby colonies want a reliable local place for haircuts and grooming, while the farmhouse wedding season brings a steady stream of bridal and party bookings. A salon interior designer working here has to plan for both, often on the same floor.</p>",
+    "cards": [
+      [
+        "Salons on Busy Main Roads",
+        "<p>Shops along Chhattarpur Main Road and the MG Road stretch face dust, traffic noise and strong afternoon sun. We use sealed glazing, a small entry lobby and blinds that cut glare without hiding the salon from the street.</p>"
+      ],
+      [
+        "Bridal and Makeup Studios",
+        "<p>With so many wedding venues nearby, makeup and bridal work can be a big share of income. A salon interior designer plans a separate makeup room with shadow-free lighting, a large mirror, a changing area and a corner where the finished look can be photographed. Lehengas and jewellery need safe hanging and storage space too.</p>"
+      ]
+    ],
+    "features": [
+      "Planning Around the Working Day",
+      "<p>Mornings are slow and evenings are packed, so the layout must handle peak hours without chaos. We separate the waiting area from the stations, keep the wash zone close to the colour bar and give staff a short, direct route to the store room. Power points are planned for dryers, straighteners and steamers running together, with a dedicated circuit so the lights do not dip.</p>"
+    ],
+    "process": [
+      "Steps to Opening Day",
+      "<p>We first visit the shop and check the ceiling height, water line, drainage and electrical load. Our salon interior designer team then prepares a layout and 3D views, followed by a cost estimate you can compare line by line.</p><p>Work on site covers civil changes, plumbing for basins, wiring, false ceiling, furniture, mirrors and signboards. A written schedule lets you plan hiring and launch offers around a real date.</p>"
+    ],
+    "whyHeading": "Why Work With Us as Your Salon Interior Designer?",
+    "whyIntro": "<p>We know that a salon is a business first. Every design choice is checked against two questions: will it bring clients in, and will it make the staff faster?</p>",
+    "whyText": [
+      "Hands-on work with salon floors, spas and makeup rooms.",
+      "Your brand look and daily routine planned together.",
+      "Design, site work and setup handled by one team."
+    ],
+    "whyMore": [
+      [
+        "Ready for Wedding Season",
+        "Bridal rooms that handle back-to-back bookings."
+      ],
+      [
+        "Backup Power Planned",
+        "Key lights and tools stay on during cuts."
+      ]
+    ],
+    "galleryText": "Interiors we have completed in Saket, Green Park and Gurgaon, all within easy reach of Chhattarpur.",
+    "closingHeading": "Give Your Clients a Reason to Choose You",
+    "closing": "<p>There is no shortage of salons on Chhattarpur's roads. A good salon interior designer helps yours look different from the first glance and run smoothly behind the scenes.</p><p>Planning a new salon or a makeover? <a href=\"/chhattarpur/contact\">Call or message 9th Corner</a> and we will visit your shop to discuss ideas.</p>"
+  },
+  "services-architecture-services": {
+    "introHeading": "Planning Buildings on Chhattarpur's Varied Land",
+    "intro": "<p>Chhattarpur has everything from narrow village lanes to large farm plots and planned enclave homes. Each type of site comes with its own rules and problems. Our architecture services start by understanding what the land, the access road and the local regulations allow, before a single line of the design is drawn.</p>",
+    "cards": [
+      [
+        "Farmhouse and Large-Plot Buildings",
+        "<p>On farm plots, the main house, staff quarters, garage and outdoor areas need to be placed with care. We study sun direction, existing trees, the approach road and drainage so the buildings sit well on the land and stay cool through the summer.</p><p>Boundary walls, gates and guard rooms are designed as part of the same plan, so the property feels complete.</p>"
+      ],
+      [
+        "Houses in Chhattarpur Enclave",
+        "<p>Plots in the enclave and nearby colonies are smaller and closer together. Our architecture services here focus on getting the most from each floor: a compact stair and lift core, stilt parking, light from the front and rear, and terraces that can be used rather than left empty.</p>"
+      ]
+    ],
+    "features": [
+      "Planning for Water, Power and Drainage",
+      "<p>Many sites in this part of South Delhi rely on borewells, water tankers and backup generators. We plan underground and overhead tanks, rainwater harvesting, a proper generator room and drains sized for heavy monsoon rain. Roads here can flood in a downpour, so plinth levels and entry ramps are set with that in mind.</p><p>These details rarely show in a brochure, but they decide whether a building is easy to live in.</p>"
+    ],
+    "process": [
+      "How We Run an Architecture Project",
+      "<p>The first step is a site visit and a survey of levels, boundaries and neighbouring buildings. We then share two or three concept options with rough costs, and develop the one you choose into working drawings.</p><p>During construction, our architecture services include regular site visits, checks on structure and finishes, and coordination with the contractor and consultants until handover.</p>"
+    ],
+    "whyHeading": "Why Choose Our Architecture Services in Chhattarpur?",
+    "whyIntro": "<p>Building on the edge of the city brings practical questions about access, utilities and approvals. We answer these early, so your budget and timeline stay realistic.</p>",
+    "whyText": [
+      "Projects ranging from compact plots to open farmland.",
+      "Designs that balance looks, structure and running costs.",
+      "Support from the first survey to the final handover."
+    ],
+    "whyMore": [
+      [
+        "Utilities Planned From Day One",
+        "Tanks, generators and drains placed properly."
+      ],
+      [
+        "Site Visits at Key Stages",
+        "Work checked against drawings as it goes up."
+      ]
+    ],
+    "galleryText": "A few of our completed homes in Gurgaon, Saket and Green Park, close to the Chhattarpur area.",
+    "closingHeading": "Start With the Land, End With a Home",
+    "closing": "<p>Every good building begins with a careful look at its site. Thoughtful architecture services turn the limits of a plot into its strengths.</p><p>Have land or an old house in Chhattarpur? <a href=\"/chhattarpur/contact\">Get in touch with 9th Corner</a> to arrange a site survey.</p>"
+  },
+  "services-best-interior-designers": {
+    "introHeading": "How to Spot the Right Design Team in Chhattarpur",
+    "intro": "<p>Homeowners in Chhattarpur often look for the best interior designers when they finish a new floor, rework a family house or set up a farmhouse. The list of options is long, so it helps to look past the portfolio and ask how a firm actually runs a project, from first drawing to final clean-up.</p>",
+    "cards": [
+      [
+        "Independent Houses and Floors",
+        "<p>Many homes in Chhattarpur Enclave are built floor by floor, with each level used by a different part of the family. We design each floor to stand on its own while keeping a common look on the staircase, entrances and facade.</p><p>Kitchens, wardrobes and bathrooms get the most attention, because that is where daily life happens.</p>"
+      ],
+      [
+        "Farmhouses and Event Spaces",
+        "<p>Large properties need a different approach. The best interior designers for a farmhouse think about guest movement, outdoor dining, staff areas and how the house will look under evening lights during a function, as well as the family's private rooms.</p>"
+      ]
+    ],
+    "features": [
+      "Questions Worth Asking Any Designer",
+      "<p>Who will visit the site, and how often? How are changes priced once work starts? Which brands of hardware, laminate and paint are included? What happens if a carpenter leaves halfway? A good firm answers these clearly before you sign. We share a written scope, a payment plan linked to work done and a list of materials for every room.</p><p>We are happy to show you finished homes, not only renders.</p>"
+    ],
+    "process": [
+      "Our Way of Working",
+      "<p>It starts with a home visit and a long chat about your family, habits and budget. We then prepare a layout, a mood board and 3D views. Once you approve, the drawings go to our site team with a fixed schedule.</p><p>Throughout the work you get regular photo updates. Before handover, we walk the house with you and fix every point on the snag list. That steady follow-through is what the best interior designers are remembered for.</p>"
+    ],
+    "whyHeading": "What Makes Us One of the Best Interior Designers to Consider",
+    "whyIntro": "<p>We would rather under-promise and deliver than impress with a render that never gets built. Clear costs and a realistic timeline come first.</p>",
+    "whyText": [
+      "Work across houses, farmhouses, shops and offices.",
+      "Ideas built around your routine and your budget.",
+      "Neat finishing with branded hardware and fittings."
+    ],
+    "whyMore": [
+      [
+        "Payments Linked to Progress",
+        "You pay as each stage is completed."
+      ],
+      [
+        "Finished Homes You Can Visit",
+        "See real work, not only 3D images."
+      ]
+    ],
+    "galleryText": "Homes our team has completed in Green Park, Gurgaon and Saket, near Chhattarpur.",
+    "closingHeading": "A Designer Who Stays Until the Last Detail",
+    "closing": "<p>Choosing among the best interior designers comes down to trust. Look for a team that explains its choices, sticks to its word and takes care of the small things at the end.</p><p>Ready to talk about your home in Chhattarpur? <a href=\"/chhattarpur/contact\">Book a meeting with 9th Corner</a>.</p>"
+  },
+  "services-best-salon-interior-designer": {
+    "introHeading": "Salons That Stand Out in South Delhi",
+    "intro": "<p>Chhattarpur sits between Saket, Vasant Kunj and the farmhouse belt, so local salons compete with big-brand chains a short drive away. Owners who want the best salon interior designer are usually trying to close that gap: to offer a premium feel at local prices, in a space that may be small or oddly shaped.</p>",
+    "cards": [
+      [
+        "High-End Salons and Spas",
+        "<p>For premium salons we use fewer, well-spaced stations, a separate colour lounge and quiet treatment rooms for facials and massages. Warm lighting, soft music zones and a proper reception desk set the tone before the first service begins.</p><p>We often add a small retail wall, since product sales can add a healthy share to monthly revenue.</p>"
+      ],
+      [
+        "Compact Salons in Market Lanes",
+        "<p>In the inner markets, shops are narrow and deep. The best salon interior designer makes such a space feel open with mirrors placed to widen the room, light colours, slim furniture and a wash area tucked at the back where plumbing is easier to run.</p>"
+      ]
+    ],
+    "features": [
+      "Getting Light and Air Right",
+      "<p>Hair colour must look true, so stations need bright, even light with good colour accuracy. At the same time, the room should not feel like a clinic. We mix task lights at the mirrors with warmer ceiling light elsewhere. Exhaust fans near the colour bar and wash area keep fumes and humidity down, and cooling is sized for a full house in May.</p>"
+    ],
+    "process": [
+      "From First Meeting to First Client",
+      "<p>We talk through your services, pricing and target customers, then measure the shop. Next come layout options and 3D views. As the best salon interior designer for your budget, we suggest where to spend more and where a simpler finish will do.</p><p>After approval, our team handles site work and installs furniture, mirrors, lighting and signage, ready for your launch.</p>"
+    ],
+    "whyHeading": "Choosing the Best Salon Interior Designer for Your Brand",
+    "whyIntro": "<p>We plan your salon the way you run it. That means talking to your senior stylists, not just the owner, before the layout is final.</p>",
+    "whyText": [
+      "Experience with salons, spas and beauty rooms of every size.",
+      "Branding, workflow and budget planned as one.",
+      "A complete service, from drawings to the opening day."
+    ],
+    "whyMore": [
+      [
+        "Stylists Consulted on Layout",
+        "Stations planned with the people who use them."
+      ],
+      [
+        "Spend Where It Shows",
+        "Budget focused on what clients notice most."
+      ]
+    ],
+    "galleryText": "Projects we have finished in Saket, Gurgaon and Green Park, close to Chhattarpur.",
+    "closingHeading": "Look Premium, Work Smart",
+    "closing": "<p>Clients judge a salon in seconds. With the best salon interior designer on your side, the space earns that trust while helping your team work faster.</p><p>Thinking about a salon in Chhattarpur? <a href=\"/chhattarpur/contact\">Reach 9th Corner</a> to discuss your plan.</p>"
+  },
+  "services-farmhouse-interior-designer": {
+    "introHeading": "Interiors for Chhattarpur's Farmhouse Belt",
+    "intro": "<p>Chhattarpur is one of Delhi's best-known farmhouse areas. Some properties are full-time homes, some are weekend retreats and many host weddings and parties through the season. As a farmhouse interior designer, we start by asking which of these your property is, because each one needs a very different plan.</p>",
+    "cards": [
+      [
+        "Weekend Homes and Family Residences",
+        "<p>Families who live on the farm want a home that feels open but still cosy in winter. We plan large living rooms that can be divided with sliding screens, a fireplace or heater corner, verandas for sitting out and bedrooms that look onto the garden.</p><p>Staff quarters, a laundry and a store for garden tools are kept close but out of sight.</p>"
+      ],
+      [
+        "Event and Wedding Farmhouses",
+        "<p>A venue farmhouse has to handle hundreds of guests. A farmhouse interior designer plans wide entries, clean toilet blocks, a service kitchen for caterers, a bridal suite with its own access and parking that does not choke the gate. Lighting and power for stages and DJs are planned from the start.</p>"
+      ]
+    ],
+    "features": [
+      "Dealing With Dust, Heat and Monsoon",
+      "<p>Open land means more dust, harsh summer sun and heavy rain. We use sealed windows with deep overhangs, stone and tile floors that wash easily, and outdoor furniture that can stay out in the weather. Roof insulation and light-coloured terraces keep the house cooler. Drains around the building and slopes on the lawn stop water from collecting near the walls.</p><p>Insects are kept out with mesh doors and well-placed outdoor lights.</p>"
+    ],
+    "process": [
+      "Managing a Farmhouse Project",
+      "<p>We walk the whole property with you, note the trees, water points and existing buildings, and talk about how you plan to use each part. The farmhouse interior designer on our team then prepares a master layout, followed by 3D views of the main spaces.</p><p>Execution covers interiors, outdoor structures, lighting and coordination with landscapers and pool contractors, with weekly updates for owners who live in the city.</p>"
+    ],
+    "whyHeading": "Why Pick Us as Your Farmhouse Interior Designer in Chhattarpur?",
+    "whyIntro": "<p>Farmhouse owners are often busy and visit only on weekends. We make that work by keeping decisions organised and sharing clear updates between visits.</p>",
+    "whyText": [
+      "Experience with both homes and event farmhouses.",
+      "Interiors shaped by how you use the property.",
+      "One team for indoor, outdoor and finishing work."
+    ],
+    "whyMore": [
+      [
+        "Weekly Updates for Owners",
+        "Photos and notes, even when you cannot visit."
+      ],
+      [
+        "Weather-Ready Materials",
+        "Finishes chosen for dust, sun and rain."
+      ]
+    ],
+    "galleryText": "Homes we have completed in Gurgaon, Green Park and Saket, a short drive from Chhattarpur.",
+    "closingHeading": "Make the Most of Your Land",
+    "closing": "<p>A farmhouse has space that a city home never will. The right farmhouse interior designer makes every part of it useful, from the gate to the back lawn.</p><p>Own a farmhouse in Chhattarpur? <a href=\"/chhattarpur/contact\">Ask 9th Corner for a site visit</a>.</p>"
+  },
+  "services-interior-architect-for-showroom-design": {
+    "introHeading": "Showrooms Along MG Road and Chhattarpur",
+    "intro": "<p>The stretch of MG Road near Chhattarpur, Sultanpur and Ghitorni is lined with furniture, lighting, tile and home décor showrooms. Many customers drive in from Gurgaon and South Delhi with a clear purchase in mind. An interior architect for showroom design helps make sure they find it, like it and buy it in your store rather than the next one.</p>",
+    "cards": [
+      [
+        "Furniture and Home Décor Showrooms",
+        "<p>Big-ticket items sell better when buyers can imagine them at home. We create room-style displays with rugs, lights and accessories, set at a scale that matches real living rooms and bedrooms. Wide aisles let families walk together and discuss without crowding.</p><p>A quiet seating corner near the billing desk gives space to close the deal.</p>"
+      ],
+      [
+        "Kitchen, Bath and Tile Galleries",
+        "<p>Customers want to see and touch materials. An interior architect for showroom design plans working kitchen and bathroom displays, sample walls that can be updated easily and lighting that shows how a tile or finish will look in daylight.</p><p>Storage for samples and catalogues sits behind the displays, so staff can fetch them without leaving the customer for long.</p>"
+      ]
+    ],
+    "features": [
+      "Getting Customers From the Road to the Back Wall",
+      "<p>On a highway, the frontage has seconds to catch attention, so the facade, signage and night lighting matter a great deal. Inside, a clear focal display near the door, a loop that passes every category and good lighting at the far end pull people deeper into the store.</p><p>Parking access, a visible entrance and a clean, cool waiting area also play a big part in whether visitors stay.</p>"
+    ],
+    "process": [
+      "How We Plan a Showroom",
+      "<p>We study your product mix, stock levels and customer profile, then prepare zoning options. As an interior architect for showroom design, we detail every display unit, the lighting plan and the facade, and share 3D walk-throughs.</p><p>On site we handle civil work, ceilings, flooring, electricals, display fixtures and signage, planned to keep the shut-down period short.</p>"
+    ],
+    "whyHeading": "Why Work With Our Interior Architect for Showroom Design",
+    "whyIntro": "<p>Large showrooms are big investments. We plan with resale and future layout changes in mind, so the space can adapt as your product range grows. Fixtures are built to be moved, not thrown away.</p>",
+    "whyText": [
+      "Experience with retail and display-led commercial spaces.",
+      "Layouts tailored to your brand and product types.",
+      "Design and execution handled together, start to finish."
+    ],
+    "whyMore": [
+      [
+        "Facade and Signage Included",
+        "Your store is noticed from the road."
+      ],
+      [
+        "Displays That Can Change",
+        "Update collections without a refit."
+      ]
+    ],
+    "galleryText": "Completed interiors by 9th Corner in Green Park, Saket and Gurgaon.",
+    "closingHeading": "Turn Visitors Into Buyers",
+    "closing": "<p>Traffic on MG Road brings people past your door. A skilled interior architect for showroom design gives them a reason to stop, look around and buy.</p><p>Planning a showroom near Chhattarpur? <a href=\"/chhattarpur/contact\">Contact 9th Corner</a> to begin.</p>"
+  },
+  "services-interior-design-services": {
+    "introHeading": "Interior Work for Chhattarpur Homes and Properties",
+    "intro": "<p>Chhattarpur has a little of everything: new builder floors, older family houses, farmhouses and small commercial units. Our interior design services are set up to handle each of these, from a single room to a whole property fitted out from bare walls.</p>",
+    "cards": [
+      [
+        "Full-Home Interiors",
+        "<p>For a new floor or house, we plan every room together so the home has one clear look. This covers the kitchen, wardrobes, TV units, beds, false ceilings, lighting, curtains and loose furniture. We also plan the small things that make daily life easy, such as shoe storage at the entrance and a utility area for the washing machine.</p><p>Rental floors and homes being readied for sale get a lighter package: fresh paint, new lights, repaired fittings and a few smart storage pieces.</p>"
+      ],
+      [
+        "Renovating Older Houses",
+        "<p>Older homes often need repairs before new interiors can go in. Our interior design services include checking for damp, cracks, old wiring and weak plumbing, then fixing them as part of the plan. This avoids new cabinets going up on walls that will need breaking later.</p><p>We can also update just the kitchen and bathrooms if that is all you need.</p>"
+      ]
+    ],
+    "features": [
+      "Services You Can Pick From",
+      "<p>Some clients want only drawings and 3D views to work with their own contractor. Others want us to manage everything. We offer design-only packages, design with supervision and full turnkey projects. In each case you get a written list of what is included, so there is no confusion later.</p><p>We can also help choose furniture, art and décor once the main work is done.</p>"
+    ],
+    "process": [
+      "What Happens After You Call Us",
+      "<p>We fix a site visit, measure the space and listen to what you want. Within a few days we share a proposal for our interior design services with the scope, timeline and fees.</p><p>Once you go ahead, we move through layouts, 3D design and material selection, then start site work with a supervisor in charge. You get regular updates and a final handover with all warranties.</p>"
+    ],
+    "whyHeading": "Reasons to Pick Our Interior Design Services",
+    "whyIntro": "<p>We keep things simple: one contact person, clear paperwork and quick answers when you have a question. Site photos are shared on a fixed day each week.</p>",
+    "whyText": [
+      "A team used to homes, farmhouses and small businesses.",
+      "Good fittings and careful finishing in every room.",
+      "One process from first sketch to final handover."
+    ],
+    "whyMore": [
+      [
+        "Packages to Suit You",
+        "Design-only, supervision or full turnkey."
+      ],
+      [
+        "Repairs Handled First",
+        "Damp, wiring and plumbing fixed before new work."
+      ]
+    ],
+    "galleryText": "Some of our finished homes in Saket, Gurgaon and Green Park.",
+    "closingHeading": "Interiors That Fit Your Plans and Budget",
+    "closing": "<p>Good interior design services should make your life easier, not add to your worries. We aim to keep the process calm and the results lasting.</p><p>Planning work in Chhattarpur? <a href=\"/chhattarpur/contact\">Get a call back from 9th Corner</a>.</p>"
+  },
+  "services-interior-designer-for-office": {
+    "introHeading": "Offices for Growing Businesses in Chhattarpur",
+    "intro": "<p>Chhattarpur is home to many owner-run businesses: property dealers, event planners, caterers, transport firms, coaching centres and small export houses. Each needs an office that looks credible to clients and works for the team. As an interior designer for office spaces, we plan for both, often within a modest floor area.</p>",
+    "cards": [
+      [
+        "Owner-Run Business Offices",
+        "<p>In a family business, the owner's cabin, a meeting space and a records room usually matter more than a large open floor. We plan a front office that impresses visitors, a quiet cabin with storage for files and a work area for staff that is easy to supervise.</p><p>A small pantry and a clean washroom make a big difference to daily comfort.</p>"
+      ],
+      [
+        "Offices Inside Homes and Farmhouses",
+        "<p>Many owners run their work from an office on the ground floor of the house or inside the farmhouse. An interior designer for office space at home keeps it separate from family areas with its own entry, soundproofing and storage, so clients can visit without walking through the living room.</p><p>We also design reception counters and waiting seats that suit the kind of visitors you get, whether walk-in customers or corporate clients.</p>"
+      ]
+    ],
+    "features": [
+      "Comfort for Long Working Hours",
+      "<p>Chairs with proper back support, desks at the right height and screens placed away from window glare reduce fatigue. Good ventilation and steady cooling matter in summer, especially on upper floors. We also plan enough power and data points so that cables do not run across the floor.</p><p>A display wall for licences, awards or project photos helps build trust with visitors.</p>"
+    ],
+    "process": [
+      "How We Set Up Your Office",
+      "<p>We start by understanding your business, team size and how clients visit. The interior designer for office projects on our team then prepares a layout and 3D views, along with a clear cost estimate.</p><p>Our site team builds partitions, ceilings, electricals, networking and furniture, and we plan the work so your business can keep running during the fit-out wherever possible.</p>"
+    ],
+    "whyHeading": "Why Choose Us as an Interior Designer for Office Spaces in Chhattarpur",
+    "whyIntro": "<p>Small and medium businesses need value for money. We focus spending on the areas clients see and the furniture staff use every day.</p>",
+    "whyText": [
+      "Offices for traders, agencies, clinics and firms.",
+      "Plans that match how your business actually runs.",
+      "Turnkey delivery with a fixed move-in date."
+    ],
+    "whyMore": [
+      [
+        "Home Offices Done Right",
+        "Separate entry, quiet rooms and proper storage."
+      ],
+      [
+        "Spending Where It Counts",
+        "Budget focused on clients and daily use."
+      ]
+    ],
+    "galleryText": "Projects by our team in Gurgaon, Green Park and Saket, near Chhattarpur.",
+    "closingHeading": "An Office That Works as Hard as You Do",
+    "closing": "<p>The right workspace saves time every day and makes a strong first impression. A practical interior designer for office projects makes that possible within your budget.</p><p>Setting up an office in Chhattarpur? <a href=\"/chhattarpur/contact\">Talk to 9th Corner</a> about your space.</p>"
+  },
+  "services-luxury-home-interior-designs": {
+    "introHeading": "Luxury Homes and Estates Around Chhattarpur",
+    "intro": "<p>Some of Delhi's largest private homes sit on the farm estates around Chhattarpur, Satbari and Sultanpur. With so much space, the challenge is to make rooms feel grand without feeling empty. Our luxury home interior designs for these properties balance scale with warmth, so the house works for a family dinner as well as for a gathering of a hundred guests.</p>",
+    "cards": [
+      [
+        "Grand Living and Dining Halls",
+        "<p>Double-height living rooms and long dining halls need careful planning. We break large rooms into zones with rugs, furniture groups and ceiling features, and use layered lighting so the space feels intimate in the evening.</p><p>Formal dining rooms often get a large chandelier, a crockery display and a bar counter that serves both the dining area and the lawn.</p>"
+      ],
+      [
+        "Bedroom Suites and Wellness Rooms",
+        "<p>Private suites in luxury home interior designs often include a dressing room, a sitting area and a large bathroom with a steam shower or tub. Many estate homes also add a gym, a spa room or an indoor pool area, each with proper ventilation and slip-resistant floors.</p><p>Guest wings with their own entrance are popular on estates, so visiting family can stay in comfort without disturbing the main house.</p>"
+      ]
+    ],
+    "features": [
+      "Choosing Materials That Last",
+      "<p>Italian marble, onyx, solid teak and quality veneers look rich, but they also need the right care. We help you choose finishes that suit how the room is used: polished stone for formal areas, honed or textured stone near pools, sealed wood in high-traffic spaces. Fabric choices take sunlight and dust into account.</p><p>Home automation for lights, curtains, cameras and climate is planned during the design stage, not added later.</p>"
+    ],
+    "process": [
+      "How a Luxury Project Moves Forward",
+      "<p>We spend time understanding your lifestyle, your collections and the feel you want. We then turn those notes into luxury home interior designs you can review room by room, with stone and wood samples laid out side by side and 3D images of each space.</p><p>During execution, skilled craftsmen and trusted vendors work under close supervision, and no room is signed off until the joinery, stone and lighting pass our checks.</p>"
+    ],
+    "whyHeading": "What Sets Our Luxury Home Interior Designs Apart",
+    "whyIntro": "<p>Large homes need strong project management. We coordinate many trades at once and keep the site organised, secure and on schedule.</p>",
+    "whyText": [
+      "Work on large villas, estates and premium homes.",
+      "Spaces shaped around how your family lives and entertains.",
+      "Complete delivery with close site supervision."
+    ],
+    "whyMore": [
+      [
+        "Automation Planned Early",
+        "Lights, curtains and cameras built in, not bolted on."
+      ],
+      [
+        "Materials With Care Guides",
+        "Advice on keeping stone and wood looking new."
+      ]
+    ],
+    "galleryText": "Premium residences finished by our team in Gurgaon, Saket and Green Park.",
+    "closingHeading": "Space, Comfort and Character",
+    "closing": "<p>A large home should still feel personal. Our luxury home interior designs bring warmth and character to every room, however big.</p><p>Planning a luxury home or estate near Chhattarpur? <a href=\"/chhattarpur/contact\">Contact 9th Corner</a> for a private meeting.</p>"
+  },
+  "services-modern-interior-design": {
+    "introHeading": "Clean, Modern Homes in Chhattarpur",
+    "intro": "<p>New builder floors in Chhattarpur Enclave and the newer colonies suit a fresh, uncluttered look. Owners of farmhouse homes are also moving away from heavy, ornate interiors. Modern interior design gives both a calm base: simple shapes, practical furniture and plenty of light, with room for personal touches.</p>",
+    "cards": [
+      [
+        "Modern Homes in the Enclave",
+        "<p>Floors here are often compact, so we keep furniture low and light, use handle-free kitchen shutters and choose a soft palette of whites, greys and warm wood. Built-in units replace bulky almirahs, and a single feature wall in each room adds character without clutter.</p><p>Large mirrors and glass partitions help daylight reach deeper rooms.</p><p>In kids' rooms, modern does not mean plain. Bright accent colours on one wall or in the bedding keep things fun while storage stays tidy.</p>"
+      ],
+      [
+        "Modern Farmhouse Interiors",
+        "<p>A farmhouse does not have to look rustic. Modern interior design on a farm uses big glass openings to the garden, polished concrete or large-format tiles, slim steel frames and clean wooden ceilings. The result feels open and connected to the land.</p><p>Outdoor decks, pergolas and lights are kept in the same clean style, so the lawn feels like part of the house.</p>"
+      ]
+    ],
+    "features": [
+      "Keeping It Simple Without Feeling Bare",
+      "<p>A modern room can easily feel cold. We add texture through fabrics, rugs, wood grain and plants, and use warm white lighting rather than harsh cool tones. Storage is hidden so surfaces stay clear, but a few chosen objects, a painting or a sculpture, keep the room personal.</p><p>Easy-clean finishes matter too, given the dust in this part of the city.</p><p>We also suggest where to save. A modern look depends more on good proportions and lighting than on costly materials, so a sensible budget can still give a sharp result.</p>"
+    ],
+    "process": [
+      "From Brief to a Finished Modern Home",
+      "<p>We visit, measure and talk about the look you like, often with photos you have saved. Our modern interior design team then shares layouts, a material palette and 3D views.</p><p>Once approved, our site team handles carpentry, ceilings, lighting, painting and installation, and we check each room before handing over.</p>"
+    ],
+    "whyHeading": "Why Choose Us for Modern Interior Design in Chhattarpur",
+    "whyIntro": "<p>Simple design depends on careful detailing. Straight lines, flush joints and clean edges need skilled work, and we supervise that closely. Hardware and edge banding are checked piece by piece.</p>",
+    "whyText": [
+      "Designers who understand clean, current design.",
+      "Modern solutions for homes, farmhouses and offices.",
+      "One team handling the project from start to finish."
+    ],
+    "whyMore": [
+      [
+        "Precise Site Finishing",
+        "Clean lines that need careful workmanship."
+      ],
+      [
+        "Warmth in Every Room",
+        "Texture and light so modern never feels cold."
+      ]
+    ],
+    "galleryText": "Modern homes we have completed in Saket, Gurgaon and Green Park, close to Chhattarpur.",
+    "closingHeading": "A Calm Home to Come Back To",
+    "closing": "<p>After a long day, a clean and well-organised home feels like a relief. Good modern interior design creates that calm, every day.</p><p>Thinking of a modern look for your Chhattarpur home? <a href=\"/chhattarpur/contact\">Connect with 9th Corner</a>.</p>"
+  },
+  "services-residential-interior-design": {
+    "introHeading": "Homes for Chhattarpur Families",
+    "intro": "<p>Homes in Chhattarpur range from compact floors in the enclave to large family houses with several generations under one roof. Our residential interior design approach starts with the people living there: how many, what ages, who cooks, who works from home and what the family needs on a normal weekday.</p>",
+    "cards": [
+      [
+        "New Builder Floors",
+        "<p>A new floor usually comes with tiled floors, basic bathrooms and empty rooms. We add modular kitchens, wardrobes, beds with storage, TV units, study tables and false ceilings with good lighting. Colours and materials are chosen to work together from the entrance to the balcony.</p><p>We also plan for inverter batteries, water purifiers and AC units so they do not end up in awkward places.</p><p>For rental floors, we suggest durable, neutral finishes that suit future tenants as well.</p>"
+      ],
+      [
+        "Joint Family Homes",
+        "<p>In larger houses shared by parents, children and grandchildren, residential interior design must give each generation some privacy while keeping shared spaces welcoming. We plan a common living and dining area, separate sitting spaces on each floor and bedrooms with their own storage and bathrooms.</p><p>Lifts, wider doors and ramps can be planned early if elders will live in the house.</p>"
+      ]
+    ],
+    "features": [
+      "Daily Life Details",
+      "<p>A shoe cabinet and bench at the entrance. A proper puja space. A balcony or utility area for drying clothes. Enough plug points near beds and work tables. Kitchen storage for large vessels and bulk groceries. Bathrooms with good ventilation and safe flooring for elders. These details make a home easy to live in, long after the newness fades.</p>"
+    ],
+    "process": [
+      "How We Plan and Build Your Home",
+      "<p>We visit your home, take measurements and talk to the family. Our residential interior design team then prepares layouts, 3D views and a room-by-room budget.</p><p>After approval, work proceeds in stages under a supervisor, with regular updates and a careful walk-through before you move in. If the family is living in the house during the work, we plan the stages so a bathroom and the kitchen always stay usable.</p>"
+    ],
+    "whyHeading": "Why Families Choose Our Residential Interior Design",
+    "whyIntro": "<p>Your home is personal. We listen first and suggest second, and we never push expensive options you do not need. Where a cheaper option will serve you just as well, we say so.</p>",
+    "whyText": [
+      "Experience with flats, floors and large family homes.",
+      "Interiors shaped around comfort and daily habits.",
+      "Complete service from concept to the last fitting."
+    ],
+    "whyMore": [
+      [
+        "Every Family Member Heard",
+        "Rooms planned for each person's needs."
+      ],
+      [
+        "Honest Advice on Spending",
+        "No upselling on things you will not use."
+      ]
+    ],
+    "galleryText": "Family homes our team has finished in Green Park, Saket and Gurgaon.",
+    "closingHeading": "A Home Built Around Your Family",
+    "closing": "<p>A good home quietly supports everyone in it. Careful residential interior design gets the everyday things right, so you can enjoy the rest.</p><p>Planning a home in Chhattarpur? <a href=\"/chhattarpur/contact\">Book a home visit with 9th Corner</a>.</p>"
+  },
+  "services-top-interior-design-firm": {
+    "introHeading": "What to Expect From a Leading Design Firm",
+    "intro": "<p>A top interior design firm in Chhattarpur should be able to handle very different projects: a builder floor in the enclave, a family farmhouse or a showroom on MG Road. The common thread is a disciplined process, a trained site team and clear communication from the first call to the final handover.</p>",
+    "cards": [
+      [
+        "Homes and Family Houses",
+        "<p>For homes, we plan layouts, kitchens, wardrobes, bathrooms, lighting and furniture as one design. Every room comes with working drawings that the carpenter, electrician and painter can follow without guesswork.</p><p>We also help with curtains, rugs and décor so the home feels complete on the day you move in.</p><p>Older family houses often hide damp walls or tired wiring. We find these early and fix them as part of the job.</p>"
+      ],
+      [
+        "Farmhouses, Showrooms and Offices",
+        "<p>Larger and commercial projects need tighter planning. A top interior design firm coordinates many trades, schedules work around business hours or events, and keeps quality steady across big areas.</p><p>For event farmhouses, we plan work between bookings so the venue does not lose its season.</p>"
+      ]
+    ],
+    "features": [
+      "What 'Top' Should Really Mean",
+      "<p>Not the biggest office or the flashiest renders, but a team that plans properly, keeps to budgets and finishes neatly. We share detailed drawings, approved samples and a schedule at the start. Our supervisors check work daily and record progress with photos. Every snag is fixed before we hand over the keys.</p><p>Clients also get a file with warranties and care instructions for the materials used.</p>"
+    ],
+    "process": [
+      "Our Step-by-Step Approach",
+      "<p>Brief, site visit, layout, 3D design, materials, budget, execution and handover. As a top interior design firm, we give you clear sign-off points at each stage so decisions are made in time and costs stay under control.</p><p>Changes are discussed and priced before they are made, never after. A short weekly meeting, on site or by phone, keeps everyone on the same page.</p>"
+    ],
+    "whyHeading": "Why We Are a Top Interior Design Firm Worth Talking To",
+    "whyIntro": "<p>We measure our work by how clients feel a year after moving in, not just on handover day. Many of our projects come from referrals, and we work to keep it that way.</p>",
+    "whyText": [
+      "A skilled team for homes, farmhouses and businesses.",
+      "Plans matched to your space, taste and budget.",
+      "End-to-end management until the final handover."
+    ],
+    "whyMore": [
+      [
+        "Changes Priced Upfront",
+        "No surprise bills at the end."
+      ],
+      [
+        "Warranty and Care File",
+        "All documents handed over in one place."
+      ]
+    ],
+    "galleryText": "Completed projects by 9th Corner in Saket, Green Park and Gurgaon.",
+    "closingHeading": "Good Work, Done the Right Way",
+    "closing": "<p>A top interior design firm is one you would hire again. That is the standard we hold ourselves to on every project in and around Chhattarpur, big or small.</p><p>Have a project in mind? <a href=\"/chhattarpur/contact\">Speak with 9th Corner</a> today.</p>"
+  }
+}

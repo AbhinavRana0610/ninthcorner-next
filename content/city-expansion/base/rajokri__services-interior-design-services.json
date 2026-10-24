@@ -1,0 +1,28 @@
+{
+  "h1": "Interior Design Services in Rajokri, Delhi",
+  "heroImage": "'/img/cos5.avif'",
+  "intro": "<p>Our interior design services in Rajokri, Delhi cover residential, commercial, and luxury spaces with a focus on unmatched quality. We provide complete solutions from initial conceptualization to final execution, ensuring every project is visually stunning, functional, and deeply personalized. Our services include master space planning, bespoke material selection, custom furniture design, and professional project management.</p>",
+  "philosophyHeading": "Tailored Designs for Every Space",
+  "philosophy": "<p>\"We take a holistic approach, combining artistic creativity with structural practicality. By understanding your specific lifestyle or brand requirements, we craft interiors that are not only aesthetically pleasing but also sustainable, enhancing the long-term comfort, usability, and value of your property.\"</p>",
+  "cards": [
+    [
+      "Full-Cycle Execution",
+      "Our interior design services handle every phase of the project, from the first sketch to the final handover, ensuring a stress-free experience for the client."
+    ],
+    [
+      "Bespoke Solutions",
+      "Creating customized design strategies for luxury homes, high-performance offices, and innovative commercial environments."
+    ],
+    [
+      "3D Visual Planning",
+      "Utilizing high-end 3D visualization and meticulous space planning to ensure every inch of your interior is used efficiently."
+    ]
+  ],
+  "reasons": [
+    "Professional Team with Multi-Sector Experience",
+    "Attention to Detail & High-Quality Finishes",
+    "Seamless Management from Concept to Completion"
+  ],
+  "cta": "Ready to elevate your space in Rajokri? Partner with our expert design team to create an interior that perfectly balances form and function.",
+  "faq": "<!-- FAQS:auto -->\n        <section class=\"faq-section\">\n            <h2>Frequently Asked Questions</h2>\n            <div class=\"faq-list\">\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">What interior design services do you offer in Rajokri?</h3>\n                    <p class=\"faq-a\">Space planning, concept design, 3D views, working drawings, material and furniture selection, lighting and site supervision for farmhouses, homes and commercial spaces.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Can you design guest houses and staff quarters?</h3>\n                    <p class=\"faq-a\">Yes. Guest houses, staff quarters and service areas are planned along with the main house so the whole property works smoothly.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Do you work on event venues?</h3>\n                    <p class=\"faq-a\">Yes. We design banquet halls, lawns and event spaces with flexible layouts, lighting and durable finishes.</p>\n                </div>\n                <div class=\"faq-item\">\n                    <h3 class=\"faq-q\">Why choose end-to-end interior design services for a farmhouse?</h3>\n                    <p class=\"faq-a\">A farmhouse has many buildings and outdoor areas. One team handling design and supervision keeps the style and quality consistent.</p>\n                </div>\n            </div>\n        </section>\n        <!-- /FAQS:auto -->"
+}
